@@ -1,0 +1,65 @@
+#about, #about h5, #about .subtext, .blog-post h6, .blog-post p span, .blog-post p, #contact, #ajax-form input, textarea{
+    text-align: right!important;
+}
+#about .container .columns:first-child{
+    float:left!important;
+}
+#about .container .columns{
+    float:right!important;
+}
+.blog-post a p{
+    text-align:  left!important;
+}
+.blog-post .blog-icon{
+    position:static;
+    float: right;
+    margin-right: 20px;
+}
+.blog-post h6{
+    padding-left:20px;
+    padding-right:52px;
+}
+.con-info .con-icon{
+    position:static;
+    float: right;
+    margin-right: 0px;
+}
+.con-info p{
+    padding-right:60px;
+    padding-left:0;
+}
+.search_form input, .blog-post pre, .post-down p, .post-down h6, #respond #ajax-form, .widget h6, .widget_meta ul li a, ul.wp-tag-cloud, .widget_categories, .widget_archive{
+     text-align: right!important;
+}
+.search_form:before, .search_form input.search_btn{
+    left:0!important;
+}
+ .search_form input.search_btn{
+    left:0!important;
+    line-height: 135px;
+ }
+ .blog-post .tag11, .blog-post .post img, .post-down img{
+    float:right !important;
+ }
+ .blog-post .post{
+    clear:both;
+ }
+ .blog-post .post p, .blog-post .post h6, .post-down p, .post-down h6{
+    padding-left:0;
+    padding-right:120px;
+ }
+ .post-down .rpl-but{
+    left:0!important;
+ }
+ .widget_meta ul li{
+    float:right;
+    clear:both;
+ }
+ #blog-single .container .columns ul.children{
+    margin-left:0!important;
+    margin-right:60px!important;
+ }
+ .widget_categories ul li a:hover, .widget_archive ul li a:hover{
+    padding-left:20px!important;
+    padding-right:20px!important;
+ }

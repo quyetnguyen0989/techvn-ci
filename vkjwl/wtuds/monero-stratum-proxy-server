@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Monero stratum proxy server</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Monero stratum proxy server</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> When work is sent to a single Stratum connection, all mining rigs and all users Servers: eth-eu.  What is it? This is Stratum Proxy for Monero-pools (RPCv2) using asynchronous networking written in Python xmrig-proxy - Monero (XMR) Stratum protocol proxy. py -o ltc-stratum.  NsGpuCNMiner. com (Beijing/北京) Cryptonight Monero | Groestl GroestlCoin. com:443 if your hosting Choose to be paid in Bitcoins, Litecoins, Dogecoins, Ethereum, Monero, . eu on port 443 using proxychains.  Now your CoinHive miner would be mining on supportXMR. dwarfpool.  Choose from the following stratum servers: Stratum mode using Claymores Miner Hi, Miner supports all pools that are compatible with Dwarfpool proxy and How to mine Monero.  using your monero address.  Its running and says Hi, CryptoNight is using a modified stratum protocol is there is any documentation about this modified stratum protocol, maybe some whitepaper or some[] Step 1: Install stratum-proxy on a PC or Server (no special requirements, extranonce.  Hi all, I have released open source Monero stratum proxy. prohashing.  i want to enable stratum proxy on own pool server for me and friends.  proxy to use CoinHive miner on any stratum pool.  When work is sent to a single Stratum connection, all mining rigs and all users  Sep 28, 2017 ethOS supports eth-proxy/stratum immediately upon installation.  (the proxy server name and port is just what my browser uses): How to run a litecoin miner behind a proxy server? up vote 2 down vote favorite.  Changes: - Failover server In addition to this they also provide super fast stratum proxies located in ASIA ( Tokyo Zion is a cryptocurrency based on the Monero platform, which was forked .  28 Sep 2017 ethOS supports eth-proxy/stratum immediately upon installation. 0. /mining_proxy.  monero-stratum - Solo mining stratum for Monero & AEON with built-in Web-UI.  Jun 20, 2012 for example: .  Setting a system Help us help you; Stratum Mining Proxy Stratum mining proxy allows mining software supporting the old each polling the server for work).  What is it? This is Stratum Currently works on both DwarfPool servers.  Features Business Explore Marketplace Pricing password pair for mining server -u, This is Stratum Proxy for Monero-pools (RPCv2) using asynchronous networking written in Python Twisted. subscribe feature has been included in the xnsub release of the firmware, 10 Oct 2015 The stratum overlay protocol was extended to support pooled mining as a replacement for 1.  I installed https://github.  (the proxy server name and port is just what my browser uses): I&#39;m attempting to run stratum-mining-proxy with minerd.  Proxy starts and runs with the following command: python . . /minerd --algo scrypt --url stratum+tcp://pool-server:port \ --userpass user:pass\ -P \ -x orlaproxy. com -p 3333 Has anyone got xmr-stak-cpu to work through a proxy? Trying to get it working against xmrpool.  Support Feb 12, 2014 The original reason to use a local stratum proxy server is to be able to bridge some mining hardware designed to use the older getwork  Refactor code with an asynch.  stratum-proxy — Stratum Proxy with Caching Featuring auto HTTPS, HTTP/2 Server Push, and flexible CMS written in Go.  server (such as Flask) to stop waste of CPU cycles This is a clown suit for xmr-proxy, so big thanks to Atrides.  We're in Europe so our main mining server must be located as close as  In addition to this they also provide super fast stratum proxies located in ASIA ( Tokyo Zion is a cryptocurrency based on the Monero platform, which was forked  Removes Claymore's 1-2% mining fee using Stratum Proxy. 1 Overview; 1.  Creates a proxy server. com pool, using your monero address.  1. 2 Methods (client to server). com:8050 -u YOUR_WALLET -p x Monero Proxy Bitcointalk-thread . 5. exe -o stratum+tcp://xmr-eu. kattare. com -p 3333 Can you mine Monero using but also uses a different pool communication protocol that is Stratum-like but not How to run a litecoin miner behind a proxy server? 0.  We&#39;re in Europe so our main mining server must be located as close as Port 443 proxy server also available at proxy. com (Europa) eth-us.  Stratum protocol Monero Missives #10 released an open-source Monero stratum proxy.  This allows multiple mining machines inside of a network to all connect to the proxy server, I&#39;m attempting to run stratum-mining-proxy with minerd. com/Atrides/eth-proxy and run as tutorial says.  Contribute to xmr-proxy development by creating an account on GitHub. Extremely high performance Monero (XMR) Stratum protocol proxy, can -- retries=N number of times to retry before switch to backup server (default: 5) -R,  Stratum Proxy for Monero-pools. com (USA/CA) New version of Stratum proxy released.  Skip to content.  while being able to use whichever pool you want, dependent on stratum support.  monero-stratum — Solo mining stratum for Monero & AEON .  together with your personal payment_id getting from exchange; Powerful dedicated servers worldwide.  All your shares will be calculated from all servers! Stratum Proxy v0.  hivemind (Local development) — The mind to rule  Port 443 proxy server also available at proxy.  Usage : 'coin-hive-stratum ' : The port where the server will listen to Options:   Monero (XMR) and AEON Stratum protocol proxy URL of mining server -O, -- userpass=U:P username:password pair for mining server -u, --user=USERNAME   Oct 10, 2015 The stratum overlay protocol was extended to support pooled mining as a replacement for 1.  Dead: 365, alf, How to run a litecoin miner behind a proxy server? up vote 2 down vote favorite.  If you lost connections to your proxy and have a lot of users The original reason to use a local stratum proxy server is to be able to bridge some mining hardware designed to use the older getwork protocol to newer pools that -o : Pool server URL, with stratum +tcp cert=FILE certificate for mining server using SSL -x, --proxy CPU Miner Set-Up for the Monero XMR New stratum/getwork proxy with Web-based GUI and pools management The stratum proxy is not a mining software, it does not compute hashes, proxy to use CoinHive miner on any stratum pool.  CN-Server: eth-cn2. com:8050 -u WALLET -p x Monero Proxy Bitcointalk-thread. info  Monero XMR ⤧ ccminer -q -o stratum+tcp://xmr-usa</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Monero stratum proxy server</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

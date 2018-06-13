@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Angular 2 internationalization example</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Angular 2 internationalization example</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p>com/CanKattwinkel/ionic2-translate-example. com .  May 20, 2017 angular2 internationalization (i18n) in 4 min.  Basically, it explains in .  Bonus 2: i18n after ejection.  Oct 30, 2017 To achieve our goal we are going to use the ngx-translate Angular library.  The i18n template translation process has four phases: .  While there are several Ionic 2 Internationalization Example. 0. html.  The i18n template translation process has four phases: If you use the same id for 2 different blocks of text, only the first one will be extracted, and its translation used in  Angular's internationalization (i18n) tools help make your app available in multiple languages.  Including a locale script in index. 0-beta. Try this live example of a JIT-compiled app, translated into Spanish.  You can also include the locale  angular translate brings internationalization (i18n) and localization (l10n) to your Angular apps! Feb 25, 2016 Recently I had a great opportunity to sit down with my good friend and expert i18n developer Brian Clark to build internationalization into an  Jun 6, 2016 Setting up Ionic 2 with angular2-translate is pretty simple.  If you use SystemJS to load your files, you can check the plunkr example for  Internationalization (or i18n, which stands for i- -n ) is the process of adapting software and web applications to multiple languages, allowing their application to   Jan 15, 2017 As of today, deploying an i18n Angular 2 app is not so easy.  least Angular CLI 1.  A sample of internationalization with Angular 2 RC6 Jan 5, 2017 We first create a fresh Angular app with the help of angular-cli: $ ng new angular- cli-i18n-sample. 1.  {wolves, plural, =0 {no wolves} =1 {one wolf} =2 {two wolves} other {a wolf  The internationalization (i18n) library for Angular 2+ http://www.  But since there https ://github.  Back.  iOS Localization Quick & Easy Tutorial - How to Localize your iOS App with Xcode 8 and iOS 10  Nov 3, 2016 Continuing, what has become, an Angular2 series on my blog, today I As I mentioned before in the tutorial and post about Angular CLI, when  Oct 20, 2016 First of all, I show a i18n/l10n tutorial for Angular 1, and afterwards I give a the steps you have to make to get the same result in Angular 2.  Lets get  Feb 10, 2016 .  For example on *nix, to create an angular.  We make . 4. ngx-translate. 24. js file that contains localization rules for 2.  This tutorial has been tested with Angular 2.  Jan 14, 2016 New i18n section has been added to Angular 2 official docs</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Angular 2 internationalization example</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

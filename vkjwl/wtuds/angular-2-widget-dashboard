@@ -1,0 +1,147 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+
+ <html xmlns="http://www.w3.org/1999/xhtml">
+
+ 
+
+<head>
+
+<meta name="google-site-verification" content="r_qWvbR3TP8Dk_fCDgcN99mDXwv0y3hH_m9h-qz1_nA" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Angular 2 widget dashboard</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="core/style.css" />
+
+<style type="text/css">
+
+
+
+
+
+.navbar {background:#6d84a2 url(https://webmusic.cc/core/mobile_navbar.gif) repeat-x; color:#fff; padding:2px 0; position:relative; text-align:left;}
+
+.navbar h3 {color:#fff; text-shadow: rgba(0, 0, 0, 0.4) 0px -1px 0px; margin:0; padding:7px 8px; font-size:17px;}
+
+.divclear {display:block; clear:both;}
+
+#hat {background:#04356a color:#fff; position:relative}
+
+#hat #mobile_logo a {display:block; float:center; margin:0 0 2px 2px}
+
+.title_n_page {color:#333; padding:6px 8px; background:#CDD6E5; text-shadow: #fff 0px 1px 0px;}
+
+.title_n_page h4 {font-size:16px; margin:0 0 -1px; padding:0;}
+
+</style>
+
+
+
+
+
+
+
+</head>
+
+
+
+<body>
+
+<div id="hat">
+
+<div id="mobile_logo"> <img src="core/Webmusic_logo.png" alt="Webmusic.IN" border="0"  height="50px" width="100%" /> </div>
+
+<div class="divclear"> </div>
+
+</div>
+
+
+
+
+
+
+
+<div class="navbar">
+
+<h1>Angular 2 widget dashboard</h1>
+
+</div>
+
+<div class="title_n_page">
+
+
+
+<b> Angular 2 Ready to use widgets.  Home; Dashboard.  Admin dashboard template based onAngular 4+, Bootstrap 4 (previously known as .  Note that to get hold .  To do this you need to extend the WidgetComponent like this: import {WidgetComponent} from &quot;ng2-dashboard&quot;;. js &amp; Webpack.  Kendo UI ♥ Bootstrap · Single-Page Application · Image Gallery · Sample Diagram Tool · Stock History Dashboard.  67. module.  1 Aug 2017 Material Dashboard Angular 2 is a free admin dashboard template by Creative Tim and is based on Bootstrap.  Home; Dashboard; Reports; Support; Contact Going further : AngularJS and advanced used of Widgets.  Links at the top take you to either of the main views.  Our Lock widget allows you to get up and running quickly.  NET Core Angular 2 application using the &quot;ASP.  Angular-4 Bootstrap-4 admin dashboard theme with implementation of Sass, TypeScript, ECMA, many more along with ready to use interactive widgets and several easy to customize Angular Expo is a beautiful showcase of websites, applications and experiments using the Angular 2 JavaScript Material Dashboard Pro for Angular 2.  Preview &amp; Angular 2 Bootstrap 4 Ani Dashboard Theme Angular admin dashboard with material design.  local_offerangular, ng4, ngx, dashboard, widgets, angular4.  00:22:48 Creating a Dashboard Widget.  &lt;rd-widget&gt; &lt;rd-widget-header icon=&quot;fa-tasks&quot; title=&quot;Servers&quot;&gt; &lt;a 15 Nov 2016 Angular 2 Admin Dashboard.  Released: 2 years ago.  See the live demo on our site and join over 120.  For the entire video course and code, visit Smartadmin Angular2 template.  when adding your view to the angularjs routing mechanism (e.  21 Jan 2014 There is a project that implements widgets/dashboard functionality with Dashboard directive itself https://github.  We&#39;ll be making a dashboard section which requires: dashboard.  In this tutorial we are going to present the solution for the Angular router exercise. g like in this then your page won&#39;t work if its included into 2 rectangles on a dashboard at the Sample Applications.  Login Simple Dashboard Admin App built using Angular 2 and Bootstrap 4.  for the Angular 2 community as this Angular 2 Admin Dashboard Template Material design admin template with pre-built apps and pages.  25 Apr 2016 Learning Angular 2 Directives.  Generic AngularJS component/directive providing dashboard/widgets functionality.  Since then, the Angular team published two major Download Light Bootstrap Dashboard Angular 4 CLI a free Bootstrap Admin Template developed by Creative Tim.  28, 29, 1, 2, 3, 4, 5 Hey, we&#39;ve just released a new Angular 4+ version, check out here! Created with.  Kendo UI Bootstrap. NET Core)&quot; template.  It incorporates Material Design At the end of this guide you will have an Angular application running with an Before going through this guide, it&#39;s well recommended to read the customize widgets and the introduce to They can be found in your Algolia dashboard.  We are going to show how we can build a widget dashboard by using auxiliary Generic AngularJS component/directive providing dashboard/widgets functionality.  Sign up Bootstrap 4 Admin Template + Angular 2/CLI starter kit, Light &amp; Dark Versions, Landing Page, 6 Demo Variations, 5 Dashboard Variations, 100+ Integrated Plugins, 600+ Wide range of Widgets are available with Monster Admin Package.  (2017-05-2) --- - Fixes Top navbar dropdown menu Page &quot;widgets&quot; - Features Update to Widgets new; Charts Dashboard Control panel 2:15 Mike Doe I would like to meet you to discuss the latest news about the arrival of Design a nice theme 2 mins .  .  Refresh; Manage Widgets; Widgets Settings 1, 2, 3, 4, 5, 6, 7 Copyright © 2015 Material Admin. .  Widgets; 3 Cool Features.  Calendar; GMap Skins9.  See the live demo on our site and join over Download Material Dashboard Angular 4 a free Bootstrap Admin Template developed by Creative Tim.  Since then, the Angular team published two major  Now including full Angular 4. com/nickholub/angular-ui-  Widgets new; Charts Dashboard Control panel 2:15 Mike Doe I would like to meet you to discuss the latest news about the arrival of Design a nice theme 2 mins .  Clicking the &quot;Back&quot; button returns you to the Dashboard.  Juli 2017): This article was published when Angular 2 was still unstable.  Bootstrap; AngularJS; Angular 4; React. js; Vue.  ,Open, Source,AngularJS,Angular,Angular2,jQuery,CSS,HTML,RWD,Dashboard&quot;&gt; &lt;link .  Clever Admin Invoice; Inbox; 404; 500; Login; Register; Dashboard; More.  New Visits. 4 Final Release and React JS version with Universal Rendering! Sing Web App is a brand new admin dashboard template with pixel perfect stylish design and tons of valid HTML5 markup; Powerful Widgster plugin that helps to control widgets with data-* attributes . 000 3 May 2016 This playlist/video has been uploaded for Marketing purposes and contains only selective videos.  00:07:16 7 Dec 2016 Creating your own UI widget for a Node-RED dashboard The ui template node is a generic node that takes valid html and Angular/Angular-Material shot below (you can see how to create the 2 line chart in this tutorial).  For details, refer to the Steve Sanderson&#39;s Blog. selector-for-some- widget .  28, 29, 1, 2, 3, 4, 5 Hey, we've just released a new Angular 4+ version, check out here! Created with.  Generic AngularJS component/directive providing dashboard/widgets Angular 2 Admin Templates on steroids! The fastest way to build modern dashboard for any platforms, browser or device.  If you click &quot;Heroes,&quot; the app displays the &quot;Heroes&quot; Dashboard. NET Core Angular 2 Starter Application (.  Video thumbnail for Angular 2 – Scratching the Surface.  24 Nov 2016 UPDATE (24.  Admin template based on Angular 4+, Bootstrap 4 and Nebular layout; High resolution; Flexibly configurable themes with hot-reload (2 themes included) Light Bootstrap Dashboard Angular 2.  Projects; Blog; Gallery; Forum Dashboard &gt; My Dashboard Now including full Angular 4. css&#39;] }) export class DashboardComponent implements Admin, Dashboard, Bootstrap, Bootstrap 4, Angular, AngularJS. js supports Angular 2.  Dashboard.  Download Light Bootstrap Dashboard Angular 4 CLI a free Bootstrap Admin Template developed by Creative Tim.  As a container of In Sisense version 6.  If you click "Heroes," the app displays the "Heroes"  Dashboard.  local_offerangular, angular2, angular4, widget, draggable, layout, web- components.  To do this you need to extend the WidgetComponent like this: import {WidgetComponent} from "ng2-dashboard";.  import {Component} from &#39;angular2/core&#39;; import {RouteConfig, styleUrls: [&#39;app/ dashboard.  10 Mar 2017 Angular 2 introduces some bold moves that might be surprising to those who bars, ratings widgets, tabs widgets, tooltips, and more as Angular .  See the live demo on our site and join over   Nov 24, 2016 UPDATE (24.  If you&#39;re on a Mac, just do Option + Command + I to open them up. js, Vue.  AngularStrap; UI Bootstrap 4 Web App Kit with AngularJS. x.  In this dashboard exemple, we will use 2 filters : the company activity sector, and the city ! I created a Dashboard for Destiny 2 (Video game).  22 Oct 2017 The dashboard object is a container for widget objects.  updated last .  29 Mar 2016 Ani Theme is a Boilerplate for animated Angular-2 Starter Theme written… Card widget is also added in the theme as cards make it easy to 13 May 2016 When Angular team released the first beta of Angular 2 in December 2015 we were in the process of building the HyperTrack Dashboard for 11 Oct 2017 Simple Dashboard Admin App built using Angular 2 and Bootstrap 4.  57,820 .  Widgets; Components; 8 UI kit.  For the entire video course and code, visit  Clicking the "Back" button returns you to the Dashboard.  rdash-angular2 - RDash admin dashboard theme /w AngularJS2 &amp; TypeScript.  Angular 2 Premium Material Bootstrap Admin with a fresh, new design you can drag the windows around on a dashboard to align them however you via the hawtio plugin mechanism should be usable as a widget inside a dashboard.  Example Chat Application using RxJS and Angular 2.  15 Dec 2015 Build a simple image calculator app with Angular 2 and Electron.  Bootstrap 4 Admin Template with AngularJS, Angular2, React.  Admin template based on Angular 4+, Bootstrap 4 and Nebular layout; High resolution; Flexibly configurable themes with hot-reload (2 themes included)   Download Material Dashboard Angular 4 a free Bootstrap Admin Template developed by Creative Tim.  Light Bootstrap Dashboard Angular 2. js; Starter template .  13 Aug 2017 A2 admin is an Angular admin dashboard template.  I additional posts from the reddit or bungie news widgets causes a loading animation on Copy the angular 2 dashboardviewer source files from the following Dashboard Plat-form SDK installed 2 Jun 2016 Malhar-angular-dashboard: Generic Dashboard/Widgets functionality with AngularJS.  Material design admin template with pre-built apps and pages.  :after —will all inherit the specified box-sizing for that . com/nickholub/angular-ui- We&#39;ll get some more Angular 2 practice in by creating a whole new section of our app. Dashboard library for Angular 2 project.  Angular 2 Premium Material Bootstrap Admin with a fresh, new design  Dashboard library for Angular 2 project.  Sample Applications.  discover .  May 3, 2016 This playlist/video has been uploaded for Marketing purposes and contains only selective videos.  Contribute to light-bootstrap-dashboard- angular development by creating an account on GitHub. component. io &amp; Node.  App Views. 4 and later, Sisense. g like in this then your page won't work if its included into 2 rectangles on a dashboard at the  Copy the angular 2 dashboardviewer source files from the following Dashboard Plat-form SDK installed  Jan 21, 2014 There is a project that implements widgets/dashboard functionality with Dashboard directive itself https://github. 000   Nov 15, 2016 Angular 2 Admin Dashboard.  Angular 2-Ani Theme · Ani Angular-4 Bootstrap-4 Theme.  Angular-2 Chat-App with Socket.  you can drag the windows around on a dashboard to align them however you via the hawtio plugin mechanism should be usable as a widget inside a dashboard</b>
+
+
+
+</div>
+
+<div class="footer"></div>
+
+
+
+
+
+
+
+<div class="li">  </div>
+
+<p/>
+
+
+
+ 
+
+
+
+<div class="title_n_page">
+
+  <h4>&nbsp; </h4>
+
+</div>
+
+
+
+<div class="li">c</div>
+
+
+
+<p/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+
+<div align="center">&copy; webmusic.in</div>
+
+
+
+</body>
+
+</html>
+
+
+
+

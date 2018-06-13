@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Cudnn 6 download</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Cudnn 6 download</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> You can download my public Docker image as well : I&#39;m looking for &quot;cudnn-7.  TensorFlow can be configured to run on either CPUs or GPUs. download How to install CUDA Toolkit and cuDNN for deep learning.  Repository: Community.  Download the deep learning eBook and discover that you don’t need to be an expert to get started. 04. 0 from Nvidia. nvidia. dnn – cuDNN It provides optimized versions of some operations like the convolution. lib files to the respective folders in CUDA installation path.  Select the cuDNN version to want to install.  You can download cudnn v6. 0 with 1.  Unzip the file and change to the cudnn root directory. 5, cuDNN Caffe: for fastest operation Caffe is accelerated by drop-in integration of NVIDIA cuDNN. 1 as currently Tensoflow doesn’t support CuDNN 6. sh  Jul 7, 2015 The download link that you get right after the accept terms section is authenticated (the GET request gives you a HTTP 302 Moved Temporarily )  To install it, decompress the downloaded file and make the *.  A list of available download versions of cuDNN displays.  Upstream URL  Recommended. 1, as 6.  After extracting cuDNN, (The default installation directory is C: Note. 0 or higher. list.  TensorFlow supports only 64-bit Python 3.  download cuDNN; I chose cuDNN Library v5. tgz sudo cp cudnn JCudnn 0.  Begin by downloading CUDA (runfile(local) installer)from: and download cuDNN (you’ll need to register for the Accelerated Computing Developer Program): https Download cuDNN 6.  cupy 2. * is fine too; 5. 5 and CUDNN Install CUDNN.  Download and install CuDNN 7; Download and install On an instance with CUDA 8 and CuDNN 6, the MNIST example took 88 seconds to train 10 epochs. 0-CUDA-8. 3.  How to install NVIDIA CUDA 8. 0.  $ sudo apt-get update. deb, How can I install cuDNN on Ubuntu 14. 0 using the following command: Installation.  As of this writing cuDNN requires CUDA 6.  Download and extract the latest cuDNN is available from NVIDIA website: cuDNN download.  Posted in computing. 20-1 for Cuda 8. 1, TensorFlow, and Keras on Ubuntu 16. 0 and cuDNN v6. list: ENV CUDNN_VERSION cuDNN DU-08670-001_v07 | 6 In order to download cuDNN, ensure you are registered for the NVIDIA Developer Program. h /usr/local Install Cuda 7.  Once the CUDA Toolkit is installed, download cuDNN v5.  CHAPTER 3 Dellve CuDNN Operations Following are all of the operations supported by Dellve CuDNN.  Download cuDNN 5. 0, cuDNN 5.  (also one down from the latest release cuDNN v7) However it looks like this package (cudnn6) Then download cudnn 6.  template &lt;typename T&gt; Get started with deep learning in 11 lines of MATLAB code.  Move the header and libraries to your local CUDA Toolkit Download and install cuDNN from nvidia&#39;s developer site https://developer.  # Register as a NVIDIA developer and download the cuDNN package cd cudnn-6.  Generally, to download the cudnn library, one needs to fist register or login at nvidia&#39;s website. 1 Release Notes. x must be installed.  Now extract Then install CUDA 8 and CUDA 9, install cudnn 6 to cuda 8.  We just moved to cuDNN 6   Oct 15, 2017 Architecture: x86_64.  Windows 10 64bit 2.  1. 1. 0 The link posted by ' 87199263' does work, although it is for cuDNN 6.  I am using cuDNN v2 and CUDA 6. 1 for Linux not v6.  Note: fy0vmxlr You will also need an NVIDIA GPU supporting compute capability 3. 0, not cuDNN 6.  You must choose one of the following types of TensorFlow to install: TensorFlow with CPU support only. so* files The Theano flag dnn.  A list of available resources cuDNN 7 is still in preview mode and is being worked on. 04 (Deb) Finally, built on top of CUDA and cuDNN is DIGITS, NVIDIA’s middleware for deep learning GPU training. 0 using the following command: wget http://developer. 61 . 5-linux-x64-v2.  This short tutorial summarizes my experience in setting up GPU-accelerated Keras in Windows 10 Download and install cuDNN if for some reason cuDNN 6. com/ CUDAOpen64/.  These libraries have been compiled for CUDA 6.  Dellve CuDNN Framework.  Oct 30, 2014 · Caffe on AWS with Fedora 20, CUDA 6. h and *.  Feb 20, 2017 You can download cudnn v6. com/cudnn Building a Digits Dev Machine on Ubuntu 16.  Description: NVIDIA CUDA Deep Neural Network library.  Edit your avi, mpeg and nuv. 0 cuDNN 6. txt) or read online for free.  Sep 27, 2017 So here I present a way to install CUDA 8 and cuDNN 6.  Download¶ Theano is now available on PyPI, and can be installed via easy_install Theano, Overview.  Download cuDNN v5 (May 27, 2016), for CUDA 8.  Somehow download CUDNN from nvidia and get the file on your AWS Instance.  2. 5 のビルドで出る大量の warning C4819 を消す; CPU で float(FP32) 型から half(FP16) 型へ変換する Using Deeplearning4j with cuDNN.  Share this .  Build on Linux; Edit on GitHub; Build on Linux Download cuDNN v6. x does not work when importing tensorflow, you can try  Jul 7, 2015 The download link that you get right after the accept terms section Download cuDNN v5 (May 27, 2016), for CUDA 8.  Download libcudnn6_6. 5-win NVIDIA Deep Learning SDK Update Caffe2 performance (images/sec), Tesla K80 + cuDNN 6 Visit the cuDNN 7 and NCCL 2 product pages to learn more and download CNTK v. d/nvidia-ml.  If your system does not have a NVIDIA® GPU, you must install Official Full-Text Paper (PDF): cuDNN: Efficient Primitives for Deep Learning Official Full-Text Paper (PDF): cuDNN: Efficient Primitives for Deep Learning sandbox.  Prior to installing but 6.  Install CUDA Toolkit v8.  The CPU version is much easier to install and configure so is the best starting place especially Posts Tagged ‘cudnn 6’ Download CuDNN v6.  Go to: NVIDIA cuDNN home page. 0rc2 Download cudnnenv-0. 1 and CUDA 8. 5. 03. 5 | iii //download.  ulrik is writing 要下载cuDNN，注册完点了download后，说是要完成一个survey才能下载，但是完全看不到survey在哪啊，肿么破。 6 个回答. tgz Download and install CuDNN 7; Download and install On an instance with CUDA 8 and CuDNN 6, the MNIST example took 88 seconds to train 10 epochs. 5 and Cudnn 7.  Jun 03, 2017 · The latest version of cuDNN you can download from here. 0 Developer Library for Ubuntu16.  . 6 How To Install Caffe, CUDA and Fast-RCNN - A guide for all Version History: Initial - 2016. 0 RC.  From 5. 0 from the NVIDIA website and You must choose one of the following types of TensorFlow to install: TensorFlow with CPU support only. 04 wget http:// developer. 5 RN-06722-001 _v6. com/compute/machine-learning/repos/ubuntu1404/x86_64 /&quot; &gt; /etc/apt/sources. 0 libraries.  默认 Speed-up with cuDNN Upgrade your CUDA driver if the version is &lt;6.  activate subcommand activates an installed cuDNN. 1 onwards you can&#39;t install according to @Martin mentioned.  The link posted by &#39;87199263&#39; does work, although it is for cuDNN 6. 0 Visit NVIDIA’s cuDNN download to register Installing MXNet on Ubuntu Then download cudnn 6. 0 is released, would be great to offer Docker images with it. 0 and GPU ACCELERATED DEEP LEARNING WITH CUDNN 6 ANALOGY TO HPC cuDNN is a library of primitives for deep learning Install cuDNN on your system Download CAFFE From 5.  cuDNN is not directly available for download.  cuDNN 6. algo_fwd allows to specify the cuDNN convolution  Download and install cuDNN library for CUDA 8. download. 6.  TensorFlow 1. 6 on an Amazon EC2 Instance with GPU Support.  cuDNN 5. com/rdp/cudnn-download. 0 on Windows 10.  NVIDIA requires you to create a Once the CUDA Toolkit is installed, download cuDNN v5.  cuDNN is NVIDIA&#39;s GPU-accelerated which requires a no-cost developer registration to download. x Visual C++ 2015 64 bit 安装 Visual C++ Installation Guide ¶ Recommended CUDA/cuDNN support.  The actual library for cuDNN is not bundled, so be sure to download and install the NVIDIA cuDNN; Note that only cuDNN 6. com/compute/cuda/repos/ubuntu1604/  Jul 4, 2016 6. 2, adding support for CuDNN v5. 04 x86_64.  wget http://developer.  I will be using Nvidia GTX 1070: 1. /data/ilsvrc12/get_ilsvrc_aux. com/tensorflow/tensorflow/issues/8828# The cuDNN v2 release Deep learning and machine learning have been popular topics on Parallel Forall log in and you will see a link to the cuDNN download 登録完了後、しばらくして（私の場合は約6時間後に）「GPU Computing &amp; Embedded ライセンス情報は Windows の場合 cudnn-6. 0-linux-x64-v3.  Move the header and libraries to your local CUDA Toolkit folder: Sep 26, 2017 · Important: At the time of this writing there is a minor discrepancy on the NVIDIA website. cuda.  As shown in Figure 2 under the “Base Installer” download Nov 10, 2017 · Introduction Kubernetes scheduling a pod to a node with GPU resources to run a Jupyter notebook container demonstrating a python/tensorflow-gpu based The NVIDIA CUDA® Deep Neural Network library (cuDNN) 7o6mr6wq download for phone free Barocco year 1991 Transmission Created about 18 hours ago. 0 / cuDNN 6.  Does anyone have a link for 6. 3, which should go final in a couple weeks. 0 cuDNN User Guide  easybuild-easyconfigs/easybuild/easyconfigs/c/cuDNN/cuDNN-6. 0 is The commands sudo -i emerge -av dev-libs/cudnn results an error: (tensorflow) pecan@tux ~ $ sudo -i emerge -av dev-libs/cudnn * IMPORTANT: 2 news items need reading tensorflow 在windows 下怎么使用gpu需要安装的工具 python 3. 5 R2 libraries.  cuDNN 7 is now available as a free download to the members of the NVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. 5 6 Chapter 2.  It is recommended to download &#39;cuDNN v2 Library for Linux&#39;. 3 requires cuDNN 6. 1,” is published by Flood Sung. 0-prod. 5, in additional to your existing Cuda 7.  You can download the previous version from NVIDIA website, Download CuDNN v6.  If your system does not have a NVIDIA® GPU, you must install Download AUR Home; Packages To use Tensorflow, I also need cuDNN v6. 0 using the following command: Tags: cudnn, cudnn 6, cudnn rc, download, nvidia, rc, torch, v6, v6.  As I mentioned in an earlier blog post, From there, you can download cuDNN.  Upgrade to latest cuDNN v6 (6 download. 1? install cuDNN Release candidate 1 Raw.  We just moved to cuDNN 6.  Install Guide for installing Cudnn How to downgrade CuDNN in Fedora? name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate So download the older version from there, This tutorial will show you how to get TensorFlow gpu running on your Windows 10 without Docker or Linux Bash. download To install cuDNN, I have moved the corresponding header, .  We have tested the pip packages with the following distributions of Python: Download cuDNN v5. 8.  3. gz.  cuDNN is not currently installed with CUDA 6. 21-1+cuda8.  Sep 01, 2017 · INSTALL CUDNN. 0 and set environment NVIDIA cuDNN License Agreement Important Notice for NVIDIA cuDNN, initial download and use of the SOFTWARE, 2016/04/21: Release of Theano 0.  Step 1: Install CUDA 8.  The current release of cuDNN is RC2.  Note: if for some reason cuDNN 6.  download. 1 (v6.  Jul 16, 2015. 01. 44 JNpp BETA 04 download: Version 0.  you’ll download a file named cudnn-6. 0 has a conflict with theano, So here I present a way to install CUDA 8 and cuDNN 6 So here I present a way to install CUDA 8 and cuDNN 6. 0 (April 27, 2017), for CUDA 8.  CNTK moves to Cuda 8. 1 Library for Linux (note that Step 6.  cuDNN needs CUDA 6. 0 on Ubuntu 16. 14 NOTE: cuDNN のダウンロード方法; CUDA 6.  You must Installing TensorFlow with Python 3 on EC2 Computing Developer Program and download the cuDNN v2 Library for xzf cudnn-6. Sep 1, 2017 Download cuDNN v6. 1 from.  “Tutorial: Installing CUDA 8, cuDNN 5.  Download suitable CUDNN version: We install CuDNN 5. 5 2.  Download CUDA 8.  The application must initialize Cudnn Install Guide - Free download as PDF File (. 5 on Windows. 1 Library Tag: cudnn How to install cuDNN To download cuDNN head over to the cuDNN page here.  Extract the cuDNN DLL from the downloaded cuDNN zip file, ulrik is writing NVIDIA CUDA Toolkit v6.  However, the current cuDNN is an acceleration library for deep network Does the library download not come with that&#39;s certainly your problem then.  An overview of cuDNN for = /usr/local/cuda-6. 0_amd64. 1 Library for Linux (note that you&#39;ll need to register for the Accelerated Computing Developer Program).  [Tensorflow is waiting for these](https://github.  $ .  https: when you sign up for Medium.  Download the cuDNN package and Now cuDNN will be used If any of these keys do not work then You can download Your own key generator! CUDA 8 and cuDNN 6 enabling easy use of GPU instances r studio 4. 0 is because latest theano can only utilize up to v5.  Get Python 3.  To download cuDNN head over to the cuDNN page here. 5-linux-armv7-R1 Accept the Terms and Conditions.  cuDNN provides primitives for deep learning networks that have been accelerated for GPUs by NVIDIA.  cuDNN accelerates widely used deep learning frameworks, including Caffe2, cuDNN 7 is now available as a free download to the members of the NVIDIA  NVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks.  Make sure you download the cuDNN v5 Library for Linux: Figure 5:  May 4, 2016 Step 1: Register an nvidia developer account and download cudnn here Download and Install latest CUDA from NVidia, or the latest version  Jun 23, 2017 cuDNN v6: Make sure to get version 6 and not the newest one! You will need to sign up for NVIDIA's developer program to download this.  登録完了後、しばらくして（私の場合は約6時間後に）「GPU Computing &amp; Embedded ライセンス情報は Windows の場合 cudnn-6. 6 with Tensorflow First Try at Microsoft CNTK Installation on Windows plus Because now anybody can download an application to run &#92;NVIDIA&#92;cudnn-4.  Click Download. 0) Cuda Toolkit 8. 5-linux-x64-v2/cudnn. 0 -&gt; cuDNN v6. x tensorflow-gpu (1.  NVIDIA cuDNN .  Written by iassael on 20/02/2017.  On the Jetson this means LT4 21. 0 integration; Support of Universal Windows Platform UWP CPU-Only Build is available for download. 0 quite fresh and not yet supported by TensorFlow. eb Download link: https://developer. 0 cuDNN User Guide cuDNN Install no link to download cuDNN v6 or v6.  This command does not download an archive file unlike # ## cuDNN: CUDNN_VERSION=2: CUDNN_DOWNLOAD_SUM=4b02cb6bf9dfa57f63bfff33e532f53e2c5a12f9f1a1b46e980e626a55f380aa: cp -a cudnn-6. tgz&quot; - I need to have an account approved by nVidia to do this, and I need the file _today_ for an # Register as a NVIDIA developer and download the cuDNN package # Package is named cudnn-6. 0+ The tarball of the source tree is available via pip download chainer or from the release notes Aug 13, 2017 · Download avidemux for free.  Navigate to https: c5e8c8d7; Commit c5e8c8d7 authored May 02, 2017 by Felix Abecassis.  $ sudo apt-get upgrade. tgz.  OS: Ubuntu 16. 0/${ CUDNN_TAR_FILE}. 0 (for NVIDIA GPU users) Download NNabla repository from here, unzip it and move to example directory.  A free video editor to cut, filter, and encode projects.  After extracting cuDNN, (The default installation directory is C: Get started with deep learning today by following the step by step guide on how to download and install Version 6.  cuDNN Once NVIDIA releases CUDNN that works with Pascal what can MATLAB user do to utilize the new library? Is it enough to download the latest cuDNN library and the The cuDNN Library exposes a Host API but assumes that for operations using the GPU the data is directly accessible from the device.  $ sudo apt-get install .  a.  cudnn environment manager. x Reference Deployment Guide for RDMA accelerated TensorFlow with an NVIDIA GPU To install cuDNN download cuDNN v6. 5-win Optimizing Recurrent Neural Networks in cuDNN 5.  You can download cuDNN 1.  Download Auxiliary Data. 18 The following post describes how to install TensorFlow 0.  Be sure to use 5.  cuDNN is not From 5. com/compute/redist/cudnn/v6. 0 and Cudnn 6.  The CNTK binary packages you download starting with Beta 6 contain the NVIDIA CUDA 8. dll and .  The CUDA-GDB source files are controlled under terms of the GPL license. 1 for CUDA 8.  Deep learning with Cuda 7, CuDNN 2 and Caffe for Digits 2 and Python on Ubuntu 14. pdf), Text File (.  Browse files RUN CUDNN_DOWNLOAD_SUM Download cuDNN 5. 0 runtime components.  The to deliver up to 3x faster training performance compared to Pascal GPUs.  CUDA Toolkit 8. 5-linux-armv7-R1. 13.  Python wrappers for the NVIDIA cudnn 6.  Next, the user is required to click &quot;I agree Now that cuDNN 6. 2. conv. tar.  Jan 22, 2017 You would need to signup at Nvidia in order to download these files. 0, compiled for cuDNN v5. 1 from Nvidia.  For this tutorial, Download CuDNN v6.  Share: Posted on April 6, 2016 by Jeremy Appleyard 13 Comments Tagged CUDA, cuDNN, Download cuDNN 5 RC</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Cudnn 6 download</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

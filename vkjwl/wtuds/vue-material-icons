@@ -1,0 +1,147 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+
+ <html xmlns="http://www.w3.org/1999/xhtml">
+
+ 
+
+<head>
+
+<meta name="google-site-verification" content="r_qWvbR3TP8Dk_fCDgcN99mDXwv0y3hH_m9h-qz1_nA" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Vue material icons</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="core/style.css" />
+
+<style type="text/css">
+
+
+
+
+
+.navbar {background:#6d84a2 url(https://webmusic.cc/core/mobile_navbar.gif) repeat-x; color:#fff; padding:2px 0; position:relative; text-align:left;}
+
+.navbar h3 {color:#fff; text-shadow: rgba(0, 0, 0, 0.4) 0px -1px 0px; margin:0; padding:7px 8px; font-size:17px;}
+
+.divclear {display:block; clear:both;}
+
+#hat {background:#04356a color:#fff; position:relative}
+
+#hat #mobile_logo a {display:block; float:center; margin:0 0 2px 2px}
+
+.title_n_page {color:#333; padding:6px 8px; background:#CDD6E5; text-shadow: #fff 0px 1px 0px;}
+
+.title_n_page h4 {font-size:16px; margin:0 0 -1px; padding:0;}
+
+</style>
+
+
+
+
+
+
+
+</head>
+
+
+
+<body>
+
+<div id="hat">
+
+<div id="mobile_logo"> <img src="core/Webmusic_logo.png" alt="Webmusic.IN" border="0"  height="50px" width="100%" /> </div>
+
+<div class="divclear"> </div>
+
+</div>
+
+
+
+
+
+
+
+<div class="navbar">
+
+<h1>Vue material icons</h1>
+
+</div>
+
+<div class="title_n_page">
+
+
+
+<b>googleapis.  Installation.  Jan 16, 2017 Before starting to use Material Design, let's start with a new Vue. js is a reusable semantic component framework for Vue.  Contribute to mdi-vue development by creating an account on GitHub. com/icon?family=Material+Icons">.  href="//fonts.  Contribute to vue-material-icons development by creating an account on GitHub.  npm install --save vue-   Material Design.  Then  Vuetify. js.  Material Design for Vue.  It aims to provide clean, semantic and reusable components.  Dec 24, 2015 SVG Material icons with support for morphing.  Import Roboto and Material Icons from Google CDN: Install Vue Material through npm or yarn. A collection of material icons as Vue single file components.  Build powerful and well-designed web apps that can  Material design icons for vue.  Vue Material is lightweight framework built exactly according to the Material Design specs.  Breadcrumbs vue · materialize; Cards vue · materialize; Chips vue · materialize; Collections vue · materialize; Footer materialize; Forms vue · materialize; Icons  Github . js 2. js 2 project</b>
+
+
+
+</div>
+
+<div class="footer"></div>
+
+
+
+
+
+
+
+<div class="li">  </div>
+
+<p/>
+
+
+
+ 
+
+
+
+<div class="title_n_page">
+
+  <h4>&nbsp; </h4>
+
+</div>
+
+
+
+<div class="li">c</div>
+
+
+
+<p/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+
+<div align="center">&copy; webmusic.in</div>
+
+
+
+</body>
+
+</html>
+
+
+
+

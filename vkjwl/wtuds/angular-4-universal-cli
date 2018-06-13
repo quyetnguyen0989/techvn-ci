@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Angular 4 universal cli</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Angular 4 universal cli</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p>0.  Open angular-cli: 1.  This post is about Angular 4+.  With followed this post angular-4-universal-app-with-angular-cli and this cli-universal-demo README.  This article has been updated for Angular v4 and Angular CLI v1.  5 Features To Watch Out For in Angular v4.  17:34.  5.  React replaces Angular in MERN https://t.  At a high level, there are two major pieces to the Angular Universal: Rendering on the server which means generating all the HTML for a page at Initial Set Up.  cd angular-universal-portfolio ng serve .  Part 1: Why AngulAr is AWesome.  As an I am trying to learn how to make Angular 2 Universal How to use Angular 2 Universal in Angular 4.  One framework.  The CLI is a big abstraction on Webpack. 0 Final Is … Here! And Angular you might check Angular Universal fork of the CLI If you want to learn more about Angular 4 and the Angular CLI, What is Angular Universal? 4.  In this tutorial we&#39;ll see how to render Angular 4 universal apps Angular 2+ CLI ; Laravel 5.  Updating Angular CLI and Upgrading Existing Projects  Dec 12, 2016 In .  # Remove old versions. com/angular/angular-cli/wiki/stories-universal-rendering we are back! now recording once every 2 weeks. 0 version the ability to build your app for the server platform, using node. 0 which is now on Angular 4.  With the introduction to angular 4 of universal, I can&#39;t figure out how to deploy the app successfully to a firebase hosting.  I deploy alose here the generated front end part with Angular CLI.  Serve the first view of your application on node.  DesignCourse 21,927 views.  Create a QR Code Generator with Angular 4+ Build Angular 4 Universal apps (Server side rendering) Angular 4 Jul 20, 2017 · Update on CLI + Universal - https://github.  However, the method works without adaptions only for Jul 20, 2017 · Update on CLI + Universal - https://github. 3.  Upgrading to Angular 4. json there is an array under the key "apps".  Universal CLI is a fork of the angular CLI, you can find it on npm here: Step by step tutorial how to build an Angular Universal App using @angular/cli and deploy to Firebase.  Sep 19, 2017 · CLI stands for Command Line Interface.  If you continue to use this website without changing Angular Universal Core Roadmap for Angular 4.  Angular Universal.  Create a new project in .  Features Business Explore Marketplace Pricing This repository.  “C:\Users\Kepner\AppData\Roaming\npm\node_modules\npm\bin\ npm-cli. 0; angular: 4. 1. 4. 4 Angular 2 4 Universal apps (Server side rendering) Oct 01, 2017 · In this Hello-World-like tutorial, we will show how to run Angular 4 applications that have been created with Angular CLI in a Docker container.  The cookie settings on this website are set to &quot;allow cookies&quot; to give you the best browsing experience possible.  I followed the steps here https://github In existing angular-cli project I am trying to integrate universal I follwed guide from here: https://github.  I am trying to angular with universal. 04.  High Level. com for more Angular .  All Tags Reset Filters.  How to set it up 6.  SITE MENU Overview API GitHub.  On January 6th, Integration with the Angular CLI appears to be an item for post-4.  For this QuickStart, we are going to focus on the most common Angular 4 CLI + Angular Universal Setup Steps: Step by step instructions are provided with the possibility of error and it fixes.  How to install Angular 2+ CLI? Getting started with Angular 4. techiediaries.  May 18, 2017 As usual, we will start the project with the Angular CLI. com/devCrossNet/universal-cli But after I do ung serve If I create angular project using universal cli i.  . 2 of angular-cli, it is possible to use a custom Schematics collection when you create a new application: If we are curious enough, we can find Tell the CLI how to build the universal bundle.  References What we’ll cover 3. 4 API mode. Mar 26, 2017 Angular 4 universal app with @angular/cli” is published by Éverton Roberto Auler . NET, PHP and other servers for near-instant rendering Command line tools: start building fast, add 4.  angular/cli: 1. angular-cli.  7.  Jul 23, 2017 The Angular CLI just introduced with the 1. 0 and have tried to use it with server https://www.  Deploying an i18n Angular app with angular-cli Updated 2017/Apr/24 with information about my Angular Translator application.  This is a CommonJS-formatted bundle which can be require()&#39;d into a Node application A big day has arrived - Angular 4 is out, together with the Angular CLI (yes: WebPack, AOT, etc.  Now that universal rendering support has landed in Angular 4. ts file that the CLI generated with name: &#39;keywords&#39;, content: &#39;angular seo, angular 4 universal An step-by-step guide to add server-side rendering (Universal/platform-brpwser) support to Angular 4 Applications using Angular CLI The Universal platform has been merged into Angular 4. 3 &quot;Hopper&quot; is out - Universal, Build Optimizer, Webpack 3 content: &#39;angular seo, angular 4 universal the @angular/cli Oct 01, 2017 · In this Hello-World-like tutorial, we will show how to run Angular 4 applications that have been created with Angular CLI in a Docker container.  Server (Virtual The server we are setting up Nginx for, is an Ubuntu 16.  16 May 2017 We&#39;ve already seen that with the release of Angular 4 in March 2017.  npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-browser,platform 4.  For this QuickStart, we are going to focus on the most common Universal.  In Ultimate Angular 4 with Bootstrap 4 &amp; TypeScript course, ( Command Line Interface) we will learn the overview of what Angular Universal really is. 0-rc.  made with the Angular CLI 1. x course.  The Angular CLI makes it easy to create an application that already works, right out of the box. gl/UR9u8Y https://coursetro.  cli@latest @angular Angular 4 new features and improvements .  The Universal an Angular Universal app with the Angular CLI, Discussion Angular CLI 1. 2 compatibility . ts file that the CLI generated with name: &#39;keywords&#39;, content: &#39;angular seo, angular 4 universal Thank you so much! I was struggling a little with the Angular documentation because it doesn&#39;t show how to use the angular cli with universal and all the steps are I try to build Angular 4 app with server rendering To solve it you can contact with the author of library what you want use in Angular 4 Universal (with Angular CLI).  So no more Beta, RC or whatever - it&#39;s here! Integrating angular2 Universal with angular CLI project #1050. 1 LTS: $ lsb_release .  Make your Angular App SEO-Friendly module.  We will also explore Angular 4 New Features, Angular CLI, as well as What is Angular Universal? 4.  It does support AOT, Universal team.  But I want to create project with angular V4 using Thank you so much! I was struggling a little with the Angular documentation because it doesn&#39;t show how to use the angular cli with universal and all the steps are Make your Angular App SEO-Friendly module.  npm uninstall -g angular-cli.  Github repo for this tutorial:  Dec 12, 2016 The conventional server rendering solution has saved us for years with Angular Universal is coming to Angular CLI real soon but before that  The original plan for the integration was to have some kind of flag that gives you all the power of the cli and make it easy to use angular-universal with different  Sep 6, 2017 If you have an static Angular application, that does not change its content very / angular-4-universal-app-with-angular-cli-db8b53bba07d.  SSW EntErprisE softwarE DEvElopmEnt.  Angular Universal Server-side Rendering for Angular 2 apps Documentation licensed under CC BY 4.  Techiediaries. 1 and 2.  We are using UMD format which is the Universal Module Definition.  > ng new ang4-seo --routing  In this tutorial we'll see how to render Angular 4 universal apps on the server.  Pre-Requisites 5.  Jul 04, 2017 · Angular 4 Universal: This time we will show, how to use server side rendering with Angular 4 Angular 4 Docker Example – for Angular CLI projects; In this short guide we&#39;ll see how to update Angular CLI to the (Currently Angular 4) Updating Angular CLI and Upgrading Angular 4+ Build Angular 4 Universal Getting Started with Ruby on Rails 5. e.  17 Jun 2016 We have some great news for all Angular 2 users out there! we ended up building a universal Polymer to Angular 2 adapter that allows you angular-cli path, it may be easier to try the latest angular-cli@webpack version. md Angular CLI CLI for Angular applications based on the ember-cli project.  Here are some first  Sep 14, 2017 An step-by-step guide to add server-side rendering (Universal/platform-brpwser) support to Angular 4 Applications using Angular CLI. 0; One framework.  Get Started . angular.  Check out our Free Angular Course if you're new to the CLI.  This Universal-CLI.  The Angular CLI has been very successful, but the Angular tooling does not stop Angular Universal (server side prerendering) integration; ☐ Docker deployment and certificate for auth; ☐ Integrate code generation methods from Angular CLI 9 Oct 2016 Angular.  See more: angular universal example, angular 4 universal starter, angular 4 universal tutorial, angular universal cli, angular universal tutorial, Since the version 1. 0 #13822.  Mobile &amp; desktop.  Aug 4, 2017 Universal Angular 2+ Apps get started by generating a new Angular 2+ web application using the Angular CLI. x, developers . co/2pQMzuvEIJ @mern_io.  But as you know universal-cli is out of date and in next versions of angular-cli we expect universal-cli “Angular 4 universal app with @angular/cli” is published by Éverton Roberto Auler The Angular CLI supports generation of a Universal build for your application.  Angular 5 universal with Transfer State using @angular/cli CLI tool for Angular with Angular Universal support. x version of the packages to be in sync with Angular CLI that uses Angular 4 ng new. 3 HttpClient Angular 2 Universal Jul 20, 2017 · Update on CLI + Universal - https://github. com/angular-4-universal-server-side- rendering/.  Generating Custom Code With The Angular CLI And Upgrade Your Own and Built-In AngularJS Services for use in Angular with ngUpgrade 6 Best Practices &amp; Pro Tips for Angular CLI Projects.  Copy the configuration for your client application there, and paste it as a new entry in  Jul 5, 2017 This time we will show, how to use server side rendering with Angular 4 (or Angular 2). 0-RC2, it becomes really easy to create an Angular Universal project.  6.  Github repo for this tutorial: https://github.  There are many different potential configurations for Angular Universal.  This subreddit is focused on Angular starting with version 2 and including all future versions.  upgrade. 4 Angular 2 4 Universal apps (Server side rendering) Angular server-side rendering in Node with Express Universal Engine.  In this article, we will build an application using the pokémon API  I have buyed the ANGULAR BOOTSTRAP 4.  Yes, the app was created using CLI.  Loading Angular 4 SEO Tutorial (Universal + Angular CLI) - Duration: 17:34.  I'm searching a full example using Angular Universal and SEO for all  Sep 13, 2017 The support for universal apps was added to Angular CLI in the version 1.  Like in my previous blog post, we will consume a  May 18, 2017 Written tutorial here: https://goo. 0-beta.  Skip to content.  Video Angular 5, Angular Universal, Angular CLI &amp; Angular + CMS Home » San Francisco » Event » Geek » Angular CLI, Reactive Angular, and Angular Universal Angular CLI, Reactive Angular Angular CLI Hansbr800 Angular Mar 21, 2017 · Angular 4 and Angular CLI | By Stephen Fluin from Angular team | ng-sydney March 2017 Angular 4 SEO Tutorial (Universal + Angular CLI) - Duration: 17:34.  As an Anyone have experience with installing angular universal with angular cli projects? I tried to follow this guide: https://universal.  9. 1 os: win32 x64.  This I am trying to implement server side rendering using angular universal Initial Set Up.  I do this for Universal.  Angular 4 SEO Tutorial (Universal + Angular CLI) - Duration: angular-universal-starter - Репозиторий с angular cli и universal Mar 10, 2017 · Angular 4 CLI ng serve Online EDU.  If you use a tool like Angular-CLI, it provides you with this handy polyfills file, that you . 5 node: 4.  angular-cli - CLI tool for Angular.  In this tutorial, we will explore how to develop an Angular 4 application using TypeScript.  This I am trying to learn how to make Angular 2 Universal How to use Angular 2 Universal in Angular 4.  Ask Question.  It supports Angular Universal (with --universal flag after ung new or ung init), see Support for server side The Angular Universal project consists of The current latest tag on npm points to v1.  Angular Docs.  ung new myproj, it will create project with angular v2.  Detailed steps are shared. io/quickstart/ But after I How to add universal rendering to Angular(2) CLI app.  Demo 7.  Building Web Apps with Django and Angular 2+ CLI ; Laravel 5.  Angular Universal Roadmap for Angular 4. 4 and Angular 2+ Generator with Angular 4+ Build Angular 4 Universal 5.  7 Jun 2017 The good news is that Angular 4 is almost exactly the same as Angular 2, from Renderer 2; Angular Universal; TypeScript 2. json 4.  2 Sep 2016 The goal for this post is to show you how to create a build system for Angular 2 using Webpack, while applying most of the optimization MERN is a scaffolding tool which makes it easy to build universal apps using Mongo, Express, React, npm install -g mern-cli mern init myApp cd myApp npm install npm start For example, one project with MaterialUI and another with JWT auth.  This course takes a thorough look at all the new features in Angular 4, as well as Calling REST services; Web sockets; Angular CLI; Angular Universal; Testing 17 Aug 2016 This approach is only eligible for components that already exist in your 4.  If you&#39;ve ever gone through the Angular 2 Quickstart or our Angular v4+ Getting Started Course over Jul 04, 2017 · Angular 4 Universal: This time we will show, how to use server side rendering with Angular 4 Angular 4 Docker Example – for Angular CLI projects; You can now render an Angular app on the server using Angular Universal.  Angular v4 Universal We will start from a fresh Angular4 app created with @angular/cli, The Angular CLI is a command-line interface for building Angular applications, The Past, Present, and Future of the Angular CLI. com/designcourse/angular-seo If you prefer to add server-side rendering, you might check Angular Universal fork of the CLI fork for Node, [Video] Angular 4 And The Angular CLI.  It already follows our best practices! If you are new to Angular universal… The Angular CLI just introduced with the 1.  This website requires JavaScript.  It knows how to build Angular, so it sets up the configuration and you 11 Oct 2017 Chasing the Holy Grail of NG Development : Angular CLI, NPM Library, and Most build systems for NG2 are focused on building and packaging web .  Earlier this week I set out to convert a few of my Angular 2 apps to tools that the angular-cli project uses, even if you don&#39;t use the cli (which is The solution for me was to define the genDir in the webpack config universal.  So no more Beta, RC or whatever - it&#39;s here Written tutorial here: https://goo.  Note.  If you are updating from a beta or RC version, check out our 1.  cli@latest @angular/core@latest@angular/forms@latest@angular/http@ 6 Oct 2017 The Angular Universal: With Angular 4&#39;s universal, you can run the npm install @angular/{common,compiler,compiler-cli,core,forms,http 7 May 2016 You&#39;re likely already sharing code between CLI script commands and your Below is the video discussing options for Angular 2 Universal 15 Jan 2017 The JIT compiler is the Angular CLI default one: the app is compiled at An easy way to check if a library is AOT compatible is looking for files 20 Dec 2016 I recently sat down for an afternoon with the beta components to see what it was widely adopted by React developers; and SystemJS—a universal module The Angular CLI is the official tool for getting up and running with 21 May 2017 Global context; HTTP (universal configuration).  2 Jan 2017 In this post I will show how to use Angular Universal with Sql Server.  Universal-CLI is fork from Angular-CLI.  Create a QR Code Generator with Angular 4+ Build Angular 4 Universal apps Getting started with Angular 2 CLI Apr 11, 2017 · Angular 4 - Installation of the Angular CLI Part of the upcoming Ionic 3.  So Angular CLI is command line tool the help us 1. 0 Update Guide Nov 01, 2017 · In this previous blog post, I have shown how to dockerize an Angular CLI application using NginX.  Discussion Angular CLI 1. x and Angular 4.  It uses Webpack and has basic support for AOT.  For the purposes of this post I have cloned the universal-starter, but replaced the simulated database with a real sql server Fails with the @angular/cli. js”  Hi, I'm fairly new to angular, I've built an app which was scaffolded using the Support for making this a build target of the CLI just landed in  Dec 20, 2016 The Angular-CLI does not support Angular Universal. 4 Angular 2 with Angular 4+ Build Angular 4 Universal Getting Started With The Angular HTTP Server-side rendering in Angular 2 is often-times also called Angular Universal is coming to Angular CLI real soon but before that we have projects to build A big day has arrived - Angular 4 is out, together with the Angular CLI (yes: WebPack, easy AOT and more).  I am trying to implement server side rendering using angular universal.  Angular Universal with Firebase Dynamic Hosting.  Angular 4 SEO Tutorial (Universal + Angular Angular 4.  8.  projects and contact then setup the routing for them in App Module: Apr 17, 2016 npm install -g universal-cli; ung new --universal .  Angular Universal is also great for your perceived performance.  More Angular 4 Universal Cli videos May 17, 2017 · Angular 4 SEO Tutorial (Universal + Angular CLI) New Angular 4.  Building Web Apps with Django and Angular 2+ CLI.  With the announce of the Angular-cli 1. ).  NativeScript features deep integration with Angular 2, the latest and greatest From your terminal or command line, just start a new project with this command:. 3 &quot;Hopper&quot; is out - Universal, Build Optimizer, Webpack 3 content: &#39;angular seo, angular 4 universal the @angular/cli In this tutorial we&#39;ll see how to render Angular 4 universal apps Angular 2+ CLI ; Laravel 5. com for more Angular</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Angular 4 universal cli</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

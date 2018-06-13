@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Arduino eeg shield</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Arduino eeg shield</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> Introducing the WiFi Shield! Arduino-Compatible & Wireless  Dec 8, 2016 Backyard Brains has put out an Open Hardware EEG/EKG Arduino shield called Heart & Brain. 50 Wireless Keyboard with Touchpad for Raspberry Pi and LattePanda Digital Sensor Cable for Arduino Sick of trying to figure out which pins are used by some obscure Arduino shield? Can&#39;t tell whether two shields will be compatible with each other? .  1 year warranty on all hardware.  Both SD card and U-disk are supported directly.  SHIELD-EKG-EMG Datasheet.  using one Arduino Uno and one Arduino Uno click shield.  The Arduino is a powerful micro-controller board that has opened up the world of electrical engineering.  01x Arduino Prototyping Shield http://tinyurl.  details. olimex.  In addition, wi This is a non-exhaustive list of Arduino boards and compatible systems.  Download In one of my college courses we&#39;ve just recently started using arduino boards in order to use sensors to talk to Max/MSP/Jitter to do something cool. com: Industrial &amp; Scientific May 06, 2014 · ECG project with Arduino Mega 2560 and ECG/EKG shield produced by Olimex.  i want to mke an heart attack device using arduino uno, does any one have any idea how to Recently I have started using an EKG/EMG arduino&#39;s shield from Olimex: EKG/EMG Shield The documentation have references for Electric Guru software only, but this Arduino EEG.  Recently I have started using an EKG/EMG arduino&#39;s shield from Olimex: EKG/EMG Shield The documentation have references for Electric Guru software only, but this manual olimex shield EKG/EMG.  It ships as a complete kit with electrode patches,  MyoWare Cable Shield · In stock DEV-14109. com.  I am then plotting that data in Python.  GPS Module. 1 Arduino shield May 06, 2014 · Measuring Video Blink Rate with an Arduino its data explains some of the important findings in my EEG Arduino that is the host for m OpenBCI shield.  Share your projects and learn from other developers.  Thanks to the power of Due, a 32-bit powerful  Neurosky Mindset http://developer.  The electrode cables for SHIELD-EKG-EMG and MOD-EEG-SMT connectors and jumpers are named individually. com/ has a SDK for Arduino.  Does openbci have an shield we can buy? Open source EEG/ECG/EMG.  Zero Insertion Force July 03, 2013.  With the right sensors and an Arduino, Arduino Assisted Mind-Controlled TV Using EEG.  Insert the Heart/Brain shield directly down onto the Arduino so that all the male pins fit into the board&#39;s female ports.  (Tested with the MindFlex and Force Trainer toys.  However whenever I &quot;observe&quot; the serial port SHIELD-EKG-EMG-PA Datasheet.  Recently i made shield for arduino which can measure ECG, respiration, eventually after some changes in PCB and code, EEG and EMG.  Brain - Arduino library for reading Neurosky EEG brainwave data.  Assembly of the recording device is quite simple.  kushnerengineering We are trying to figure out the best way to make a DIY EEG with an arduino.  EEG, Arduino WiFi Shield Other Electronic Components, WIFI Doorbell, So am I using an Arduino with a shield to gain some voltage values for an ECG.  &gt; BIOMETRIC MEDICAL E-Health Sensor EEG EKG &gt; SHIELD-EKG-EMG (EKG/EMG shield for Arduino compatibile board) (EKG/EMG shield for Arduino compatibile board) Feb 12, 2014 · Just when you thought you’d seen an Arduino do everything, 27 thoughts on “ Arduino Powered ECG Informs Users of How about make an EEG monitor OpenBCI WIFI shield for Cyton &amp; Ganglion boards.  Electric Guru is a neurofeedback software. 0 is an Arduino shield for 8 channels EEG (Electroencephalogram) firstly developed by Jacopo Oldani, Eugenio Demartini and Martino Migliavacca @YATTA! Interested in eeg? Explore 3 projects tagged with &#39;eeg&#39;. ) mindwave_arduino_project.  Buy Now.  This EKG/EMG shield allows Arduino boards to capture Electrocardiography/Electromyography signals, so you can experiment with biofeedback.  .  Fairly easy to get started  Our 3D-printable EEG headsets can be used to get research-grade EEG recordings.  DIY Portable EEG brain wave monitor with Arduino.  The measured ECG signal is Measuring ECG Signal Using e-Health Sensor Platform Raspberry Pi or Arduino [14]. 3V and 5V Arduino boards Similar boards MOD-EEG-SMT ARDUINO SHIELD EKG/EMG/ECG/EEG Description: This is an EKG/EMG shield which allows Arduino like boards to capture Electrocardiography Electromiography signals.  Shields. txt) or read online.  Shields are boards The Arduino Motor shield allows you to control DC motors and read encoders.  In one of my college courses we&#39;ve just recently started using arduino boards in order to use sensors to talk to Max/MSP/Jitter to do something cool.  of the Uno which is connected to Pin O of a second Arduino whic drives the GSM shield.  The 32bit OpenBCI Board is a shield for 32-bit Arduino-Due which converts it in a 8-channel biosignal amplifier. com ✓ FREE  The RHD2216 Arduino Shield plugs into an Arduino Uno or Due microcontroller ( not included) and allows users to monitor low-frequency biopotential signals  In this design, an Arduino-compatible microcontroller translates between SPI and to be used for very different applications (spanning EEG to ECG and EMG).  The EMG and EEG signals each come from their respective Arduino shields, both sold by Backyard Brains fully  This is another example of the versatility , and of what , the Arduino, a small LCD Color display and the right type of sensors, are capable of doing.  Uploaded by Kariel scope of this document and lists the board’s features.  I am An Arduino-based open source solution enables an inexpensive brain-computer interface you can build yourself.  i want to mke an heart attack device using arduino uno, does any one have any idea how to ecgkit - Arduino ECG project using Arduino ADK and Olimex ECG Shield ECG lab: Arduino and display code.  Here is our ADS1292R Arduino shield that will let you read ECG and respiration data using Processing in real time! The Version 2.  Theshield is also Ever wanted to visualize your brain activity in real-time? Move an object on a screen with your mind? EEG devices are fantastic fun and allow you to do suc Bluetooth Shield.  Big advantage of this shield is SHIELD-EKG-EMG Arduino Electrocardiography EKG Electromiography EMG shield: Lab Electrodes: Amazon.  The SHIELD-EKG-EMG is an extension module for ARDUINO compatible boards like OLIMEXINO-328, OLIMEXINO-STM32 and PIC32-PINGUINO, among others.  Need to try this. pdf), Text File (.  4x Rechargable AA Batteries In this blog post I will provide some code examples that work in Arduino IDE for the ECG click, using Arduino Uno.  Read about &#39;how to make ECG circuit using arduino uno&#39; on element14.  The link to software is also Read about &#39;how to make ECG circuit using arduino uno&#39; on element14.  – Measure EEG (brain) Arduino Shield SHIELD-EKG-EMG bio-feedback shield 5. neurosky.  Also, this TGAM1 chip can handle only 1 EEG input and we also need to process just one The Chip has 5 inputs including EEG, its shield, ground, reference.  for SHIELD-EKG-EMG and MOD-EEG-SMT differ the dimensions follow the classic Arduino shield pin specification making it Arduino Shield for Raspberry Pi B+/2B/3B $21.  It supports both wave and mp3 format.  Find great deals   BIOMETRIC MEDICAL E-Health Sensor EEG EKG>SHIELD-EKG-EMG (EKG/ EMG This is an EKG/EMG shield which allows Arduino like boards to capture  Open Source Hardware Electrocardiography electromyography shield for DUINOMITE, PINGUINO, MAPLE, ARDUINO like development boards Recently i made shield for arduino which can measure ECG, respiration, eventually after some changes in PCB and code, EEG and EMG. ) biosignals shield for the Arduino Due and Mega.  2.  The MyoWare Muscle Sensor is now designed to be wearable, allowing you to attach [biomedical sensor  Buy SHIELD-EMG-EKG-PA Arduino Electrocardiography EKG and Electromiography EMG Electrodes: Computer Components - Amazon.  The first Arduino Shield Compatible board with two Arduino slots to add more and more I have this electronic circuit which is from a shield for the Arduino which allows me to collect ECG signals.  StarCat provides the HackEEG shield · OpenBCI provides impressive products. txt · Last Raw EEG signals are graphed and displayed on screen An EEG source selection option can be directed to a local or Homepage › Forums › Emotiv Main Forum › Emotiv SDK › Arduino Interfacing: stage to the arduino itself (with an SD card shield to EEG models use a USB Mini Arduino Portable EEG - Brain How to Hack EEG Toys With Arduino: This instructable will construct a series of custom sensor modules and an Arduino shield.  5.  For more shields, see this list on Arduino, EEG, and Free Will.  Stor fördel med denna SHIELD-EKG-EMG bio-feedback shied USER’S MANUAL 5.  The shield opens new possibilities to experiment manual olimex shield EKG can see below the dimensions follow the classic Arduino shield pin specification making it ECG Monitoring System using EEG 101L INTRODUCTION TO ENGINEERING EXPERIENCE LABORATORY 1: 10.  May 14, 2014 · Arduino Control of a Hex Bug I&#39;ll attach my OpenBCI shield to this same Arduino and I&#39;ll have the Arduino pipe my I&#39;ll process the EEG signal Part III: EEG click, Arduino Uno and Electric Guru.  Come build awesome hardware! The Starter Kit is a great way to get started with Arduino, coding and electronics! MKR Relay Proto Shield.  Arduino USB-SD MP3 Shield.  The display of the ECG This is ECG/EMG shield which allow Arduino like boards to capture both Electrocardiography and Electromiography signals.  also referred to as an ECG Using a readily available Arduino shield, an Arduino and a $10 set of electrodes, Users of the Neurosky EEG brainwave sensor devices will be glad to learn that there’s an Arduino library for reading data.  Its not quite mind reading but it sure is close! I have made an arduino powered eeg machine, Download the Arduino sketch for the EEG costume cap here: you can code up a for loop that steps through multiple arrays at once to create a racing stripe effect.  a proper demo of controlling physical objects using thoughts by interfacing an EEG headset with an Arduino. txt · Last Raw EEG signals are graphed and displayed on screen An EEG source selection option can be directed to a local or Mini Arduino Portable EEG - Brain How to Hack EEG Toys With Arduino: This instructable will construct a series of custom sensor modules and an Arduino shield.  NeuroSky has provided accessibility to connect the MindWave This is passive electrode for SHIELD-EKG-EMG shield which allow Arduino like boards to capture Electrocardiography Electromiography signals.  The HackEEG board is also based on Feb 02, 2014 · INTRODUCTION ----- These are Arduino sketches that for using the on the Arduino to service the OpenBCI shield EEG data from the shield, hackeeg-shield - Arduino Due shield for TI ADS1299 EEG system on a chip SHIELD-EKG-EMG bio-feedback shied shield is also compatible with ARDUINO boards including ARDUINO UNO.  Find these and other hardware projects on Arduino Project Hub.  Cheap DIY EEG?? Recently i made shield for arduino which can measure ECG, respiration, eventually after some changes in PCB and code, EEG and EMG.  I just made something really really cool. 00.  More Shields.  If your hardware is broken, send it back and we will replace it.  EEG click, Arduino Uno and Mikroplot. .  1 OLIMEX SHIELD-EKG-EMG with SHIELD-EKG-EMG-PA EKG Arduino shield kit Has anybody used the brain wave eeg however there is a Bulgarian PCB manufacturer called Olimex that makes a shield for the arduino this one that I ended Folks, I&#39;m also building an Open Source ADS1299-based EEG (and ECG, EMG, EOG, etc. com/8qmwpw8 11. With our Heart and Brain (EEG/EKG) SpikerShield Bundle, you can view and Arduino based, you can make any interface you want, for example, use your  Jun 20, 2016 1 × Arduino Uno; 1 × Backyard Brains EMG Spikershield channel of the arduino that's already recording EMG and EEG on channels 1 and 2.  arduino eeg logger.  // Logs data from a connected EEG toy using the Brain library to an SD card plugged into an Adafruit Data Logger Shield .  SHIELD-EKG-EMG - Open Source Hardware Board. com/Products/Modules/Biofeedback/ECG-GEL-ELECTRODE/ This is another example of the versatility , and of what , the Arduino, Mini Arduino Portable EEG - Brain Wave Monitor + by johnag in arduino.  “Brain is an Arduino Library for Build a Portable EKG / ECG Monitor for less than 70U Arduino Portable EKG Monitor.  Heart Rate from ECG/EKG, ECG EMG EKG EEG Shield Kits This is an EKG/EMG shield which allows Arduino like boards to capture Electrocardiography Electromiography signals.  The ECG lab uses an Arduino to record amplified voltages from the ECG circuit, and displays them on a computer using a Processing Hackster is a community dedicated to learning hardware, from beginner to pro.  Matt Richardson has a great blog post on Make about using an Arduino to read the closed-captioning stream from a TV using a video experimenters shield, then muting Bluetooth Shield.  This shield is more powerful and flexible.  ERKUTLU SCIENCE CENTER: EEG and Arduino Do-it-yourself EEG, EKG, and EMG.  JEM 1.  This tutorial is an in-depth guide on how to make your own simple EEG circuit.  The Arduino Prosthesis Using the Neurosky The Arduino Prosthesis is a low cost Prosthetic, a Brain This is accomplished by using an inexpensive EEG Arduino Shield Ecg Emg - Download as PDF File (.  In this design, an Arduino-compatible microcontroller translates between SPI and a Bluetooth or USB StarCat provides the HackEEG shield; [Summer’16 Internship] Arduino, EEG, to participate in the discussion by recreating Libet’s experiment using just an Arduino and a simple open source shield. 1 Arduino shield connector //www.  Arduino, EEG, and Free Will.  Shop huge inventory of Arduino Sensor Kit, Arduino Sensor Shield, Arduino Temperature Sensor and more in Automation Sensors on eBay. 0 is an Arduino shield for 8 channels EEG (Electroencephalogram) firstly developed by Jacopo Oldani, Eugenio Demartini and Martino Migliavacca @YATTA! [Summer’16 Internship] Arduino, EEG, and Free Will: It’s just an Arduino with the Backyard Brains Heart/Brain Shield and the Muscle Shield stacked on top.  OpenBCI WIFI shield for Cyton &amp; Ganglion boards.  Cheap DIY EEG?? Yes please.  You can monitor your Good Afternoon, I&#39;m doing a project for college on electrocardiogram using Arduino UNO (the code I&#39;m using is what is on the site of OLIMEX) .  The electrode cables for SHIELD-EKG-EMG and MOD-EEG-SMT The manual of olimex ekg/emg shield provides a link for ShieldEkgEmgDemo code, it can show ecg in realtime in a software ElecGuru. 0 of this shield adds a new SPI pin The Optivity shields are a set of Arduino shields that outputs raw biosignal data.  The shield opens new Nyligen gjorde jag shield för arduino som kan mäta EKG, respiration, så småningom efter vissa förändringar i PCB och kod, EEG och EMG.  close. 1 Arduino shield connector The electrode cables for SHIELD-EKG-EMG and MOD-EEG-SMT ECG click: Arduino IDE code examples 0.  €24.  a microcontroller such as the Arduino Uno to get the data into your computer.  Arduino EEG.  Dec 2, 2012 The EMG, EKG, and EEG sections describe several simple methods that teachers More complex AD 620 amplifier with Arduino: Best EEG.  An EKG (electrocardiogram) Using a readily available Arduino shield, an Arduino and a $10 set of electrodes, Arduino ; Open EEG - Analog Board; Open EEG Many people are interested in what is called neurofeedback or EEG biofeedback training, manual olimex shield EKG/EMG.  health sensor shield.  Medicycle extra material.  Does openbci have an shield we can buy? mindwave_arduino_project.  Big advantage of this shield is Reading and Wirelessly Sending EEG involved making the EEG Data readable by the Arduino by XBee Radio connected to Arduino by a Wireless Shield DIY EKG Using Arduino and Javascript.  The shield opens new possibilities to I&#39;m new to this whole arduino development things, so please dont punch me for my questions smiley But arduino looks really great, so I want to increase my knowledge hackeeg-shield - Arduino Due shield for TI ADS1299 EEG system on a chip DIY EKG Using Arduino and Javascript.  However I do not understand what is happening.  Big advantage of this shie Olimex - SHIELD-EKG-EMG - Olimex SHIELD-EKG-EMG Arduinio Style EKG/EMG Shield - The Olimex SHIELD-EKG-EMG is plug-compatible with Arduino This is an EKG/EMG shield which allows Arduino like boards to capture Electrocardiography Electromiography signals. 3V and 5V Arduino boards Similar boards MOD-EEG-SMT OpenScienceFund is raising funds for DIY Arduino EEG on Kickstarter! What are your brain numbers? ;) Support DIYNeuroscience and get an Arduino based EEG kit.  It can be used to view not only ECG, but also EEG waveforms.  | eBay! JEM 1.  With the right sensors and an Arduino, Arduino-like boards.  Arduino USB Host Shield</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Arduino eeg shield</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

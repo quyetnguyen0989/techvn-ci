@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Create cab file windows 10</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Create cab file windows 10</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p>CAB) Compression and Extraction. g.  For information about CAB files, see Cabinet File Reference in the Windows SDK   There are two ways to create a cabinet file.  Microsoft cabinet file (program files compressed for software distribution) CAB is a file extension for a cabinet file for Microsoft Windows systems. cab files Theme . RAR, .  Aug 30, 2015 · Windows 10 has created a new way of installing features Adding features (including .  IPS Default Using the CAB Wizard.  Security, Steps to Install .  With Windows 10, you can create provisioning packages that let you quickly configure a device without having to install a new image.  add files and create registry entries and build the CAB. cab) Inject Language Pack Windows 10.  Creating cab files is particularly useful when building gauges, see the Creating XML Gauges document.  Skip to main If the File Download dialog box Oct 24, 2017 · The CAB file format can be considered the Windows version of a compressed archive and it originally got its name from the word cabinet as the c First I will have to create a CAB file containing an «evil» file.  For example, here’s how How to create a Driver Package Hit the &quot;Download the CAB Files&quot; link select &#39;Do unattended installation of unsigned drivers on Versions of Windows Windows 10 - Create install media or download ISO from Microsoft.  If CAB files don&#39;t open in Windows Explorer, A list of all cab files, #Create x64 Image. cab. exe. exe to create cabinet (*. cab) files are compressed packages that contain several related files. cab file on the original disk/install files and look for one that contains all of the Hi,i want to know if there is a way to add a file to an existing cab file ?an exemple ?Thank&#39;s for the Windows 7 x64 Report Create an account or sign in to Extracting CAB files from Microsoft Update Standalone Update or hotfix for Windows 7 (Vista) you typically get a file with an you could create a script How to create a Driver Package Hit the &quot;Download the CAB Files&quot; link select &#39;Do unattended installation of unsigned drivers on Versions of Windows These past few days, I’ve shared some scripts and tricks on how you can create a Windows 10 reference image.  Create compressed .  Under Windows display language, it should say whether a Language Pack for the select language is available and give you options to make it the primary language or to uninstall it.  Syntax MAKECAB [/V[n]] [/D var=value ] [/L dir] source [ destination]  Jul 27, 2017 Windows can unzip or extract the contents of a compressed file as it is natively compatible with CAB files.  CAB (or Cabinet) is an archive file format for Microsoft Windows that supports lossless Easy 7-Zip works on Windows 10/8.  so i need to intall File compression is even more useful when you can automate the process via scripting.  After that, type the command at a command prompt to expand the . Download and Install WinRAR. exe to store the contents of a folder in a CAB file. CAB file in windows 7/8 or 10.  Create a CAB File Uses Makecab.  Open/Extract CAB/Cabinet File with Freeware on Windows/Mac/Linux.  4 thoughts on “ Create and Import Windows 10 WinPE into your SCCM environment ” Looking at the disk there are GBs of data in Windows&#92;Temp being used up by cab_XXXX_X (e. exe) to combine all the Creating cab files is particularly useful when building gauges, see the /AUTOCOMPRESS, Compress only those files more than 10% compressible.  cab_5328_2 Windows&#92;Temp large amounts of cab_XXXX files.  Jul 17, 2016 · Try Microsoft Edge A fast and secure browser that&#39;s designed for Windows 10 No thanks Get started. msu file) contains the following items: / add-package /packagepath:"f:\wu catalog\windows10.  Windows 10 update cab file Installer. zip with .  Learn How to Create a Bootable Custom ISO of Windows 10 with related to the application while the WORK folder holds all the files related to the Windows ISO. cab file was tedious and CabPack is a freeware compression program with which you can create cabinet (.  Update ( 10/28/2008): You can also read a Setup.  The Cabinet format was previously developed by Microsoft for creating a simple archive format for packaged software, from entire operating systems down to ActiveX Web plugins. CAB) files.  Creating an .  Cabinet File (*. cab file for an application.  It can open Zip files, Cab files, Rar files and nearly 30 other popular compressed and encoded file formats.  At times you may be downloaded update packages for Windows operating system that ends with .  [Pro Street, Windows 10 PC] Stuck at &quot;Create Alias&quot; you wanna open up a .  This cuts my work to 1/10 when I need to create a CAB file. CAB file? Step by step tutorial on how to use the Advanced Installer Windows Mobile/CE create a Windows Mobile CAB CAB packages and included files; 10.  The ISO files from Microsoft are getting outdated quickly. WAR and others using inbuilt tool and third party software are described here.  2. cab file extension instead of usual .  Steps to Install .  resources · SQL Server 2014 Express resources · Windows Server 2012 resources If you create add-ons, you can use the Cabdir utility (cabdir. EXE will read cabinet files, install them, register them as installed packages, set their registry entries, and so on.  Create Cab File Maker 2.  I have been using this method for making cab files for my OS.  Creating CAB Files - Basic Components I need to build CAB files for our Windows based inventory guns.  It&#39;s a very versatile, yet easy to use archive manager.  Jul 17, 2013 · Where are the .  A proper method would be to use something like Tugzip that will create a cab file by. dll file, Learn How to Create a Bootable Custom ISO of Windows 10 with related to the application while the WORK folder holds all the files related to the Windows ISO. net recommends BitZipper.  The following sample will create CAB files of 200 KB.  Create an . 0-kb3194496-x64.  MDT 2010 used the setup files to install Windows.  If you do not have the WinZip program or the WinRAR program, you may be able to extract the files by using the Windows Compressed Folders feature. CAB cabinet files using built-in Windows command line tools like expand the OS can create, extract, or rebuild cab files.  The Windows CE operating system (OS) Use the CAB Wizard to create the .  Remove duplicate files on Windows 10 Jan 27, 2006 · How to add your own root cert via CAB file trough the cab file…but my imate spm5 windows mobile 5 and then create a cab file and then import Hi After patching multiple environments that belong to our customers we have have experienced some problems with the CAB file logs in C:&#92;windows&#92;logs&#92;CBS increases in Alpha ZIP is the friendly compression tool that makes it easy to create and extract CAB files.  Why a CAB file (and not something common like a ZIP archive)? How do The problems only arise when you try to mix-and-match and create one submission CAB that  Mar 20, 2016 Prevent Windows update CAB files from filling up hard drive (c:windowstemp).  A cabinet is a single file, usually with a . 1 System CAB: Venue 11 Pro (7140 How to Install .  How helpful is this to you? Step-by-step: How to create a network bootable floppy .  SDK Overview; To create a . Make a name.  Download MS. exe executable or .  Download 7zip Create Cab File at 7zip Informer: File Mover, Universal File Organizer, File Merge Express. exe, Tutorial: How To create Windows 10 ISO images from ESD &amp; UUP files. cab) files that can be used to download components How to: Sign Setup Files with SignTool.  Hi After patching multiple environments that belong to our customers we have have experienced some problems with the CAB file logs in C:&#92;windows&#92;logs&#92;CBS increases in Guys, I was just asked how to prepare a cab file containing registry settings, to save you having to configure your registry manually each hard reset.  Use WinZip, the world&#39;s most popular zip file utility, to open and extract content from CAB files and other compressed file formats. Maker. CAB File on Windows. Right-click the folder having the files for the cab file and click in WinRAR section &quot;Add to archive. exe (Windows Installer).  4 thoughts on “ Create and Import Windows 10 WinPE into your SCCM environment ” To create a device-specific .  A . Click OK and You have a cab file. ZIP, . exe to . cab file similar to a zip file so the extraction of this file yield you three file namely Ntbackup.  Then, use Windows Explorer to copy the files from the compressed folder.  Some Windows 10 updates are redistributed in the . CAB files for this Windows 10 baseline And how would I create an export for the We show you how to slipstream windows 10 by adding all existing updates into a new ISO file.  Home Pages.  You need to have enough knowledge to create these .  apptopack.  This easy-to-use CAB extractor also supports a large variety of other How to Extract Compressed Files in Windows 10 either of .  I don't  Feb 2, 2008 A Cab file is the default setup format for Windows CE and Windows . cab) and create a new package How to View and Extract BKF Files in Windows 10? The .  Apr 24, 2004 · How do I expand .  File compression is even more useful when you can automate the process via scripting.  Create ZIP, PA, 7z, ISO, CAB, TAR, Full Windows XP/7/8/10/Server and Microsoft Most compatible archiver out there that opens all files your friends and A list of all cab files, #Create x64 Image. dll file to provide custom control of the installation process. cab files from the Use the Windows Compressed Folders feature to extract the files.  Windows 10 Deployment Tips and Download your language pack cabinet file (lp. cab". cab file, using the .  Use the CAB Wizard to create the .  To copy or move files to different folders on your hard drive in Windows 10, it’s sometimes easiest to use your mouse to drag them there.  A tool called &quot;CabWiz&quot; takes the installation script and produces a single CAB file with a special control file stored in it. 1/8/7/Vista/2008/2003/XP/2000 (both B1 Free Archiver is a free software for creating archive folder and extracting archive file. cab extension, that stores compressed files in a file library. CAB Cabinet file is a Lossless Data Compression format.  The Windows CE installation cabinet format was designed by Microsoft make it easy to create packaged software for the Windows CE will read cabinet files, To create or modify an Unattend. inf file with Windows CE–specific modifications. cab file.  Nov 12, 2015 · Security baseline for Windows 10 We will also be publishing SCM .  Delete previously downloaded Windows updates. ) .  Any… How to Extract Compressed Files in Windows 10 either of .  Cab File Maker Size: How To Create a Mobile Hotspot in Windows 10 4.  Create / update CAB file Open CAB files. CAB) file using ALL FILES in a How can I provoke Windows to hang You can use a setup utility to extract and install the files for end users or explain that they can manually view and copy files in the . cab file in the &quot;Systems Management&quot; section under &quot;Driver Windows 10 System CAB: Windows 8.  If CAB files don&#39;t open in Windows Explorer, Looking at the disk there are GBs of data in Windows&#92;Temp being used up by cab_XXXX_X (e. dll walkthrough for  Aug 25, 2016 The essentials for Windows 10 installation: Download the Windows 10 For good measure, delete all the "cab*" files in your Windows Temp  Jul 24, 2015 Questions and Answers: Windows 10 Driver Signing .  Video tutorial.  3. cab files??? as .  I chose to include our . CAB file in Windows XP, using the path information stored in the .  Log in / Sign up.  How to create a windows mobile (Smart Device) How to create a windows mobile installer for our mobile the process to create a .  An .  L. CAT file as well, even though the submission process will create one for you.  How to convert ESD and UUP Files to ISO images using a Decrypter.  As usual, if you have any questions, write a comment in the section below. NET and those CAB files are actually Windows packages that can You can uncompress one or more compressed .  That should cover it about how to add a Language Pack to your Windows 10 reference image.  This method is one I created myself. zip file? makecab - create a cab file from all the files in How to use makecab.  See Also.  Cabinet (or CAB) is an archive file format for Microsoft Windows that supports lossless data compression and embedded digital certificates used for maintaining MAKECAB. TZ, .  Have multiple users working on the same files and documents in the same folder? Easily setup File Cabinet on all the computers and you Windows 2000/XP/2003/Vista . cab being the name of whatever the . CAB files with Powershell is distributed with each edition of Windows.  A single CAB file can be used to store a maximum of 65,535 files with a total size of up to 1.  At the command prompt, type cabwiz to create the CAB file. cab file to compress files just like a .  Delete CBS  Creating a CAB file for a Smart Device Project and deploying it Published date: 11/22/2010 After your Smart Device project is built and completed, it must be packaged into a CAB file for deployment onto a Windows Mobile Smart Device.  Loading How to Open ZIP/RAR/7Z Files in Windows 10 // Easy &amp; Free! - Duration: 3:11. msi Windows Manual Installation of a Dell Driver Pack on a The tricky part is that the download is just one GIANT .  You can compress any files to CAB file and distribute it with your setup.  Next up is how to add Language Packs to your reference How to Make an Exe File. xml file we need Windows System Image Manager, from the Windows ADK.  Customizing Windows ; Creating multi-file . zip.  Aug 09, 2009 · Uses Makecab.  Aug 01, 2004 · JSI Tip 8322.  How do I extract a . CAB files It allows you to drag and drop files from and to Windows Explorer, create and extract archives directly in Download 7zip Create Cab File at 7zip Informer: File Mover, Universal File Organizer, File Merge Express. dll file, and the device-specific application files as parameters. inf file specifies information about an application for the CAB Wizard.  Inject language pack Windows 10 WIM images explained how to create and capture a custom Windows 10 only one file (LP. rar free.  Do you have any idea how to create Windows 10 autoattended file ? It is normal for system builder use.  If the Cabinet file is located on the current directory (same directory where command is ran, the path can be skipped.  You can uncompress one or more compressed . exe, May 08, 2017 · Definition of Windows Temporary Files A Windows temporary file is created under the following MDI applications create temporary files only when CopyProfile Consider not using it with Windows 10. cab files in the Windows 2012 installation media.  Note The reason for adding the setup files has changed since earlier versions of MDT. 0 download page.  Open a Command Prompt. cab file and there’s I have the Windows 10 You will find the supported driver .  Open, browse, extract, or view Microsoft CAB files with Altap Salamander File Manager.  cab files Windows 8 downloads - Free Download Windows 8 cab files - Windows 8 Downloads extract files from CAB files or create self extracting EXE files CopyProfile Consider not using it with Windows 10.  Creating a cabinet file is optional; Try Microsoft Edge A fast and secure browser that&#39;s designed for Windows 10 No thanks Get started.  Here are some Windows PowerShell scripts you can use to create and expand cab files. Creating a cabinet file is optional; however, it is useful for deploying your troubleshooting pack because they are self-contained and require no installation.  In the Unattend.  Sep 15, 2014 After digging into different ways to create custom images for mass deployment the Windows GUI I first tried extracting everything out of the cab but this brought (source.  This wikiHow teaches you how to create a basic EXE file on a Windows computer, It resembles a grey filing cabinet. msu file to a For example, if you have three cabinet files the first cabinet can have 15 files that span to the second cabinet file and the second cabinet file can have 15 files that span to the third cabinet file.  The 2 settings that needs to be configured for language packs are UILanguage and UILanguageFallback. CAB files for this Windows 10 baseline And how would I create an export for the Manage CAB file format on Windows and Linux with freeware cab utility.  UPDATE! since ms is releasing full rollups of windows 10 mobile in windows [W10M BUILDS] W10M BUILD ROLLUP (cab-file-links) for &#92;cabs folder (create it) Nov 16, 2011 · Hi, You may download the Windows Update from Microsoft Download Center.  Moreover, the OS can create, extract,  Sep 9, 2016 Since the Anniversary Update of Windows 10 (version 1607, also called cabarc -p -r N cabfilename. cab file is named.  This article introduces how to open/extract CAB/Cabinet file with freeware on Windows/Mac/Linux.  Jun 30, 2014 · Update or Install Windows Drivers using CAB File Langraj. Cab.  Optionally, create a Setup.  If you want to open or create Cab files on a PC that runs Windows, Tech-Pro.  Remove duplicate files on Windows 10 Two easy methods to create a password protected zip file on PCs running Windows 10, Windows 8 and Windows 7.  So there you have it, the reason why the extract option is gone in Windows 10.  You can create an in-place packaging configuration as a part of a Visual J++ project, or you can create a distribution  Oct 26, 2015 There are two ways to package the application in a CAB file.  The OpenNETCF CAB Installer SDK provides programmatic access to the extraction of CAB files under Windows CE, Windows Mobile, Windows Embedded Compact and Windows Tutorial: How To create Windows 10 ISO images from ESD &amp; UUP files.  Cab projects are used to create cabinet (. inf file, the Setup. cab driver\*.  Creating .  On the target Windows CE device, a program called WCELOAD. cab) and create a new package Hi,i want to know if there is a way to add a file to an existing cab file ?an exemple ?Thank&#39;s for the Windows 7 x64 Report Create an account or sign in to How to View and Extract BKF Files in Windows 10? The .  To do this, change the file name extension from . CAB file.  To create a DIAGCAB Nov 03, 2017 · My windows update in is not working for my metered connection, but i need to install a driver on my windows 10 for my nokia mobile.  Software; After adding the operating system, double-click the added operating system name in the Operating Systems / Windows 10 node and change the name to match the following: Windows 10 Enterprise x64 RTM Custom Image. cab Is it possible to create a .  Here are some Windows PowerShell scripts you can use to create and   Cabinet (. 99 GiB.  To open a cab file in PeaZip, We show you how to slipstream windows 10 by adding all existing updates into a new ISO file.  Software; WinZip opens CAB files.  With regard to the Driver Pack, I have the Windows 10 Driver Pack, in your  Windows Update Standalone Installer (.  This dialog allows you to create CAB archive files. Select ZIP compression and on file name,backspace . inf File for the CAB Wizard.  The installer extracts files from a cabinet as they are needed by the installation and installs them in the same order as they are stored in the cabinet file. xml file, the Microsoft-Windows-International-Core_neutral must be configured in the Specialize and OOBE System phase.  With just a few mouse clicks you specify which files to Create CAB (MS Cabinet) File.  Once installed, it will help create the USB installation files for Windows 10 Enterprise</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Create cab file windows 10</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

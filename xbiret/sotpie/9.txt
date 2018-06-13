@@ -1,0 +1,147 @@
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html><head>
+<meta http-equiv="Cache-Control" content="must-revalidate" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Cache-control" content="max-age=2" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="{keyword}" />
+<meta name="Keywords" content="{keyword}" />
+<style type="text/css">
+body{
+background-color:white;
+max-width: 500px;
+margin: 1px auto;
+font-size:medium;
+font-family: Tahoma;
+padding-left:4px;
+padding-right:4px;
+background-image:url(/images/topbk.png);
+background-repeat:repeat-x;
+}
+.read{
+background-image:none;
+}
+a {color:#1C7AB7;text-decoration: none;}
+a:hover {color:#707070;text-decoration: underline;}
+
+.logo{text-align:center;padding:2px;}
+.logo img{border:0;}
+.footer{text-align:center;color:#ADC1D0;}
+.bkm,.hard,.srch,.register,.login,.boom,.bok,.votes,.online{padding-left:15px;background:url(/images/12.png) no-repeat 2px 2px;}
+.srch{background:url(/images/49.png) no-repeat 2px 2px;}
+.set,.star,.books,.author{padding-left:20px;background:url(/images/36.png) no-repeat 2px 2px;font-weight:bold;margin-top:10px;color:#494949;margin-bottom: 10px;}
+.hard{margin-bottom: 10px;}
+.chars{margin-bottom:2px;}
+.author{background:url(/images/07.png) no-repeat 2px 2px;}
+.star{background:url(/images/star.gif) no-repeat 2px 2px;}
+.books{background:url(/images/12.png) no-repeat 2px 2px;font-weight: normal;}
+.register{background:url(/images/reg.gif) no-repeat 2px 2px;}
+.login{background:url(/images/15.gif) no-repeat 2px 2px;}
+
+.boom{background:url(/images/star.gif) no-repeat 2px 2px;}
+.bok{background:url(/images/book.gif) no-repeat 2px 2px;}
+.votes{background:url(/images/24.png) no-repeat 2px 2px;}
+.online{background:url(/images/online.gif) no-repeat 2px 2px;}
+
+.error{margin:20px 10px 20px 10px;text-align: center;}
+#request{width: 160px;}
+
+.menu, .paginator{border:1px solid #DCE3E6;background-color:white;padding:4px;margin-top:1px;text-align:center;}
+.menu a, .paginator a {font-size:mediumpt;color:#B8CBE6;padding:2px;font-weight:bold;padding-left:4px;padding-right:4px;text-decoration: none;}
+.paginator strong{font-size:mediumpt;}
+.menu a.on {padding:2px;background-color:#009738;color:white;padding-left:4px;padding-right:4px;text-decoration: none;}
+.menu a.on:hover {text-decoration: none;}
+.menu a:hover, .paginator a:hover {padding:2px;padding-left:4px;padding-right:4px;text-decoration: underline;}
+
+.body {padding:2px;}
+.rekla{font-size:mediumpt;}
+.bodyb, .rekla, .reklb {color:#1C7AB7;margin-top:2px;}
+.foot {border:3px solid #D6E3EC;text-align:center;padding:2px;margin-top:2px;background-color: white;}
+
+input, select, textarea {margin:0; font-family:Verdana; font-size:8pt; background:white; border:1pt solid #CCCCCC; color:#333333;}
+.block_form{margin:2px;}
+.block_form textarea{width: 310px;margin-bottom:5px;}
+.block_form input{margin:0;}
+input.imgrand{margin-bottom:5px;}
+.block_form img{float:left;margin-bottom:3px;}
+.rekla, .reklb, .block_material{padding-left: 5px;padding-right:5px;}
+.block_img{text-align: center;margin-top:5px;}
+.block_img img{border:1px solid #DCE3E6;padding:2px;}
+p{text-indent: 10px;}
+p#noindent{text-indent: 0;}
+div.title p{font-weight: bold;}
+.hr{border-bottom: 2px dotted #B8CBE6;margin-top: 2px;margin-bottom:2px;}
+.date{color:#009738;}
+div#fh{color:#B8CBE6;font-weight: bold;margin-left:5px;}
+div#inner,div#fh{margin-bottom:10px;margin-top:10px;}
+div#rubact{margin-top: 5px;margin-bottom:5px;}
+#white, #black, #grey, #khaki, #DarkGoldenrod, #green, #blue, #lightblue, #maroon, #gold{width:10px;height:10px;background-color:white;color:white;border:1px solid black;}
+#black{background-color:black;color:black;}
+#grey{background-color:gray;color:gray;}
+#khaki{background-color:khaki;color:khaki;}
+#DarkGoldenrod{background-color:DarkGoldenrod;color:DarkGoldenrod;}
+#green{background-color:green;color:green;}
+#blue{background-color:blue;color:blue;}
+#lightblue{background-color:lightblue;color:lightblue;}
+#maroon{background-color:maroon;color:maroon;}
+#gold{background-color:gold;color:gold;}
+#smalls{width: 100px;}
+.foot img{border:0;}
+p.boo{padding:0;background:url(/images/book.gif) no-repeat;text-indent:13px;}
+p.aut{padding:0;background:url(/images/07.png) no-repeat;text-indent:13px;}
+.charsb{padding:5px;text-align: justify;}
+.boom img{margin-right:3px;}
+.new_books{margin: 3px 0;}
+p.vote a{text-decoration: none;}
+p.vote img{margin-right:2px;border:none;}
+a.usrlnk{color:black;}
+a.usrlnk:hover{color:#B8CBE6;text-decoration: none;}
+a.modlink{color:red;}
+.ulnk{color:#B8CBE6;font-weight:bold;}
+a.ulnk:hover{color:black;text-decoration: none;}
+div.fullline{width: 100%;height:12px;border:1px solid #DCE3E6;padding:1px;}
+div.percline{height:12px;background-color: #53CE65;}
+.tdleft{text-align:right;}
+.tdright{text-align:left;padding-left:5px;width:25%;}
+.tdcenter{width:50%;}
+</style> 
+<title>{keyword}</title>
+</head>
+<body>
+<div class="logo"><img src="/images/logo.gif" alt="WapLib" /></div>
+
+<div class="core">
+
+<div class="menu">
+<h1>{keyword}</h1>
+</div>
+ 
+	<div class="block_material">
+<div class="bodyb">
+{manytext_bing}</div>
+<div class="hr"></div>
+
+<div class="bodyb">
+<div class="votes"> 
+  </div></div><div><form action="/srch/" method="POST">
+  <div class="srch"><input type="text" name="request" id="request" />
+  <input class="button" type="submit" value="Поиск" /></div>
+  </form>
+</div>
+<div class="hr"></div>
+<div>
+<div class="bkm"> </div></div></div>
+
+</div>
+
+<div class="foot">
+<img src="http://c.waplog.net/176162.cnt" alt="waplog" /><br/>
+</div>
+  
+<div class="footer">
+&copy; 2017 waplib.me<br/>Бесплатные книги<br/>
+<!--сек-->
+</div>
+</body>
+</html>

@@ -1,0 +1,147 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+
+ <html xmlns="http://www.w3.org/1999/xhtml">
+
+ 
+
+<head>
+
+<meta name="google-site-verification" content="r_qWvbR3TP8Dk_fCDgcN99mDXwv0y3hH_m9h-qz1_nA" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Owl carousel on load</title>
+
+
+
+<link rel="stylesheet" type="text/css" href="core/style.css" />
+
+<style type="text/css">
+
+
+
+
+
+.navbar {background:#6d84a2 url(https://webmusic.cc/core/mobile_navbar.gif) repeat-x; color:#fff; padding:2px 0; position:relative; text-align:left;}
+
+.navbar h3 {color:#fff; text-shadow: rgba(0, 0, 0, 0.4) 0px -1px 0px; margin:0; padding:7px 8px; font-size:17px;}
+
+.divclear {display:block; clear:both;}
+
+#hat {background:#04356a color:#fff; position:relative}
+
+#hat #mobile_logo a {display:block; float:center; margin:0 0 2px 2px}
+
+.title_n_page {color:#333; padding:6px 8px; background:#CDD6E5; text-shadow: #fff 0px 1px 0px;}
+
+.title_n_page h4 {font-size:16px; margin:0 0 -1px; padding:0;}
+
+</style>
+
+
+
+
+
+
+
+</head>
+
+
+
+<body>
+
+<div id="hat">
+
+<div id="mobile_logo"> <img src="core/Webmusic_logo.png" alt="Webmusic.IN" border="0"  height="50px" width="100%" /> </div>
+
+<div class="divclear"> </div>
+
+</div>
+
+
+
+
+
+
+
+<div class="navbar">
+
+<h1>Owl carousel on load</h1>
+
+</div>
+
+<div class="title_n_page">
+
+
+
+<b> 1. owl. lazy . on('initialized. Lazy Load carousel.  This gives You could also trigger events by yourself to control Owl Carousel: load.  2.  i want the container show 3 images. location.  Great for mobile devices to speed up page loadings.  Events are provided by Owl Carousel in strategic code locations. ready(function() { $('# slider').  But, here is the picture when first load.  21. carousel change.  First load, before browser get resize. animate({  Maximize HTML Editor; Minimize HTML Editor. carousel  Dec 2, 2015 You can hide the carousel items with display: none; in your CSS, then show them after the carousel has initialized by binding a handler to the  Apr 21, 2016 This is independent of owlCarousel so don't have to wait for it to finish loading! var images = $('#carousel img'); var firstImgHeight  owlCarousel({ items : 3 });.  Delays loading of images.  Setup.  If you set above settings not on but on other DOM element then Owl will load an image into css inline background style. hash) { $('html, body').  .  Images outside of viewport wont be loaded before user scrolls to them.  Sep 10, 2014 You have to use the initialized event for this: $(document). hash ) scroll(0,0); setTimeout( function() { scroll(0,0); }, 1); $( function() { if(window.  Jan 30, 2016 if ( window</b>
+
+
+
+</div>
+
+<div class="footer"></div>
+
+
+
+
+
+
+
+<div class="li">  </div>
+
+<p/>
+
+
+
+ 
+
+
+
+<div class="title_n_page">
+
+  <h4>&nbsp; </h4>
+
+</div>
+
+
+
+<div class="li">c</div>
+
+
+
+<p/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+
+<div align="center">&copy; webmusic.in</div>
+
+
+
+</body>
+
+</html>
+
+
+
+

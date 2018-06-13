@@ -1,0 +1,1426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fitness v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-30 16:22+0700\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ fitness
+#: 404.php:11 404.php:18
+msgid "404"
+msgstr ""
+
+# @ fitness
+#: 404.php:20
+msgid "The page you are looking for no longer exists. Perhaps you can return back to the sites homepage see you can find what you are looking for."
+msgstr ""
+
+# @ fitness
+#: 404.php:22
+msgid "Back To Home"
+msgstr ""
+
+# @ fitness
+#: archive.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ fitness
+#: archive.php:16
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ fitness
+#: archive.php:16
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ fitness
+#: archive.php:22
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ fitness
+#: archive.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ fitness
+#: archive.php:28
+msgid "Archives"
+msgstr ""
+
+# @ fitness
+#: archive.php:73 author.php:42 category.php:43 index.php:51
+#: page-templates/template-blog-fullwidth.php:45
+#: page-templates/template-blog-left.php:48
+#: page-templates/template-blog-right.php:45 tag.php:43
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ fitness
+#: author.php:6
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ fitness
+#: category.php:7
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ fitness
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ fitness
+#: comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ fitness
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+# @ fitness
+#: comments.php:67
+msgid "Leave a reply"
+msgstr ""
+
+# @ fitness
+#: comments.php:71
+msgid "Name *"
+msgstr ""
+
+# @ fitness
+#: comments.php:71
+msgid "your name"
+msgstr ""
+
+# @ fitness
+#: comments.php:73
+msgid "Email *"
+msgstr ""
+
+# @ fitness
+#: comments.php:73
+msgid "your email"
+msgstr ""
+
+# @ fitness
+#: comments.php:77
+msgid "Message *"
+msgstr ""
+
+# @ fitness
+#: comments.php:77
+msgid "your comment"
+msgstr ""
+
+# @ fitness
+#: comments.php:79
+msgid "Send Message"
+msgstr ""
+
+# @ fitness
+#: content-audio.php:19 content-gallery.php:18 content-image.php:25
+#: content-video.php:19 content.php:15 single.php:77 single.php:119
+msgid "0 comment"
+msgstr ""
+
+# @ fitness
+#: content-audio.php:19 content-gallery.php:18 content-image.php:25
+#: content-video.php:19 content.php:15 single.php:77 single.php:119
+msgid "1 comment"
+msgstr ""
+
+# @ fitness
+#: content-audio.php:19 content-gallery.php:18 content-image.php:25
+#: content-video.php:19 content.php:15 single.php:77 single.php:119
+msgid "% comments"
+msgstr ""
+
+# @ fitness
+#: content-audio.php:22 content-gallery.php:21 content-image.php:30
+#: content-video.php:22 content.php:18
+msgid "Read more"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:38
+msgid "Format Details"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:66
+msgid "Image"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:94
+msgid "Gallery"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:118
+msgid "Quote"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:150
+msgid "Author"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:174
+msgid "Audio"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:210
+msgid "Video"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:253
+msgid "Page Details"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:265
+msgid "Background Image Page Sub-header"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:273
+msgid "Subtitle Header"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:289
+msgid "Job Of Person"
+msgstr ""
+
+# @ fitness
+#: framework/meta-boxes.php:303 vc_shortcode.php:861
+msgid "Job"
+msgstr ""
+
+# @ redux-framework-demo
+#: framework/sample-config.php:281
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:293 framework/sample-config.php:299
+msgid "Current theme preview"
+msgstr ""
+
+# @ redux-framework-demo
+#: framework/sample-config.php:317
+#, php-format
+msgid "By %s"
+msgstr ""
+
+# @ redux-framework-demo
+#: framework/sample-config.php:319
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+# @ redux-framework-demo
+#: framework/sample-config.php:321
+msgid "Tags"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:331
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+# @ redux-framework-demo
+#: framework/sample-config.php:331
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:385
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:397
+msgid "Custom Favicon"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:401
+msgid "Upload your Favicon."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:412
+msgid "Logo"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:414
+msgid "logo."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:429
+msgid "Blog Settings"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:436
+msgid "Background Header"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:439
+msgid "."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:449
+msgid "The Blog Title"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:451
+msgid "Title Blog"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:465
+msgid "Blog custom excerpt leng"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:467
+msgid "Input Blog custom excerpt leng"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:481
+msgid "Footer Settings"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:487
+msgid "Footer Text"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:488
+msgid "Copyright Text"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:494
+msgid "Facebook Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:501
+msgid "Google+ Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:508
+msgid "Twitter Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:515
+msgid "Github Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:522
+msgid "Youtube Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:529
+msgid "Linkedin Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:536
+msgid "Dribbble Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:543
+msgid "Behance Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:550
+msgid "Instagram Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:557
+msgid "Skype Url"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:568
+msgid "Styling Options"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:574
+msgid "Theme Version"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:575
+msgid "Dark or White"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:592
+msgid "Theme Main Color"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:594
+msgid "Pick the main color for the theme (default: ##0097d3)."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:607
+msgid "Header Background Color"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:609
+msgid "Pick a background color for the header (default: Transparent)."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:622
+msgid "Header Scroll Background Color"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:624
+msgid "Pick a background color for the header scroll (default: #101010)."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:637
+msgid "Text Color Header"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:639
+msgid "Pick a  color for the header (default: #ffffff)."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:653
+msgid "Footer Background Color"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:655
+msgid "Pick a background color for the footer (default: #212737)."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:668
+msgid "Text Color Footer"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:670
+msgid "Pick a  color for the footer (default: #ffffff)."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:686
+msgid "Body Font"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:688
+msgid "Specify the body font properties."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:714
+msgid "CSS Code"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:716
+msgid "Paste your CSS code here."
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:736
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:738
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:740
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:748
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:762 framework/sample-config.php:828
+msgid "Documentation"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:800
+msgid "Theme Information"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:802
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:850
+msgid "Theme Information 1"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:852 framework/sample-config.php:864
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:862
+msgid "Theme Information 2"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:872
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:902 framework/sample-config.php:904
+msgid "fitness Options"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:1036
+#, php-format
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:1040
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+# @ fitness
+#: framework/sample-config.php:1048
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+# @ fitness
+#: framework/widget/recentpost.php:33 framework/widget/recentpost.php:81
+msgid "Latest News"
+msgstr ""
+
+# @ fitness
+#: framework/widget/recentpost.php:45
+msgid "Latest News fitness"
+msgstr ""
+
+# @ fitness
+#: framework/widget/recentpost.php:212
+msgid "Title:"
+msgstr ""
+
+# @ fitness
+#: framework/widget/recentpost.php:220
+msgid "Show date time"
+msgstr ""
+
+# @ fitness
+#: framework/widget/recentpost.php:224
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ fitness
+#: functions.php:58
+msgid "Main Menu"
+msgstr ""
+
+# @ fitness
+#: functions.php:79
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ fitness
+#: functions.php:159
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ fitness
+#: functions.php:163
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ fitness
+#: functions.php:228
+msgid "type to search and hit enter"
+msgstr ""
+
+# @ fitness
+#: functions.php:247
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ fitness
+#: functions.php:257
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpb
+#: functions.php:313
+msgid "Fullwidth"
+msgstr ""
+
+# @ wpb
+# @ fitness
+#: functions.php:319 vc_shortcode.php:1031 vc_shortcode.php:1207
+#: vc_shortcode.php:1421
+msgid "No"
+msgstr ""
+
+# @ wpb
+# @ fitness
+#: functions.php:321 vc_shortcode.php:1033 vc_shortcode.php:1209
+#: vc_shortcode.php:1422
+msgid "Yes"
+msgstr ""
+
+# @ wpb
+#: functions.php:325
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ wpb
+# @ fitness
+#: functions.php:338 vc_shortcode.php:1417
+msgid "Animate"
+msgstr ""
+
+# @ wpb
+#: functions.php:344
+msgid "None"
+msgstr ""
+
+# @ wpb
+#: functions.php:346
+msgid "Fade In Up"
+msgstr ""
+
+# @ wpb
+#: functions.php:348
+msgid "Fade In Down"
+msgstr ""
+
+# @ wpb
+#: functions.php:350
+msgid "Fade In"
+msgstr ""
+
+# @ wpb
+#: functions.php:352
+msgid "Fade In Left"
+msgstr ""
+
+# @ wpb
+#: functions.php:354
+msgid "Fade In Right"
+msgstr ""
+
+# @ wpb
+#: functions.php:360
+msgid "Select Animate , Default: None"
+msgstr ""
+
+# @ fitness
+#: page-templates/template-canvas.php:22 page-templates/template-element.php:47
+#: page.php:49
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ fitness
+#: page.php:36 single.php:84
+msgid "Pages:"
+msgstr ""
+
+# @ fitness
+#: page.php:40 single.php:88
+msgid "Page"
+msgstr ""
+
+# @ fitness
+#: search.php:7
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+# @ fitness
+#: search.php:43
+msgid "Nothing Found"
+msgstr ""
+
+# @ fitness
+#: search.php:44
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+# @ fitness
+#: shortcodes.php:182
+msgid "Enter your email address"
+msgstr ""
+
+# @ fitness
+#: single.php:105
+msgid "Next"
+msgstr ""
+
+# @ fitness
+#: single.php:106
+msgid "Next post:"
+msgstr ""
+
+# @ fitness
+#: single.php:108
+msgid "Previous"
+msgstr ""
+
+# @ fitness
+#: single.php:109
+msgid "Previous post:"
+msgstr ""
+
+# @ theway
+#: tag.php:7
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:11
+msgid "OT Heading"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:51
+msgid "Text"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:63
+msgid "Heading"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:77
+msgid "Element Tag"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:87
+msgid "h1"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:91
+msgid "h2"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:95
+msgid "h3"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:99
+msgid "h4"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:103
+msgid "h5"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:107
+msgid "h6"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:111
+msgid "p"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:115
+msgid "div"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:121
+msgid "Section Element Tag"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:131
+msgid "Text Align"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:137
+msgid "left"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:139
+msgid "right"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:141
+msgid "center"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:143
+msgid "justify"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:149
+msgid "Section Overlay"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:171
+msgid "Font Size"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:183
+msgid "Ex: 14px"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:193
+msgid "Color"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:215
+msgid "Margin Bottom"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:249
+msgid "Class Extra"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:281
+msgid "OT Buttons"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:302 vc_shortcode.php:968 vc_shortcode.php:1396
+msgid "Icon"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:308
+msgid "Ex: download. Find here: <a target='_blank' href='https://icomoon.io/#preview-free'>https://icomoon.io/#preview-free</a>"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:319
+msgid "Button Text"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:336
+msgid "Button Link"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:347
+msgid "Style Button"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:350 vc_shortcode.php:406 vc_shortcode.php:1406
+msgid "Select Style"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:351 vc_shortcode.php:1407
+msgid "Small"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:352 vc_shortcode.php:1408
+msgid "Medium"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:353
+msgid "Large"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:354
+msgid "Small/Background: transparent"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:355
+msgid "Medium/Background: transparent"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:356
+msgid "Large/Background: transparent"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:357
+msgid "Small/White"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:358
+msgid "Medium/White"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:359
+msgid "Large/White"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:360
+msgid "Small/dark"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:361
+msgid "Medium/dark"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:362
+msgid "Large/dark"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:377
+msgid "OT Line Solid"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:390
+msgid "Use for Style 1: Icon. Ex: credit. Find here: <a target='_blank' href='https://icomoon.io/#preview-free'>https://icomoon.io/#preview-free</a>"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:399
+msgid "Use for Style 2: Text"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:403 vc_shortcode.php:1403
+msgid "Style"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:407
+msgid "Style 1: Icon"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:408
+msgid "Style 2: Title"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:411
+msgid "Style for Line Solid"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:426
+msgid "OT Skills Box"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:446
+msgid "Skill 1"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:463
+msgid "Percent 1"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:480
+msgid "Skill 2"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:497
+msgid "Percent 2"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:514
+msgid "Skill 3"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:531
+msgid "Percent 3"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:548
+msgid "Skill 4"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:565
+msgid "Percent 4"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:582
+msgid "OT Pricing Table"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:592
+msgid "Title Pricing"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:595
+msgid "Title display in Pricing Table."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:602
+msgid "Price Pricing"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:605
+msgid "Price display in Pricing Table."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:611
+msgid "Per Month"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:614
+msgid "Per Month display in Pricing Table."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:620
+msgid "Detail Pricing"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:623
+msgid "Content Pricing Table."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:629
+msgid "Label Button"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:632
+msgid "Text display in button."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:638
+msgid "Link Button"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:641
+msgid "Link in button, Leave a blank do not show."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:652
+msgid "OT Newsletters"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:672
+msgid "Button Submit"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:693
+msgid "OT Call To Action Box"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:713 vc_shortcode.php:1170
+msgid "Title Box"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:730 vc_shortcode.php:870
+msgid "Icon 1"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:736 vc_shortcode.php:787 vc_shortcode.php:974
+#: vc_shortcode.php:1158 vc_shortcode.php:1399
+msgid "Find here: <a target='_blank' href='https://icomoon.io/#preview-free'>https://icomoon.io/#preview-free</a>"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:747
+msgid "Label Button 1"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:764
+msgid "Link Button 1"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:781 vc_shortcode.php:888
+msgid "Icon 2"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:798
+msgid "Label Button 2"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:815
+msgid "Link Button 2"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:833
+msgid "OT Our Team"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:852
+msgid "Name"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:855
+msgid "Member's Name"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:864
+msgid "Member's job."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:873 vc_shortcode.php:891 vc_shortcode.php:909
+#: vc_shortcode.php:927
+msgid "EX: facebook, twitter,linkedin... Find here: <a target='_blank' href='https://icomoon.io/#preview-free'>https://icomoon.io/#preview-free</a>"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:882 vc_shortcode.php:900 vc_shortcode.php:918
+#: vc_shortcode.php:936
+msgid "Url."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:906
+msgid "Icon 3"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:924
+msgid "Icon 4"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:948
+msgid "OT Facts Box"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:985
+msgid "Number"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1002
+msgid "Title"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1015
+msgid "Color Title"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1025 vc_shortcode.php:1201
+msgid "Do You Want Border-Right?"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1029 vc_shortcode.php:1205
+msgid "Select"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1050
+msgid "OT Clients Logo"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1076 vc_shortcode.php:1116
+msgid "Note: Add link to <b>caption</b> image."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1090
+msgid "OT Slider"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1132
+msgid "OT Services Box"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1188
+msgid "Content Box"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1233
+msgid "OT Testimonial"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1249
+msgid "Number Show"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1265
+msgid "OT Social"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1282
+msgid "Link twitter"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1291
+msgid "Link github"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1300
+msgid "Link dribbble"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1309
+msgid "Link linkedin"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1318
+msgid "Link behance"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1327
+msgid "Link facebook"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1336
+msgid "Link instagram"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1345
+msgid "Link youtube"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1354
+msgid "Link skype"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1363
+msgid "Link google"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1380
+msgid "OT Icons"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1409
+msgid "Square-Small"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1410
+msgid "Circle-Medium"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1411
+msgid "Circle-Large"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1413
+msgid "Section Style"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1440
+msgid "OT Google Map"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1460
+msgid "ID Map"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1466
+msgid "Ex: map-canvas, Please enter ID Map, map-canvas1, map-canvas2, map-canvas3, ..etc"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1478
+msgid "Height Map"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1484
+msgid "Please enter number height Map, 300, 350, 380, ..etc. Default: 250."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1496
+msgid "Latitude"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1502
+msgid "Please enter <a href='http://www.latlong.net/'>Latitude</a> google map. Default: 53.3525963."
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1514
+msgid "Longitude"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1520
+msgid "Please enter <a href='http://www.latlong.net/'>Longitude</a> google map. Default: -6.2623117"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1534
+msgid "Zoom Map"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1540
+msgid "Please enter Zoom Map, Default: 18"
+msgstr ""
+
+# @ fitness
+#: vc_shortcode.php:1559
+msgid "Icon Map marker, 58 x 67"
+msgstr ""
+
+# @ js_composer
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+# @ js_composer
+#: vc_templates/vc_accordion_tab.php:13
+msgid "Empty section. Edit page to add content here."
+msgstr ""

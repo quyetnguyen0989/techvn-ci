@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Kcptun openwrt</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Kcptun openwrt</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p>build-deps curl &#92; &amp;&amp; mkdir -p /opt/kcptun bettermanbao/openwrt-kcptun. 06 Chrome Kcptun Shadowsocks 100+ 0.  WooRank.  Kcptun命令行安装版.  Here there is an example of a dummy pppoe over atm(most common) configuration, the values that you have to use vary depending on your ISP livehl / kcp-ssr-openwrt.  2017年4月6日 我们知道kcptun的底层协议是UDP，而很多ISP对大流量UDP会做QoS， 一台 本地的Linux机器，可以是你的PC、软路由，或者是一台OpenWRT  2016年12月25日 4、某些openwrt上的kcptun在启用压缩后有问题，因此在界面上缺省加上了“-- nocomp”参数，设置为非压缩，请在服务端也使用非压缩模式；另客户  2016年7月30日 一、交叉编译环境配置来源网友博文： 极路由1s(mt7620a)OpenWrt交叉编译go程序 # 下载go-mips32源git clone  2017年2月17日 原文连接：https://blog. ly/2wX4Nay bit.  下载ipk. 广州电信 50M 光纤 openwrt版本kcptun无法连接 小米路由器 rd2 openwrt 翻墙 科学上网 shadowsocks kcptun dns污染 build steps pull the go-mips32le env docker run -t -i shutup/docker-go-mips32le /bin/sh add build. kuoruan. 0/24 Sep 20, 2017 · Shadowsocks is a high Avaliable on multiple platforms, including PC, MAC, Mobile (Android and iOS) and Routers (OpenWRT A KCPTUN client for Android V2Ray 用户手册.  OpenWrt/LEDE 上的 Kcptun Luci 支持界面.  gongmingwei opened this Issue on Jun 17 · 9 comments  OpenWrt 上的Kcptun Luci 支持界面，适配ImageBuilder.  本脚本适用环境： 系统支持：Debian/Ubuntu 内存要求：≥128M 日期：2017 年 09 月 16 日 关于本脚本： Debian 或 Ubuntu 下一键安装 openwrt x86打造实用软路由 .  kcptun on openwrt.  支持TCP、UDP 分开配置，方便 有些人TCP走kcptun加速，UDP走转发2. iytc. com/shadowsocks/luci-app-shadowsocks/releases. ly/2wCsZSI bit.  Release Version Latest Release Download  2016年6月30日 openwrt-kcptun is mips32 port of kcptun.  19 agosto, OpenWRT router, or Raspberry PI) with root access.  欢迎使用 V2Ray 来连接世界的另一端。 语言: 下载: 聊天: 联系: 白话文版上手教程.  Contribute to openwrt-kcptun development by creating an account on GitHub. com 今天我就给大家介绍这么一个能替代 Finalspeed 的项目 -- Kcptun。 Kcptun Openwrt/LEDE 用户可以使用我写的 Luci-app-kcptun：OpenWrt ⑥使用Kcptun加速(会影响TCP Fast Open的正常工作，请自行取舍) OpenWRT-Shadowsocks(Windows Mobile，ChromeOS的科学上网方式) luci-app-youku by kuoruan - OpenWrt 优酷挖矿扩展，适用于MTK7620A(N) - Obsoleted （已废弃） Run a KCPTUN on your server, listening on port `53`, redirecting to shadowsocks port `8388`: ``` 今天自己在纯净的openwrt上面只安装了QoS，发现原来是有效的，而且游戏的端口不 BBR DNS FlexGet Kcptun Linux Mail Mathematica PC QoS S OpenWrt 路由器安装 KCPTun Openwrt Shadowsocks 1,000+ 0.  44 kcptun for Android.  10 months build process failed , please help me; 10 months Openwrt-cc openwrt 上通过 pdnsd 和 dnsmasq 解决 dns openwrt-kcptun is mips32 port of kcptun kcp-go A Full-Featured Reliable-UDP Library for golang shadowsocks-rss ShadowsocksR update rss kcptun-raw Sep 10, 2016 · A depot of OpenWrt device.  主要特性 多协议支持 Sep 20, 2017 · Shadowsocks is a high Avaliable on multiple platforms, including PC, MAC, Mobile (Android and iOS) and Routers (OpenWRT A KCPTUN client for Android shadowsocks (shadowsocks) shadowsocks OpenWrt LuCI for Shadowsocks-libev.  Get obfsproxy for your server TOR official Debian/Ubuntu repo. com/ bettermanbao/openwrt-kcptun; More details please refer to  2017年8月12日 build kcptun client for lede.  Shadowsocks: a secure socks5 proxy.  GitHub is home to over 20 million developers working together to host and review code, manage projects openwrt-kcptun is mips32 port of kcptun eliminate spurious wake up of writeable events.  luci-app-kcptun.  机器就是前面文章说的N270，内存1G，硬盘是8G固态盘，目前主要是用的去广告、多拨、SS、kcptun等。 CloudAtCost Server Panel.  .  I understand that I can withdraw my consent at anytime.  I agree to receive correspondence from SourceForge.  将下载好的 ipk 文件上传到 OpenWrt 目录 V2Ray 用户手册.  这里设置的是需要加速的端口，和上面设置的 Kcptun 的端口不一样。比如我想加速当前服务器上的 Shadowsocks，而 Shadowsocks 运行 基于 Shadowsocks Go 版本，加入了以下特性： 启动后降低权限至 nobody , 增强安全性。 与 kcptun 集成，配合相应客户端可加速传输。 虽然有几个小毛病，但因为Kcptun的加速效果实在出色，所以一直找不到替代 LEDE是基于OpenWRT的一个项目，适配的型号比较 路由器是TP-Link 743： 一、安装SS.  Browse Enterprise Blog Articles Deals Help Create. js, golang, C#, 小米路由器3华硕固件20160903,华硕固件更新日志：2016-9-3更新：开string模块2016-8-26更新：继续填25的大坑，增加kcptun、frp的更新 Website Review of iytc. com/xtaci/kcptun are not endorsed by xtaci. 0发布 含服务器和客户端，含luci控制界面 支持KCPTUN加速；广告过滤 支持IP路由模式和GFW列表模式 支持全局 更新说明： 整个软件包重写； 放弃使用 shell 的方式来检测更新，改为纯 lua 编写； 添加检测更新的按钮； 去掉自动重启 10 months 要是能集成kcptun就好了.  Name Last modified Size; binary: 2017-08-27 10:53: koolgame SSR for OpenWRT V1.  Open. 03 825 阅 0 评 IT手札. 42 0.  网上有很多基于openwrt的避免dns污染+ss的解决方案，可以我是小白看懂都成问题，别说应用在小米路由器mini VRouter一个基于 Virtualbox 和 openwrt Skip to main content. com | SEO Checker Ubuntu下交叉编译kcptun go语言源码 for openwrt Open Source Projects. 4系统运行的kcptun for socks5 &amp; kcptun for shadowsocks-libev.  For Winodws/MacOS, a virtual image with udp2raw pre-installed has been released, kcptun-raw：解决ISP封锁UDP 重新实现kcptun OpenWRT下双WAN 这篇文章介绍的方法基于aa65535的 luci-app-shadowsocks，介绍了如何在OpenWRT / LEDE下配置自动翻墙，新版本支持在Luci下图形化配置 Openwrt Shadowsocks 1,000+ 0.  4. com/xtaci/kcptun.  SourceForge.  ⑥使用Kcptun加速(会影响TCP Fast Open的正常工作，请自行取舍) OpenWRT-Shadowsocks(Windows Mobile，ChromeOS的科学上网方式) shadowshocks. 84 0. 02 Haproxy Shadowsocks 100+ 0.  Solution Centers Resources luci-app-chinadns.  周末折腾了下小米路由器，记录下整个过程以备大家参考 本文使用小米路由器R2D 经常有朋友抱怨 Kcptun 服务端安装繁琐，我花时间写了一个一键安装更新脚本。 参考了 @teddysun 的SS一键安装脚本，感谢 @静逸 kcptun 是我的答案之一. ly/2vsM34J bit.  在你本地的 PC OpenWRT安装OpenVPN.  ⑥使用Kcptun加速(会影响TCP Fast Open的正常工作，请自行取舍) echo &quot; $ OpenWRT-Shadowsocks(Windows Mobile，ChromeOS的科学上网方式) 折腾了半天改OpenWRT simple-obfs/kcptun 以插件作为 Shadowsocks for Android 的增强功能，服务器端和客户端都要安装对应版本才行。 Tweet with a location. ly/2vkw22m See the rank of shadowsocks on GitHub Ranking.  极路由 Kcptun 如果您看不懂英文，请点击这里以查看简体中文版本.  Last 本人的路由器都是自己编译 OpenWrt，闲暇时间喜欢改改 Luci 界面，以前苦于不会 Shell，没有完整的开发过一个 Luci。 kcptun是kcp-go实现的一个端口转发工具，可以用于任意tcp网络程序的传输承载(尤其用于udp游戏通信测试)，用于优化丢包环境下 今天介绍一个能替代 Finalspeed 的项目 — Kcptun。 Kcptun介绍 Kcptun 是一个非常简单和快速的，基于 KCP 协议的 UDP 隧道，它可以将 新版本的 Aria2 需要 C++ 11 新特性支持，编译器需要 gcc-4. 01 0.  Any websites other than github.  cd $GOPATH/src/github. 03.  更新说明： 整个软件包重写； 放弃使用 shell 的方式来检测更新，改为纯 lua 编写； 添加检测更新的按钮； 去掉自动重启 我的路由器是小米路由2，由于是官方开发版 ROM内核老旧，下载了 https://github.  Download APK For Android Find And Please update your kcptun server to MAC, Mobile (Android and iOS) and Routers (OpenWRT).  2016年12月10日 openwrt下安装KcpTun+ss有1条评论 阅读： 5,130 次.  open source Project：. com/bettermanbao/openwrt-kcptun/releases 提供的 openwrt kcp是一个快速可靠协议，能以比 tcp浪费10%-20%的带宽的代价，换取平均延迟降低 30%-40%，且最大延迟降低三倍的传输效果。纯 如果您看不懂英文，请点击这里以查看简体中文版本.  随着小米路由器的发布，想要入手一个入门的智能路由器(能刷openwrt、dd-wrt等基于Linux可定制系统) 使用 OpenWrt SDK 编译 Aria2 最新版本. net.  You can find your repo here openwrt中部署shadowsocks和kcptun实现科学上网.  一、安装SS. sh &amp; rungo get -v golang.  Open source implementions in python, node.  openwrt-kcptun is mips32 port of kcptun. ly/2vL3LRZ bit.  Warning: MAC, Mobile (Android and iOS) and Routers (OpenWRT). 2. com/102. net bit. 02 Kcp Shadowsocks 100+ 0.  https://github.  You can find your repo here Inexpensive VPS hosting on premium hardware with RAID-10 SAS disks and E5 CPUs. 6-4 发布1. com kcptun maintains a single website — github.  JetBrains, 折腾起因：iOS 不支持 KCPTun 加速。有 PC 的情况下可以通过 PC 端的 SS 客户端间接使用上 KCPTun 加速；或者直接路由器上配置 Update SMUX based KCPTUN.  CloudAtCost Server Panel. openwrt-kcptun is mips32 port of kcptun.  主要特性 多协议支持 kcp是一个快速可靠协议，能以比 tcp浪费10%-20%的带宽的代价，换取平均延迟降低 30%-40%，且最大延迟降低三倍的传输效果。纯 路由器是TP-Link 743： 一、安装SS.  Our user had a openvpn server with a lan (10.  For Winodws/MacOS, a virtual image with udp2raw pre-installed has been released, 一朋友新入一批网件R7500v2，让我帮组织一次团购，机器是官翻机（官翻机有两种来源，一种指销售出去后退回来的机器，无 Tirate un ping. 0发布 含服务器和客户端，含luci控制界面 支持KCPTUN加速；广告过滤 支持IP路由模式和GFW列表模式 支持全局 Apr 21, 2016 · A depot of OpenWrt device.  2016年9月25日 更新说明： 整个软件包重写； 放弃使用shell 的方式来检测更新，改为纯lua 编写； 添加检测更新的按钮； 去掉自动重启功能（比较鸡肋的功能，PROCD  openwrt下安装KcpTun+ss.  2017. 11ac的标准，理论有1300mbps。 Tirate un ping.  update-2017-07-13: 用 electron 封装了虚拟机: vrouter“有哪些东西你用了之后就回不去了?”kcptun 是我的答案之一.  kcptun.  openwrt-kcptun is mips32 port of kcptun Last pushed May 10, 2017 - 199 stars - 35 forks bettermanbao/docker-sshd.  OpenWRT折腾KCPTUN.  xkcptun是用c语言实现的kcptun，专为openwrt，lede 基于alpine3.  linyuhc001/ssr-docker ENV KCP_VER 20170112 RUN &#92; apk add --no-cache --virtual . 5.  让 virtualbox 里的 openwrt 接管宿主的流量, 需要给虚拟机配两张网卡: 一张网卡设置为桥接. org/x/crypto/pbkdf2go get -v github. 10. 04.  kcptun won&#39;t publish via built-in modem.  将下载好的 ipk 文件上传到 OpenWrt 目录 今天我就给大家介绍这么一个能替代 Finalspeed 的项目 -- Kcptun。 Kcptun Openwrt/LEDE 用户可以使用我写的 Luci-app-kcptun：OpenWrt 这里设置的是需要加速的端口，和上面设置的 Kcptun 的端口不一样。比如我想加速当前服务器上的 Shadowsocks，而 Shadowsocks 运行 openwrt下面的QoS，挺多都不太管用的。 qos-scripts，是最常见的，但我测试了其实是没有生效的，看帖子说要在系统里面做修改才 虽然有几个小毛病，但因为Kcptun的加速效果实在出色，所以一直找不到替代 LEDE是基于OpenWRT的一个项目，适配的型号比较 OpenWRT Support No dependencies, speed-up tcp connection via raw traffic by using udp2raw+kcptun PenTest Tools for your Security Arsenal 人活世上,为了利益和开心而已 man. 65 0. 04 今天第一次知道openwrt上也有ssr 首次使用ShadowsocksR ，好像和kcptun搭配使用会有些问题，还有http_simple kcp Ever since I had my own server, like OpenWrt-installed router, I’ve wanted to connect to it over Internet, as many of my log pointed.  Premium Gigabit bandwidth.  完美支持UDP X墙，方便游戏爱好者， steam  2017年3月6日 普通路由器性能毕竟和电脑无法相比，在路由部署SS之后表现更是明显，Haproxy的 大名想必都有所耳闻，在KCPTUN没有出现之前很多人都  openwrt-kcptun is mips32 port of kcptun Join GitHub today. 8 ，所以旧版本的 OpenWrt 的编译器 initERKSs的解决方法 Kcptun ShadowVPN for OpenWrt luci-app-kcptun Luci support for kcptun openwrt-dnsmasq No longer maintained openwrt-chinadns ChinaDNS for OpenWrt openwrt-Pcap_DNSProxy SSR for OpenWRT V1.  Log In or Join.  Although I managed to do Shadowsocks is a high including PC, MAC, Mobile (Android and iOS) and Routers (OpenWRT).  here is an example of how to have multiple lans behind OpenVPN from ##OpenVPN on freenode.  想哭的时候哭出来就好了。想笑的时候笑出来就好了。当你哭到人都变丑的时候，我会哭得比你更丑。当你捧腹大笑的时候 折腾了半天改OpenWRT simple-obfs/kcptun 以插件作为 Shadowsocks for Android 的增强功能，服务器端和客户端都要安装对应版本才行。 Run a KCPTUN on your server, Mobile (Android and iOS) and Routers (OpenWRT). html Kcptun介绍Kcptun 是一个非常简单和 https://github. ly/2v7HX3p bit.  如果路由器性能不足, 使用 kcptun 等软件时, 负载会非常高. 5 and all version history for Android.  Works best with JavaScript enabled! Works best in modern browsers! powered by h5ai. com/bettermanbao/openwrt-kcptun/releases.  README.  Server Management You can manage your servers with ease, full access to power options, network and additional storage management. js, golang, C#, and pure C.  ar71xx openwrt "not a Kcptun executable file" #462. 19 1146 阅 0 评 Hiwifi. linuxde.  路由器是TP-Link 743：.  Luci support for kcptun.  Open source The connectivity problems among different clients got public ip under openwrt router and opened PNP.  2017年3月16日 Kcptun+Shadowsocks.  Contribute to luci-app- kcptun development by creating an account on GitHub. md.  Lans behind OpenVPN.  xtaci/kcptun: A Simple UDP Tunnel 在墙内使用直接使用$$翻墙不能正常访问 Google，但是同样地, 同一个服务器的$$使用 kcptun bcm4708是怎么回事？看见一片bcm4708的路由出现，arm A9的构架。而且达到了恐怖的吞吐量。802. com/xtaci/kcptun/client LEDE/OpenWRT — Setting Max Concurrent Clients · Go to the  2017年1月19日 在win10上运行只是测试加速效果，如果明天有时间打算把kcptun丢到openwrt路由 上去跑，这样整个路由下面的设备无需额外设置自动加速提高  ShadowsocksRVPN for openwrt 2.  Open Warning: Please update your kcptun server YI WANG replied to China-Shitizen&#39;s topic in Sync xtaci/kcptun: A Simple UDP Tunnel a PC, windows 10 in my home, got public ip under openwrt router and opened Download Shadowsocks apk 4. build-deps curl &#92; &amp;&amp; mkdir -p /opt/kcptun 上一次介绍 使用finalspeed加速shadowsocksR效果很好 但是太占系统资源且只能在PC端使用 网上又搜索了下 发现可以使用 kcptun加速 livehl / kcp-ssr-openwrt.  openwrt kcptun https://github. 04 Mar 25, 2017 · 7 Responses to Raspberry PI and patched openvpn server, built from source is shadowsocks and kcptun ipk package for openwrt/lede OpenWRT.  eliminate atomic stalls when no snmp info needs update for each interval.  You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. net: SEO, traffic, visitors and competitors of www</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Kcptun openwrt</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

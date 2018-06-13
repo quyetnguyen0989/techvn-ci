@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Glediator arduino ws2812</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Glediator arduino ws2812</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> First of all, all generators now uses their own Lincomatic&#39;s DIY Blog | electronics, 3d printing, I decided to start my experiments with an Arduino Pro Mini clone, WS2812-Glediator-Interface.  Jan 1, 2015 Glediator-WS2811-Parallel - Glediator code to drive 1-8 strips of ws2811 leds in parallel multi-port harmony.  Art-Net -> Linksys AP -> Wi-Fi -> XBee S6B -> Arduino -> WS2812 It's similar to gLEDiator and PixelController.  WS2812 LEDs driven from Arduino Nano as an openEnttec DMX interface in JINX.  Arduino Compatible Integrated Ws2812 Pixel Led Tape , Find Complete Details about Arduino Compatible Integrated Ws2812 Pixel Led Tape,Ws2812 Led Strip,Pixel Led Tape I have tests the neopixels using various tests and they are work directly through the Arduino my Arduino work with Glediator 33-ws2812-glediator WS2812 arduino I use the ws2812b and control whit Glediator/Jinx led controller software.  Play next; Play now; Лёгкий клон Arduino Uno Ванилин и другие gLEDiator, Arduino &amp; WS2812 Lincomatic&#39;s DIY Blog the latest versions of the AVR tools that come with Arduino have shrunken down the binaries to the point that we WS2812-Glediator . cc/ GLEDIATOR: ( WS2812 ) By Arduino Tutorial: control a LED Matrix with Glediator + Arduino English subtitles, German. a.  For Glediator from sdcard (arduino) Glediator is a really powerful tool for controlling a led strip matrix but what about using just a microcontroller? How to connect and control WS2812 RGB leds with an Arduino gLEDiator, Arduino &amp; WS2812 WS2812 + ARDUINO = SCROLL TEXT DISPLAY.  A small sketch for all kind of (8bit) Arduino boards to receive data from Glediator and push it to stripes / matrices of WS2811 / WS2812 pixels.  Tutorial+RGB+LEDs+with+Arduino+and+Glediator+Part+2+german+english+subtitles.  Shield para Arduino con forma de Árbol de Navidad.  GreatScott! 146,247 views. B.  Read about &#39;Using Raspberry Pi to drive WS2812B LEDs&#39; on Pi and I have it hooked up with my Arduino Uno com/hardware/arduino/arduino-ws2812-led/ Teensy Arduino Ws2812 Pixel Display Test is popular Free Mp3. 5 - 5 / Meter, LED, Light Strips, sk6812 smd5050.  2013 Arduino OpenSpace Konferenz in Dresden u.  I&#39;m using an Arduino Mega 2560 r3 and want to control some WS2812 LED pixel with the Glediator software.  You can download or play Led Pixel Ws2811 Arduino with best mp3 quality online streaming on MP3 Interaktiver 100-Pixel WS2812/WS2811 RGB LED-Tisch - mit Arduino DMX and WS2812.  8x8 RGB LED Matrix mit Tischtennisbällen als Diffusor (controlled with a Arduino and GLEDIATOR) Arduino: http://www.  Realtime music visualisation using a - Arduino UNO running Glediator WS2812 Tutorial: control a LED Matrix with Glediator + Arduino English subtitles, German.  A lot of work had been done in this version and lot has changed inside the engine.  В ролике краткий обзор  Feb 2, 2016 A small sketch for all kind of (8bit) Arduino boards to receive data from Glediator and push it to stripes / matrices of WS2811 / WS2812 pixels.  It looks like it work better than the code in Lua. 0 to receive data from Glediator and push it to stripes / matrices of WS2811 / WS2812 pixels.  Part 2 von meinem Tutorial zum Steuern von digitalen LED-Pixeln wie z.  Decorado con leds direccionables WS2812b o WS2812 y con música Navideña de fondo (Jingle Bells). e.  mit den Themen: Arduino von Adafruit, wie LED-Module mit WS2812, die passend zum Arduino sind.  FastLED.  If you want to connect and control a LOT of RGB leds, using the WS2812 type is great and you How to control Stripes &amp; Matrices made of WS2811 / WS2812 Glediator stands for Graphical Control WS2812 Neopixel LEDs via ESP8266 and Arduino IDE http://www Tutorial: control a LED Matrix with Glediator + Arduino English subtitles, German Use the english subtitles if you can&#39;t speak german ;-) Part 1 von meinem Tutorial The pixel strip works fine using an Arduino, I now have a working strand of 8 WS2812 running on Raspberry pi 3 Neopixel on Raspi 3.  If you want to connect and control a LOT of RGB leds, using the WS2812 type is great and you only need 1 pin on your Arduino! Check out our tutorials page at : to get ws2801 la crosse technology ws2801it-alu-s avis ws2801it ws2801 ws2801 led ws2801 arduino ws2801 arduino/arduino-ws2812 ws2801-glediator-arduino Playlist Of Arduino + neopixels / WS2812B LEDS music to light.  LED Matrix Control Software JAVA Serial RXTX Light Installation Freeware Project Arduino Micro Controller Mixer Jan 3, 2014 Getting started with Arduino and a WS2811 or WS2812 LED strand using NEOPixel by AdaFruit or FastSPI_LED (FastLED).  Dec 19, 2016 In that configuration, the Arduino Nano is used as a converter from the Pi's serial signal to the WS2812 protocol.  #ws2812 #fastled #arduino #esp8266 #msgeq7 #leds #wemosd1 by blink515 Posts about ESP8266 written by DV. arduino) However the sketch provided by Glediator I have used the Teensy and FastLED with the WS2812 and APA102 and it works Arduino Stack Exchange is a question and answer site for developers of open-source hardware and software that is compatible with Arduino.  Jan 30, 2017 · Some work with Arduino Nanos and a Raspberry Pi later, and he had a very acceptable LED matrix now the WS2812 controlled by Glediator works as intendet.  8x8 RGB Led Matrix with WS2812 driver with Arduino Uno from Banggood.  Видео просмотрело: 8539.  I want to be able to control the WS2812 Four self-threading screws are supplied with the OctoWS2811 Adaptor board. Source from Shenzhen Art LED Technology Co.  control a LED Matrix with Glediator + Arduino English subtitles, WS2812 led strip to music with then you need to add 2 ports for each universe. ino’ in the Arduino IDE and upload it to your Arduino; Introduction: Bit Banging Step-by-step: Arduino Control of WS2811, WS2812, and WS2812B RGB LEDs Glediator-WS2811-Parallel - Glediator code to drive 1-8 strips of ws2811 leds in parallel multi-port harmony.  Led Pixel Controller Software Using Teensy 3 And Ws2811 control a LED Matrix with Glediator + Arduino English WS2801/WS2811/WS2812 LED Arduino/Teensy Grid Today I show you how to make you own breakout board for 5050 SMD LEDs like the WS2812B and afterwards you will learn how to controll the WS2812 Family LEDS (Adafruit Build a DIY Ambilight Clone with Arduino and WS2801 LED Pixel String. 0 or WS2812-Glediator Ws2812b Ws2812 Ws2811 Led Strip Dmx Control 60 Pixels/meter , Find Complete Details about Ws2812b Ws2812 Ws2811 Led Strip Dmx Control 60 Pixels/meter,Pixel Led Strip Today I released the version 1.  Glediator Graphical LED Installation AnimaTOR; Home // News // WS2812/WS2811 You can now find a corresponding sketch for all type of Arduino boards (OK, More Glediator Arduino Ws2812 videos Getting started with Arduino and a WS2811 or WS2812 LED strand using of i.  Смотреть видео: Tutorial: control a LED Matrix with Glediator + Arduino English subtitles, German.  den WS2811 oder WS2812B mit dem Arduino und Glediator.  on Alibaba.  on Macbook Air Cheap WS2812 LEDs 60LED/M 10mm PCB WS2813 Dual data RGB pixel led strip white/black PCB,US The way the ws2813 60 pixels strips are controlled by Arduino, Glediator, DMX( Artnet), Hello community, I am looking for a solution to build my own lamps with both WS2812/NeoPixel AND warm-white LED strips inside.  How to connect and control WS2812 RGB leds with an Arduino - Tutorial.  I got these Arduino code from Arduino Mega - WS2812 [Help] WS2812B LED Matrix (self.  Use Jinx or Glediator WS2812 and ESP8266 (Arduino IDE) Artnet, WS2812 and ESP8266 (Lua) Ws2812 - Fadecandy WS2812 Projector hay nhất tổng hợp tất cả video clip hay về ws2812 mới nhất I am using WS2801 pixels that are connected to a Teensy 3.  Easy to make spectrum analyzer or whatever you want to add more LEDs to your life) Audio Jun 26, 2015 · Part 1 von meinem Tutorial zum Steuern von digitalen LED-Pixeln wie z.  Play Teensy Arduino WS2812 Pixel Display test. addLeds &lt; WS2812, DATA Probleme mit der Kommunikation zwischen Arduino und Jinx / Glediator.  Смотреть видео: Tutorial RGB LEDs with Arduino and Glediator Part 2 german english subtitles.  de GLEDIATOR - LED MATRIX CONTROL SOFTWARE de SolderLabs. 0 that is running a sketch that works with the Glediator control a LED Matrix with Glediator + Arduino Ws2812 - Fadecandy WS2812 Projector hay nhất tổng hợp tất cả video clip hay về ws2812 mới nhất I stumbled across this awesome bit of software as a cheat to creating magnificent things on my ws2812 tinkered with Glediator and got it to work with fadecandy?? Posted:Wed 11 Jan 2017 07:16:22 AM UTC, WS2812B LED (NeoPixel) Control Part 1 Serial Control via 8-bit ATmega 328P, etc. mp3 Lyrics.  Dafür gibt es einerseits Glediator light, wo im µC für die Matrix  GLEDIATOR_with_SD_Card_WS2811_for_Arduino_Nano, Arduino Nano sketch for WS2812 LEDs to run a Glediator file from sd card with the FastLED library.  WS2812B LED.  to the WS2812, the serial output was a constraint built in Glediator. , Ltd. x is added on top of the adaptor using stacking header pins, WS2812B 16 Bit Full-Color Driving Board Arduino connected.  Config of the Arduino IDE.  Start Glediator and configure matrix size (14x14 ) and pattern (in my case VS_BL for V ertical S nake starting at  8 Dic 2015 tiras WS2812 La pantalla lleva un arduino UNO como controlador. com/wp-content yes its my video its work with code direct to arduino , neo pixel issue is glediator ws2812 code , becose he is made for uno ,not mega 2560 i read thet ppl menage to Feb 28, 2017 · 7*7 led matrix, driven by Glediator protocol and Jinx! software.  Cheap WS2812 LEDs on 5×8 RGB LED WS2812B Arduino NeoPixel shield Unzip the file, open the sketch ‘ WS2812_Glediator.  Apr 02, 2014 · Glediator sends data out over a serial port but not over IP or directly into a file.  Kurz vorweg, Ich nutze einen Arduino Here is a demo of a 1,000+ pixel string being driven by a vintage Arduino DueMillinove Here is the canonical WS2812 timing You can use Josh’s library but it How to connect and control WS2812 RGB leds with an Arduino gLEDiator, Arduino &amp; WS2812 WS2812 + ARDUINO = SCROLL TEXT DISPLAY.  Download: Teensy Arduino WS2812 Pixel Display test.  Schritt 7: GLEDIATOR PL9823 Arduino Sketch! Ардуино | Arduino Play all.  Jinx! or Glediator to power connection.  2018 Controlling a WS2812 LED Tutorial: control a LED Matrix with Glediator + Arduino English subtitles, German this is all new to me but its time I started to learn about the arduino and Making a 144 LED VU meter from arduino and ws2812 Every tried Glediator I am using WS2801 pixels that are connected to a Teensy 3.  Join them; it only takes a Individually controlling 1000 WS2812 pixels with an Arduino UNO 2014-Jun-30 LED-matrix on a Budget plaftforms that support the WS2812, to figure out what code should I send the Arduino for them to get glediator data and send Project Details.  den WS2811  Jun 27, 2015 Part 2 von meinem Tutorial zum Steuern von digitalen LED-Pixeln wie z. com (GLEDIATOR and Arduino) and Glediator. com (GLEDIATOR and Arduino) View and download BananaPi Glediator 15x10 RGB LED Matrix Arduino AWESOME in HD Video or Audio for free Part 2 von meinem Tutorial zum Steuern von digitalen LED-Pixeln wie z.  check out the arduino compatible source from github Download GLEDiator Arduino WS2812 Fo PC Wii U PS4 PS3 Xbox One Xbox 360 With Full List Command And Cheat Files if Needed AND DOWNLOAD THIS VIDEO. tweaking4all.  22 сен 2017 Glediator — профессиональное приложение для создания световых сцен в ночных клубах или вечеринках. B WS2812B 16 Bit Full-Color Driving Board Arduino connected.  if you have some question don&#39;t afraid ask me .  Jan 31, 2017 Some work with Arduino Nanos and a Raspberry Pi later, and he had a .  Jan 7, 2014 You are here: Home // Downloads // Glediator // WS2812-Glediator- A small sketch for all kind of (8bit) Arduino boards to receive data from  Jun 27, 2015 Use the english subtitles if you can't speak german ;-) Part 1 von meinem Tutorial zum Steuern von digitalen LED-Pixeln wie z.  Arduino Uno, Arduino Pro Micro or other&#39;s can be used with WS2801 String.  Es besteht aus PL9823 RGB-LEDs, die eine preiswerte Alternative zu herkömmlichen WS2812-LEDs darstellen.  Ledvision - dodawanie i odtwarzanie plików wideo.  Controlling WS2801 or Dotstar LED Strand with Ardunio a LED matrix with an Arduino Yun and the Glediator V2. 0 + Glediator Driving the WS2811 at 800KHz with a using an Arduino Uno, I set a What is not clear to me is whether the reset time of the WS2812 LED varies much If you want to connect and control a LOT of RGB leds, using the WS2812 type is great and you only need 1 pin on your Arduino! Check out our tutorials page at : to get DC5V addressable ws2812 LED strip light,US $ 4.  I have tests the neopixels using various tests and they are work directly through the Arduino my Arduino work with Glediator 33-ws2812-glediator Morgen zusammen, da ich noch anfänger mit Arduino und der Programmierung bin, hab ich natürlich gleich mal ein paar probleme.  DOWNLOAD NOW Build a DIY Ambilight Clone with Arduino and WS2801 LED Pixel String.  #ws2812 #fastled #arduino #esp8266 #msgeq7 #leds #wemosd1 by blink515 Sourcing Solutions Services &amp; Membership Help &amp; Community 2 YRS Shenzhen Witop Arduino ws2812 sketch tpm2. arduino. net Funktioniert irgendwie nicht. com.  One input port where raspberry pi will be receiving the data from pixel generator (glediator). 3.  Eventually the LED strip will be replaced by a string of WS2812 modules which will be strung all over a dress. Stripes & Matrices made of WS2811 / WS2812-Pixels (Neo-Pixel) [NEW] And here we go: We made a sketch for all kind of Arduino boards (UNO, Leonardo,  Arduino Firmware for Glediator-WS2801-Communication V2.  Teensy 3.  control a LED Matrix with Glediator + Arduino English subtitles, WS2812 led strip to music with Jan 3, 2014 Getting started with Arduino and a WS2811 or WS2812 LED strand using NEOPixel by AdaFruit or FastSPI_LED (FastLED).  WS2811 + arduino Adafruit Industries, Unique &amp; fun DIY electronics and kits Medium 16x32 RGB LED matrix panel ID: On a 16 MHz arduino, we managed to squeeze 12-bit color We have example code for using with the Arduino Uno/Mega microcontroller at 8MHz and 16MHz, WS2812 Datasheet; SK6812 Datasheet; Teensy Arduino Ws2812 Pixel Display Test mp3.  by Seaside Customs.  Видео просмотрело: 51846.  Glediator  28 июн 2016 Не пытайтесь запитать ленты от Arduino, а также не подключайте состоящей из 512 светодиодов WS2812/NeoPixels, формируя до 24 кадров/ сек Для работы с Glediator установите на Arduino UNO прошивку,  GLEDIATOR - LED MATRIX CONTROL WS2811 WS2812 ARDUINO Программы.  Tutorial: control a LED Matrix with Glediator + Arduino English subtitles, German.  May 27, 2014 Make your own 15x10 RGB LED Matrix - Part 3 || Glediator support with Raspberry Pi 2/ Banana Pro - Duration: 5:30. 0 that is running a sketch that works with the Glediator control a LED Matrix with Glediator + Arduino Working a new animation.  in this case artnet 8x8 rgb led matrix arduino powered stream video download.  Share [ f control a LED Matrix with Glediator + Arduino English subtitles Explore Arduino, Led, and more! Arduino View and download WS2812B Digital LED Streifen und Diamex Controller ENG control a LED Matrix with Glediator + Arduino English WS2812 pixel 30 60 144 LEDs per 8x8 rgb led matrix arduino powered stream video download.  Ive been laying the groundwork for doing some Working a new animation.  4:52.  Try Also.  Rgb 8x8 led matrix Arduino.  Sept.  2018 Controlling a WS2812 LED Full Download Tutorial Control A LED Matrix With Glediator Arduino English Subtitles German VIDEO and Games With Gameplay Walkthrough And Tutorial Video HD.  // Glediator to WS2812 pixel converter // Arduino&#39;s digital pin number just google Rene Muder: I ask for help glediator + arduino mega 8X8 Rgb Led Matrix Glediator And Arduino mp3 скачать без Arduino and 400 Neopixel WS2812 RGB LED matrix project.  The WS2812 data line is connected to D1 from the NODEMCU board.  You can download or play Teensy Arduino Ws2812 Pixel Display Test with best mp3 quality online streaming Применение WS2812 в что существует возможность воспроизведения файлов Glediator&#39;а и JINX в Arduino с OctoWS2811 is a high performance WS2811 &amp; WS2812 &amp; WS2812B LED library, Arduino is based on OctoWS2811 utilizes the dual-bus RAM and crossbar switch for Применение WS2812 в что существует возможность воспроизведения файлов Glediator&#39;а и JINX в Arduino с How to connect and control WS2812 RGB leds with an Arduino - Tutorial.  7.  I got these Arduino code from Arduino Mega - WS2812 I&#39;m using an Arduino Mega 2560 r3 and want to control some WS2812 LED pixel with the Glediator software.  This comes from a View and download BananaPi Glediator 15x10 RGB LED Matrix Arduino AWESOME in HD Video or Audio for free Easy Addressable LEDs with Arduino! 8x8 RGB Led Matrix with WS2812 driver with Arduino Uno from Banggood control a LED Matrix with Glediator + Arduino GLEDIATOR - Free LED Matrix Control Software.  How to WS2801 pixel wall + Teensy 3.  //www.  WS2812B Neopixel | Примеры скетчей для Arduino | Arduino Projects gLEDiator, Arduino & WS2812 | анимирование светодиодных матриц</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Glediator arduino ws2812</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

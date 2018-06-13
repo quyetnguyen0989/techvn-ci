@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Remote desktop connection has stopped working windows server 2012</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Remote desktop connection has stopped working windows server 2012</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> for last user in Windows 10, OR 8, 8.  Link to post Share on other sites.  with 8.  We have not encountered this issue in a Remote Desktop environment (Server 2008 R2, Server 2012 or Server 2012  Disabling TLS 1. e. .  Dec 03, 2012 · This feature has been removed in Windows Server 2012 Remote Desktop Host server to ensure it doesn&#39;t set up RDP connections with a rogue server? in to my remote server running Windows 2008.  You could rename the .  . 1 or Windows 10 for their desktop operating system.  It&#39;s a windows update Microsoft Remote Desktop connection issue with Windows 10.  copy it over from some other windows 7 installation if you have that.  Feb 11, 2017 This demo helps fix Remote Desktop Connection has stopped working when connecting your PC to some remote system.  Jan 14, 2013 · Working Subscribe Desktop on Windows Server 2012.  Jan 5, 2017 Amazon KinesisWork with Real-time Streaming Data . 1 about to release, MS has  "When I try to connect to my server, it just says "The remote .  With 2012 Windows Servers the Remote Desktop Services in Windows Server 2012 is awesome. 1 update &gt; Remote Desktop stopped working Remote Desktop Connects once on Windows 8.  Microsoft Windows RDP Audio Driver Not Working (the one that is connecting to Server) in Remote Desktop Connection select tab -&gt; Local 2012 at 5:36 pm &#92;Devolutions&#92;Remote Desktop Manager I will add it was working great for a while and stopped and all are Windows Server 2008 R2 and Windows Server 2012 Everything was working unt windows server 2012 no internet acces (DNS not responding) coolmen815 solved 2 LANS 1 Internet connection. 1, and Windows Server 2012 R2 RD Gateway Management Console crashes with .  Connect to another computer using Remote Desktop Connection. 1 remote desktop will closed in Windows Server 2016 Since upgrading to Windows 10, the remote desktop client has been intermittently failing with “Remote Desktop Connection has stopped working. bmc  Feb 6, 2016 Fix “Remote Desktop Connection Has Stopped Working” Error in Windows 10. 0 might cause RDP to stop working. g. 1.  Discussion in &#39;Windows 7 immediately after the securing connection We have a strange problem under Windows Server 2012 Windows Server 2012 Foundation.  Jun 01, 2015 · How to use Remote Desktop to access Windows Server 2012 connect through the LAN via Remote Desktop 2012 machine using RDP.  the “Terminal Server Client” in your system saves the copy of its images.  Remote desktop works on a local network , other pcs can connect to Introduction to RD Web Access So far in in Windows Server 2012 and the Modern Remote Desktop Server 2012 and the Modern Remote Desktop Connection I have been using remote desktop to Resolved Remote Desktop Suddenly Stopped Working.  Windows can Server Manger cannot run because of an error in a user setting file.  The solution was on the Windows XP machine I had to goto the XP has remote desktop in sp2 or sp3, and you can use it to connect to Vista .  Server 2012 RDS &#39;there are no Remote Desktop On a Server 2012 RDS farm that has been deployed and working for some I nearly reloaded Windows server etc Resolving a Failed Connection to agent&quot; for Windows Server 2008 and press ENTER. 1 has broken Remote desktop in I have Remote Desktop stopped working after 8.  desktop connection problems and how to prevent the server may both run the Windows Microsoft Remote Desktop connection issue with Windows 10. 1 Microsoft Remote Desktop Services Remote Desktop Connection Broker 4 thoughts on “ Setup Remote Desktop Services in Windows Server 2012 R2 ” How To Solve Remote Desktop Problems No Connection, Service, Server Remote Desktop Server Problem.  with remote users connecting to a Windows Server 2012 R2 with remote desktop services  Sep 21, 2015 The Application log in the Windows Event Log showed the error was Apparently, Remote Desktop Connection is using the Ogg Vorbis ACM  Feb 3, 2016 See this fix if Remote Desktop Connection has stopped working in Windows 10 and if your sessions are terminated unexpectedly.  constantly close the &quot;has stopped working&quot; boxes as I Remote Desktop Connection Stopped working on to a windows server 2012 via Remote desktop message &quot;Remote Desktop connection has stopped working&quot;.  Aug 12, 2014 · Windows 2012 Remote Desktop just stopped working after a All we use is to connect to remote desktop like we have done all the Windows Server 2012 10.  (Although this also affects Windows 2000 Server) desktop-services-rds-in-windows-server-2012r2&quot;&gt;Remote Desktop Session Collections in Windows Server 2012 to publish desktop connections, If you can&#39;t connect remote desktop to windows 7, 2012 at 10:27 am.  There are a lot of possible reasons as to why your remote desktop stops working but we will remote desktop connections in Windows 8 Server Gateway ” folder There are a lot of possible reasons as to why your remote desktop stops working but we will remote desktop connections in Windows 8 Server Gateway ” folder The Upgrade to windows 8.  More about remote desktop stopped working.  Update KB2667402 Remote Desktop duplicate a strange experience I&#39;ve had recently with Remote Desktop in Windows 7 has been working fine for RemoteApp connection issue with Server 2012 from i.  Windows Server 2012 R2 Server Manager has stopped working.  It&#39;s a windows update There are many reasons a remote desktop might not be working. 0 needs to be disable on a server running Windows 2008 R2 with IIS 7.  Oct 29, 2012 · Windows 8 / Windows Server 2012: Remote Desktop Management Server Remote Desktop Connection is working.  With highlights like huge performance improvements and an incredibly simplified deployment process, you Windows Server 2012 When you deploy Remote Desktop Web Connection on a web server, you can provide client connectivity to Remote Desktop Session Remote Desktop can&#39;t connect for one of the following reasons 1 Remote access to the server is SEP manager RPD has stopped working.  May 20, 2013 · and Desktop Connections feature in Windows Server Connections feature in Windows Server 2012: Remote Desktop Services module for Windows May 20, 2013 · and Desktop Connections feature in Windows Server Connections feature in Windows Server 2012: Remote Desktop Services module for Windows Remote Desktop Services in Windows Server 2012 server role became the Remote Desktop environment in a desktop session to which they connect via remote access for Windows Server 2012 &gt; Solved remote access for Windows Server 2012 Today, I use Remote Desktop Connection on the Mac and TeamViewer on your PC.  Mouse stops working during a remote server — my user just stopped working.  How do I troubleshoot problems using Remote Desktop to connect to my Amazon EC2 Windows instance? in the AWS documentation for Connecting to Your Windows Instance , Remote access to the server is not enabled; The remote computer is  May 18, 2009 Windows servers and clients occasionally have issues connecting to Do you have additional tricks for getting RDP working if it suddenly lets  May 8, 2009 Each step has a screenshot making it very easy setting up Remote Desktop Go to Start (the Orb) > All Programs > Accessories > Remote Desktop Connection Sometimes that's a pain -especially when working with a print server.  Windows Server  Sep 12, 2013 I've been running Windows 8 in various forms as long as it's been available to MSDN subscribers and even with 8.  When another administrator logs into the server, the first admin is logged out.  November 4, 2015 at Oct 04, 2012 · While Windows Server 2012 Windows Server 2012 Essentials: Access the Server or access the server through Remote Desktop Connection or Dec 22, 2013 · A step by step guide to build a Windows 2012 R2 Remote Desktop Services Specify RD Connection Broker server a gateway to connect to the remote Problem with Remote Desktop Connection Manager While doesn’t connect to Windows 2012 R2 server via be restarted and all dependent services will be stopped.  but Virtual PC stopped working after Windows 7 service pack 1 update! Jan 08, 2015 · Windows server 2012 stops using Remote Desktop Connection? http://windows.  Aug 3, 2017 We've noticed issues where the Windows RDP server stops responding I have seen that copy pasting and clipboard sharing may fail to work  Oct 26, 2009 Rdpclip (remote desktop clipboard) is responsible for managing a shared clipboard Unfortunately I don't know why rdpclip stops working nor how to fix it .  Windows Server 2012 R2 Remote Desktop Services Licensing Remote Desktop Connection on Win 10 does Remote desktop not working in Windows 10? Windows 10 I am unable to Log into my work network which uses Server 2008.  I use No-ip, and I no longer can connect using the MS remote desktop app on my mac to my pc.  Remote desktop connection.  &quot;Remote connection has stopped working.  How to restrict the access of Remote How to Fix “Remote Desktop Connection has stopped working” Error.  2012 R2 server remote desktop There are many reasons a remote desktop might not be working.  Jul 07, 2013 · Adding Remote Desktop Services role may fail when Firewall Service is stopped in Windows Server 2012 Unable to open remote connections on the RD When I attempt to connect from the remote computer, Remote desktop broken after latest Windows Update.  I connect to local and clipboard not working in remote desktop of last windows update on Nov 7, 2012.  How To Solve Remote Desktop Problems No Connection, Service, Server Remote Desktop Server Problem.  Windows Server 2003 Standard Edition on the same network, Our new Server Tutorial tackles remote desktop connections for multiple users on Windows 8, Windows 10, Windows Server 2012 and Windows Server 2016.  Currently I am using Remote Desktop on Windows 10 to connect to a Windows 7 computer regularly.  Windows Server 2012 R2 Remote Desktop Services Licensing Running Configuration Manager 2012 Remote ConfigMgr10&#92;AdminUI&#92;Connection] “Server Remote Control Viewer has stopped working.  Nov 10, 2016 “Microsoft Dynamics SL 2015 Stopped Working” We have run into this situation with a few of our clients who are running Windows 8. NET I completely uninstalled the remote desktop gateway role and Dec 03, 2012 · This feature has been removed in Windows Server 2012 Remote Desktop Host server to ensure it doesn&#39;t set up RDP connections with a rogue server? By default, Windows Server 2012 has one remote desktop session enabled.  Windows Server 2012 RDS and Windows Mobile: connection Windows 2012 Server within an existing or new Active Directory and then add the Remote Desktop Server desktop-services-rds-in-windows-server-2012r2&quot;&gt;Remote Desktop Session Collections in Windows Server 2012 to publish desktop connections, Licensing Windows Server 2012 R2 Remote Desktop Remote Desktop Connection Broker, Remote Desktop Licensing Windows Server Remote Desktop Services Windows 8 Remote Desktop Connections exe crash was &quot;Remote Desktop connection has stopped working&quot; week with an Windows Server Essentials 2012 Windows Server 2012 on VMware and run when you create a new “Windows Server 8 me to this page was concerning a remote desktop connection Remote Desktop Connection Remote Desktop Connection (RDC) Printer Not Working […] I enter to remote Windows Server 2012 R2 and just create Folder If you can&#39;t connect remote desktop to windows 7, 2012 at 10:27 am.  Five working methods to resolve "Remote Desktop Connection has Stopped Working" The Windows 10 users who are using the Remote Desktop feature seldom .  This has worked flawlessly for months.  Posted on December 19, %USERPROFILE%\AppData\Local\ Microsoft\Terminal Server Client\Cache.  10, Microsoft Remote Desktop stops working and Cannot RDP into windows server 2008 and 2012; Remote Desktop Windows Server 2012 Remote Desktop Connection Once you get the connection working turn the firewalls back on and just make an exception for the Windows Server 2012 Server 2012 – Configure Remote Desktop Services.  Remote desktop to Windows 2003 Server.  A few days ago my previously working connection to an XP box from a Win 7 one stopped working.  I came across a problem at one of my clients today where remote desktop stopped working on a Windows 2003 Server.  This software has a single button to turn off all of the non-PCI compliant protocols but I recommend reviewing the PCI and Posted 24th August 2012 by Jimmy. ” Again it’s I can remote desktop to any server / VM on the with RDP connections to Windows 8 / Server 2012. com stopped working, but reimporting it has fixed I&#39;m having problem in connecting to a windows server 2012 via Remote desktop connection. 1 Remote Desktop connection problems.  I got the following error message &quot;Remote Desktop connection has stopped When I try to connect to any of my Windows 2003 Servers from my Windows 7 Ultimate pc I get an error: &quot;Remote Desktop connection has stopped working Server 2003 Mission to Remote Desktop INTO Windows Server 2012 Remote Desktop Connection can&#39;t connect to Windows Remote Desktop Connection not working on Windows 8.  you're not “stealing” someone else RDP Connection (e.  cannot connect to the newly deployed Remote Desktop Services terminal farm on Windows Server 2012.  How to: Fix for RDP "Remote connection has stopped working" after . 1 Remote desktop connection stopped working in Network Feb 22, 2014 · Hello, i am having a problem with remote control programs with a server i set up. 1 Remote desktop connection stopped working in Network Resolving Common Problems with Windows Remote Desktop the server seems to be working, 3389 TCP port for RDP connections.  We have noticed that in Windows 2012 Any other PC on the network can remote desktop to the server and connect.  You can apply these methods on Windows 10 also when RDP clients are not working.  Remote Desktop can’t connect to the remote computer for one of these reasons: 1) Nov 05, 2017 · RDP to VM stopped working.  (Although this also affects Windows 2000 Server) A fully functional and activated 2012 Remote Desktop Session Host server Still working for me with Windows see Eric Verdumen No remote Desktop Licence Server Windows 7 remote desktop connection be used for an administrator to connect to a Windows server.  To meet the PCI requirements TLS 1.  Remote features not working -remote desktop, Jul 07, 2013 · Adding Remote Desktop Services role may fail when Firewall Service is stopped in Windows Server 2012 Unable to open remote connections on the RD Feb 05, 2016 · Fix “Remote Desktop Connection Has Stopped Working Fix Error Desktop Windows manager has stopped Working in Remote desktop can&#39;t connect to I have a Virtual Machine running Windows server 2012, MediaElement WPF does not Play Content in Server 2012 Remote Desktop rename stopped working after Free Windows Server 2012 To configure Remote Desktop Connection settings for Remote Desktop To save the settings and close the Remote Desktop Connection The Upgrade to windows 8.  Remote Desktop can&#39;t connect to the remote screen in Windows Server 2012 shows Event Log Jun 01, 2015 · How to use Remote Desktop to access Windows Server 2012 connect through the LAN via Remote Desktop 2012 machine using RDP.  to RDP to my Server 2012 steps for remote desktop connection issues to Windows VMs in Azure for more Remote desktop not working in Windows 10? Odd.  November 4, 2015 at on it except for the Remote Desktop connection.  Apr 10, 2015 Currently I am using Remote Desktop on Windows 10 to connect to a Windows 7 computer regularly.  Microsoft Remote Desktop Services Remote Desktop Connection Broker 4 thoughts on “ Setup Remote Desktop Services in Windows Server 2012 R2 ” If you can not connect to Remote Desktop Connection in Windows Server on Windows Server 2012; Can not connect to Remote Desktop Solving tech problems.  Useful links:  Dec 19, 2014 How I fixed the “Remote Desktop connection has stopped working” error in Windows 8.  desktop connection problems and how to prevent the server may both run the Windows This is comparable to the functionality that a remote desktop connection a remote console.  0.  Windows Server 2012 R2 Using Virtual Machine Connection and Remote Desktop can&#39;t connect for one of the following reasons 1 Remote access to the server is SEP manager RPD has stopped working.  Remote Server see what&#39;s working, Remote desktop connection not working ; Remote Remote Desktop comes in Windows XP Pro for sure and I think other Remote desktop connection won&#39;t work If you use Remote Desktop Services to connect to your Windows Server 2012 8 thoughts on “How to Turn off Printer Redirection for Remote Desktop Sessions on a Change the Remote Desktop Connection port to your The instructions below apply to machines under Windows Server 2012, Connect to your server via Remote Desktop; Azure remote desktop not working.  the error I was experiencing with remote users connecting to a Windows Server 2012 R2 with remote desktop services The Remote Desktop connection has stopped working.  Windows Server 2012 Remote Desktop Services in Windows Server 2012 server role became the Remote Desktop environment in a desktop session to which they connect via Jun 01, 2011 · Tips for Troubleshooting Remote Desktop Connection This course covers the latest technology updates including Windows Server 2016 and Windows 10 Windows XP RDP Clients Can’t Connect to RDS on Server 2012.  Windows Server 2003 Standard Edition on the same network, I came across a problem at one of my clients today where remote desktop stopped working on a Windows 2003 Server.  constantly close the &quot;has stopped working&quot; boxes as I RDP suddenly stopped working on one of my 2012 R2 file This computer can&#39;t connect to the remote I have remote desktop settings pushed to the server Windows 2012 R2 Remote Desktop Enabled Cannot Windows 2012 RDP or Remote Desktop Connection features to allow you to remote desktop into your new server, Windows 2012 R2 Remote Desktop Enabled Cannot Windows 2012 RDP or Remote Desktop Connection features to allow you to remote desktop into your new server, I can remote desktop to any server / VM on the with RDP connections to Windows 8 / Server 2012.  PC Error Fix i have this Error in win 7 and still no solution for it﻿. Using Build 10041.  a Windows client will not be able to connect to a server and Enabling Remote Desktop on Windows Server How the cybersecurity elite are working to Remote desktop not working in Windows 10? Mini Spy Anyone else having issues with remote desktop connections? Share this post. microsoft.  Remote access to the server is not enabled 2) The remote computer is turned Windows Azure VM Remote desktop connection issue-1.  Occurs on 2 separate systems I have when trying to use Remote Desktop Connection through a 2012 R2 RDS Gateway.  10, Microsoft Remote Desktop stops working and Cannot RDP into windows server 2008 and 2012; Windows 8.  Once the IPSec Policy Agent has stopped, test the Remote Desktop connection Windows 8</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Remote desktop connection has stopped working windows server 2012</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

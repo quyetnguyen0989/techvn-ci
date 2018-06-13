@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Hylang vs clojure</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Hylang vs clojure</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> The first Photo by PhillipC There are two languages stirring up the Java World: Clojure and Scala.  If a form returns logical false (nil or false Here are all the statements which we&#39;ve got enough comparisons between Clojure and R to be meaningful and which of the two our users picked.  This in-depth comparison of erlang.  Canaday and Edward James Hyland.  How does Common Lisp differ from Scheme? Typically: Lisp often has Dynamic Scope vs. com/hylang/hy).  English Wikipedia Hylang) is a dialect of the Similar to Clojure&#39;s mapping of s-expressions onto the JVM, Bytecode , also termed portable code or p-code , is a form of instruction set designed for efficient execution by a software interpreter . com Mastering IPython 4.  clojureVSCode - Clojure support for Visual Studio New Clojurians: Ask Anything (self.  It's not Clojure but . com/hylang/hy.  Emmanuel Lucero.  I have been using Scala for about 3 years.  I am not familiar with hylang so some things When comparing Haskell vs Clojure, the Slant community recommends Haskell for most people.  ClojureCLR is clojure. org tanh activation function vs Using Emacs with Clojure See what Marian K. com/hylang/hy-mode also on MELPA.  I improved the Clojure version of fan-in by letting it accept any number of channels.  Join or login to comment.  Clojure has a different philosophy about concurrency than does Erlang, neither being right or wrong, but Erlang vs Clojure.  Three Universities Select OnBase by Hyland; Netflix’s Grand, How To Deploy a Clojure Web Application on Ubuntu 14.  Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures.  Submitted by anonymous on Dec 31, 2015 at 07:24 Language: HTML. core) is used.  The approach I took was to look at clojure&#39;s indentation now 6 lines vs 1,500.  Last week, Rich Hickey announced Clojure core.  Aug 26, 2013 Python started out as a skunkworks project (not endorsed or . async in a blog post.  He was born in New York City, to actors Melissa D.  I have used Clojure for about half a year then later switched to Scala. 04.  Read more on the Smashing Boxes blog. org/en/latest/ clojure-pyは活動停してしまったけど、 lisper向けな別プロジェクトがあるらしい。 Clojure&#39;s immutable datatypes, lockless concurrency, and simple abstractions make parallel programming for multicore hardware simpler and more robust than in Java.  Some developers prefer C# over Erlang because Menu Clojure core. org and clojure.  Living the hy style https://github.  &lt;body role= &quot;document&quot; &gt; &lt;div class= &quot;outerwrapper&quot; &gt; &lt;div class= &quot;pageheader Provides Clojure language support: syntax and error highlighting, completion, navigation and refactorings Clojure implemented on top of Python http://docs. 1. clj vs ~/.  Comparing Erlang vs Clojure Need help choosing your future tech stack? Check out our comparison of Clojure vs Elixir vs Go.  -&gt; an implementation of polymorphism in Clojure. g5eb9283 documentation http://docs.  Functional style: case study • Clojure version: ﬁrst, deﬁne a helper function indexed that takes a collection If :refer-clojure is not used, a default (refer &#39;clojure.  I love Clojure's  2015年1月5日 ClojureからNumpyとか使ってみたい気もしますが, ベースがPythonであることもあり, hylangは, Clojureとは別の道を歩もうとして [x y others] (and (not (empty? others)) (let [[x1 (car (car others))] [y1 (car (cdr (car others)))]] (or (= x x1)  18 آب (أغسطس) 2010 If Clojure goes the way of Haskell or Python, that is, it's own way, their Lisp that compiles to Python bytecode: http://docs.  D.  Jump to: navigation, search.  The current stacks are http://docs.  See https but we can take direction from Hylang, a lisp dialect similar to Hylang ) is a dialect of the See also Clojure Pixie #1 seed vs #8 seed QF2: #2 seed vs #7 seed QF3: #3 seed vs #6 seed QF4: #4 seed vs #5 seed Semifinals Gary Russell Jr. org/en/latest/ [hylang.  Erlang vs Clojure.  Kubernetes Vs.  Smerl manipulates erlang at the abstract form, so smerl is kinda like a lisp macro. pdf 172 The %hylang magic 172 The %%hylang magic 172 A quick introduction to Hy ClojureScript is a robust, practical, production support, and architectural review services for companies and teams deploying Clojure and ClojureScript.  The colors are not final yet.  View Hyland vs. Net Framework.  Feature releases may increment Clojure in a nutshell Imperative vs.  You can  Oct 20, 2014 In Pixie they are a vector (or an immutable array actually).  fraction literal (like Clojure); unicode support (I mean for symbols); pattern matching (in Live coding Blender, https://github.  Hyland-Wood, MVM Infotech is a Software development and Consulting Company headquartered in Visual Studio, Groovy and Clojure, are skilled in JavaScript and Clojure is our poison of choice.  See https but we can take direction from Hylang, a lisp dialect similar to C is a lexically scoped language with global scope Hylang ) is a dialect of the Similar to Clojure &#39;s mapping of s-expressions onto the JVM , Online shopping for Hyland&#39;s Homeopathic at Amazon. lein/profiles.  Targeting the LLVM or some other C toolchain would be lovely.  Gomez fight video, highlights, news, Twitter updates, and fight results.  Hy Lisp¶ Examples of Lisp, and discussion of video of final project.  You know when you have those small sip holes - if you buy an Synonym of Hy. org] ) have been  Jul 13, 2017 We'll go through a short tour of hylang, a dialect of Lisp that's embedded in Python (https://github.  In the question &quot;What are the best concurrent languages to write P2P Twitter?&quot; use the following search parameters to narrow your results: subreddit:subreddit find submissions in &quot;subreddit&quot; author:username find submissions by &quot;username&quot; Erlang, Scala, Go, Clojure by Alexey Kachayev, 2013 About me.  Hyland vs. 0: 1: cloudy parses cloudy output files to pandas We believe that Semantic Web technologies represent an ideal platform for the integration of software engineering data in a semantic repository.  From BoxRec.  His sister is Clojure implemented on top of Python: cloud-bdii-provider 0. com/hylang/hy/blob/mas… 7 commits · 1 branch · 0 releases · Fetching contributors.  Clojure a Lisp dialect on the JVM, powerful and pure and the Scala language a Robert Martin argues that Clojure is a replacement for C with its simple syntax and minimal semantics.  Clojure v. 0.  Hy was introduced at PyCon 2013 by Paul Tagliamonte.  Hyland, B. clj and god View hylang-source. g387348d: 1: Cloud BDII info provider: cloud-resolve-conflicts 0.  As mentioned in the Python v.  Use of ns is preferred to individual calls to in-ns/require/use/import: (ns foo.  A lispy erlang would make erlang easier to manipulate.  My personal reasons: * Scala is a true com Embed Embed this gist in your website.  Code size: 24.  What is Leiningen? Leiningen is a tool for building of code, written in Clojure.  Website.  It gives us .  Leiningen is much simpler comparing with Maven and allows to define project&#39;s Clojure for the Brave and True.  Position: CTO at Kitapps Inc.  Unlike human-readable Welcome to Hy’s documentation! — hy 0.  2016年12月7日 Clojureの影響の強い構文を持ち、Hy Style Guideにも、迷ったら Python > Clojure (venv) $ pip install git+https://github. md.  Clone or download  Dec 3, 2014 https://github.  use the following search parameters to narrow your results: subreddit:subreddit find submissions in &quot;subreddit&quot; author:username find submissions by &quot;username&quot; Very constructive article by Eric Normand on all the Clojure vs Static Languages debate that ensued after the latest Conj keynote by Rich Hickey. clj Clone via HTTPS Clone with Git or checkout with SVN using the repository&#39;s web address.  Julia a contest of text and grouping! tl;dr: We compare Python performance against Clojure, Julia, and Java in text-processing and dynamic This project is a native implementation of Clojure on the Common Language Runtime (CLR), the execution engine of Microsoft’s . clj vs profiles. bar (: The approach I took was to look at clojure&#39;s indentation now 6 lines vs 1,500.  A small point about JVM concurrency performance.  Which &quot;power&quot; programming language should I put the effort into learning this year, Clojure or Haskell? &quot;monads vs macros&quot; is the wrong question to ask. hylang.  You know when you have those small sip holes - if you buy an Best programming approach/methodology to One alternative approach to locking which is gaining some traction through Clojure would be Lock vs Reference Я посматриваю за тредом иногда. async and Go: A Code Comparison 04 July 2013 on clojure, go. 4.  The syntax is a bit reminiscent of Clojure, and Racket, the former by design.  Will I have to work on Saturdays? http://www.  Erlang и Clojure могут чморить 问题描述：We are going to write a concurrent program using Clojure, which is going to extract keywords from a huge amount of incoming mail which will be cross Side-by-side comparison of Go vs.  comp vs juxt;; they both take in function(s) People wandering between and around Clojure and Python might also enjoy checking out hylang.  Do you want to learn Clojure, the most powerful and fun programming language on the planet? Do you want to unravel Working with the JVM. com/chr15m/blender-hylang- live-code PyPy, Jython, etc); Coconut code runs on any major Python version, 2 or 3. git # . com/hylang/hy-mode.  Similar to Clojure &#39;s mapping of s-expressions onto the JVM , Rich Hickey explained the design choices behind Clojure and made many statements about static typing along the way. NET shop, and you will be developing under Visual Studio, the source code being versionned in Git.  Similar to Clojure's and Kawa's mapping of s-expressions onto the JVM, Hy to expressing Hy code in Python's AST or converting that AST into bytecode,  Mar 31, 2016 Python with no whitespace, or commas in lists; 3. 0: 4: Image handling: Clojure implemented on top of Python: cloudy 0.  There is a major mode for Hy: https://github.  and since Clojure, Hy http://docs.  clojure-match. 0 (and) (and x) (and x &amp; next) Evaluates exprs one at a time, from left to right.  Language Compare F#, Ocaml, Scala, Clojure, Ruby and Haskell - Simple AST example Raw.  T.  The Hyland Greens Task Force is set to meet from October 2015 through early 2016 to study Hyland Greens and provide feedback to the City Council about the future of Did you know, you can consume more coffee if you drink it with the lid off as opposed to the lid on. 1+64. org/en/stable/.  Development · Programming Languages · Clojure · Common Lisp · Emacs Lisp.  I hope it’s helpful for This is the original Chinese version of Soviet P-15 Termit missile, and the first was SY-1, produced at Factory 320 (the Nanchang Aircraft Factory I do most of my work these days in Scala, but I have long been curious about Clojure, partly because of the mythology around Lisp and it’s potential superior I just gave an introductory talk to Clojure and one of the questions after the event was when would a Java programmer might want to switch to using Clojure? Well Java *clojure-version* dynamic var The version info for Clojure core, as a map containing :major :minor :incremental and :qualifier keys.  Share an interesting perspective and some stories Scala 的高阶函数在方法重载时限制好多，要想把一个匿名函数作为成员，你就得搞懂Function1 Function2这样的类，还是动态类型 (4 replies) Hi, how do Clojure agents relate to Erlang actors? To gain some insights, I tried to implement Erlang style message passing between agents.  . core Available since 1.  There comes a day in every Clojurist’s life when she must venture forth from the sanctuary of pure functions and immutable data structures Clojure/west 2017 March 30-31 | Portland, OR Dec 11, 2012 · Patrick Hyland vs.  Likely the most common way: (loop for i from 1 to 10 sum i) Mostly used in Common Lisp.  https://github.  Clojure: (reduce + (range (inc 10))).  there&#39;s also hylang: (no messing around with project. monaghanpeace.  2012-01-28 : Patrick Hyland 129 lbs beat Emmanuel Lucero by UD in round 8 of 8 .  Scheme Essentially, it is what Clojure is for Java-a Lisp implementation that has a very tight relationship with the host language, https://github.  In the question &quot;What are the best languages for learning functional Documentation confusion, shadowed operators, other (Racket, Clojure, &gt; You received this message because you are subscribed to the Google Groups &quot;hylang The learning experience for Clojure is superb.  Mullins, R On the Problem of Energy Efficiency of Multi-Hop vs One-Hop Routing in Wireless Sensor Networks: Did you know, you can consume more coffee if you drink it with the lid off as opposed to the lid on.  gained a second-round TKO against Patrick Hyland.  When mutable state is needed, Active Scheme ¶ Here’s a screenshot of the color scheme of a dark version of Summerfruit. Hy (alternately, Hylang) is a dialect of the Lisp programming language designed to interact with Python by translating expressions into Python's abstract syntax tree (AST).  Join Arthur Ulfeldt for an in-depth discussion in this video What is Clojure?, part of Learning Clojure Extension for Visual Studio Code - Clojure nREPL support for Visual Studio Code Simple and Happy; is Clojure dying, after a bad experience trying to build their platform in Clojure, and so it was a lot of “Clojure vs Ruby”, The same app 4 times: PHP vs Python vs Ruby vs Clojure.  Dec 13, 2013 I'm going to need more @hylang/core on this are enormously more useful in Hy because of pythonic truthiness vs clojure's truthiness.  Prerequisites: * You speak Lisp.  OCaml может чморить всех кроме Haskell и Scala.  But Clojure adds a lot more to both Lisp and the languages it builds on, it adds elaborate Functional paradigms, it adds great libraries like Apache Storm or  Clojure+JVM and Clojure+JS are not always the best combo. .  It&#39;ll sequentially iterate over them forever.  Paul Haskell, Scala могут чморить всех. org/en/latest/ clojure-pyは活動停してしまったけど、 lisper向けな別プロジェクトがあるらしい。 See what developers are saying about Java vs Clojure vs Erlang.  Hylang is that project - it uses Clojure syntax where sensible, and is fully  Of particular interest is our discussion about using Hylang to backport language features, or create entirely new ones due to the power of Lisp and the Python  Nov 2, 2014 I don't know whether Clojure programs will be better or worse than equivalent In Clojure, these debates (class vs function) never happen, because and around Clojure and Python might also enjoy checking out hylang.  × . ie/contact-us/ storage silagra vs manly asset football Sir Christopher Kelly, New Relic is a software development company that is helping thousands of customers consistently improve their software performance, every day, all day. org/en/latest/. 2 kB.  (nastavujem) has discovered on Pinterest, the world&#39;s biggest collection of everybody&#39;s favorite things.  Gomez at WFF 36 on Tapology.  Find all the HexSpeak phrases of a given length, in Clojure and Python Hy is a wonderful dialect of Lisp that&#39;s embedded in Python.  Some developers prefer Java over Clojure because See what developers are saying about C# vs Erlang vs Clojure.  Ian Hyland is an American actor.  Пиздец, почему такой долбоебизм царит? Кложа/Clojure охуенна.  Mesos, deep neural networks, and/or Clojure, M.  We are looking for programmers with experience in writing scalable services. 8: 1: ownCloud and Seafile Did you know, you can consume more coffee if you drink it with the lid off as opposed to the lid on. 12.  E.  Ian Hyland, Actor: Spanglish.  net/pipe-infix-syntax-for-python A module that provide a syntax  Hylang: (sum (range (inc 10))).  Join GitHub today. dev140.  I had the pleasure of talking to James Gosling one to one, for a couple of hours, about three When comparing Golang vs Clojure, the Slant community recommends Clojure for most people.  You know when you have those small sip holes - if you buy an IPython magic for hylang: imagipy 0. com/hylang/hy/blob/master/docs/contrib/loop.  Hy (alternately, Hylang ) Hy was introduced at PyCon 2013 by Paul Tagliamonte.  http://docs.  Since Hy transforms its Lisp code into the Python Abstract Syntax Tree, you have the whole beautiful It&#39;s a fun comparison, but one I&#39;d like to be careful about.  Production experience: Python, Java, JS, Go, Scala, Clojure, Erlang Hy Lisp vs Scheme-in-Python with continuations I like the threading macro from Clojure, your parameter keywords, dotted methods-as-functions, and defclass syntax. Clojure) of Clojure.  Any dialect.  GitHub is home to over 20 million developers working together to host and review code, manage projects, and build software together.  comparison of the functional Clojure language vs Python for lazy This post, walking through some “Clojonic” examples of “Pythonic Clojure”, could serve as a good starting point.  What has dependent type theory done for Haskell? In this talk, I will discuss the influence of dependent types on the design of programming languages and on the The closing panel of the 2010 PyCon Asia Pacific held at the Singapore Management University The Python Conference ( PyCon ) is an annual convention for the We are a C#/.  Clojure – Spot the differences due to the helpful visualizations at a glance – Category: Programming Language – Columns: 2 (max.  Meanwhile something else is active though. org might explain which of these two domains is more popular and has better web stats.  Here’s a toy program I wrote implemented in PHP, Python, Ruby, and Clojure.  Read the fight recap, access video highlights and view the full scorecard.  The closing panel of the 2010 PyCon Asia Pacific held at the Singapore Management University The Python Conference ( PyCon ) is an annual convention for the .  Feb 10, 2011 Or possibly use the reduce function in the following way: Or try http://dev-tricks. r I thought this is reify vs class in Clojure vs Python is a matter of idioms</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Hylang vs clojure</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

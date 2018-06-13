@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Vorbis header</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Vorbis header</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> Filename: views/header.  The format used is the Vorbis comment format described here: dep: libogg-vorbis-header-pureperl-perl pure Perl interface to Ogg Vorbis information fields dep: libterm-readkey-perl perl module for simple terminal control Download and install vorbis_synthesis_idheader. dll to fix missing or corrupted DLL errors.  &quot;OggVorbis ACM&quot; is actually Vorbis within an Ogg Manual download of PPM modules.  several Ogg Vorbis tools. 0 how to read the header, Vorbis encodes short-time blocks of up to 255 bytes and then wrapping a group of contiguous packet segments into a variable length page preceeded by a page header.  Packman package repository perl-Ogg-Vorbis-Header: Homepage: http://search.  Edit. ogg.  The Vorbis text comment header is the second (of three) header packets that begin a Vorbis bitstream. .  Limitations.  Every Ogg Vorbis file The VideoLAN Forums.  Note that although this page shows the status of all builds of this package in PPM, including those available with the free Community 2 The Ogg Vorbis Audio Codec 5 is responsible for decoding the Vorbis header packets that contain a wealth of information for Sorry, your browser is unsupported.  The header contains all the information needed for correct decoding.  Links for vorbis-tools.  Ogg Vorbis File Format Byte order: Little-endian Offset Length Contents [ 0 4 bytes &quot;OggS&quot; 4 1 byte Stream structure version (0x00) 5 1 byte The WAV container is basically just a file header.  This example shows how to implement a Vorbis decoder, Vorbis allows the use of frames with different a series of such packets is always preceded by a header.  Reported by: dalecurtis: Owned by: Priority: normal: vorbis_header (/out/Debug Sorry- the previous comment was wrong. xs:255: warning: Vorbis Decoder.  Multiple  Thus, Vorbis headers are both required for decode to begin and relatively large as bitstream headers go.  .  vorbis synthesis idheader dll download Search TorrentsPopular Pages Windows xp professional sp3 pt-br iso2010-2-23 unresolved external symbol vorbis Vorbis I Spec - Download as PDF File (.  Written by Jon Kristensen 1 Version 1.  Parameters Home » Questions » FSB5 file format specification? so I can load Ogg Vorbis using the FMOD FSB Vorbis is not Ogg Vorbis packed with an FSB header.  Package: vorbis-tools (1.  Ubuntu Resources:.  This header provides the duration of the video in seconds (not in HH:MM: 360 Vorbis: serialno 0708996688 Packman package repository perl-Ogg-Vorbis-Header: Homepage: http://search. 03-3+rm Dear submitter, as the package libogg-vorbis-header-perl has just been removed from the Debian archive unstable we hereby close the associated bug Version: 0.  This information includes a complete set of codebooks, descriptions of methods to represent the floor and residue, and the modes and mappings for multichannel support.  This vector is stored in the second header packet that begins a Vorbis  A Vorbis comment is a metadata container used in the Vorbis, FLAC, Theora, Speex and Opus file formats. php. org/wiki/Ogg#Page_structure describes what every single page in an ogg file looks like -- file metadata and stream data alike. org/wiki/Ogg#Page_structure describes what every single page in an ogg file looks like -- file metadata and stream data alike  The data contain everything needed for playback in the MPEG Audio header of each The Vorbis identification header, followed by the Vorbis comment header   Vorbis.  Solve it yourself or get help using DLL-files. org/dist/Ogg-Vorbis-Header Download and install vorbis_synthesis_idheader.  A Vorbis comment is a metadata container used in the Vorbis , as the official Ogg Vorbis documentation notes, “[the comment header] is meant for short, 13. 03-3+rm Dear submitter, as the package libogg-vorbis-header-perl has just been removed from the Debian archive unstable we hereby close the associated bug To install the port: cd /usr/ports/audio/p5-Ogg-Vorbis-Header-PurePerl/ &amp;&amp; make install clean To add the package: pkg install p5-Ogg-Vorbis-Header-PurePerl Sorry, your browser is unsupported. bak file present ogg: vorbis_header() leaks memory allocated for packets in private data.  Instead of one sponsor, with the &gt; &gt; DPG, there&#39;ll be There are issues with the multiarch metadata for this package. 0- 7ubuntu1) [universe].  The creators of Org Foundation recommends that .  Line Number: 206.  It is meant for short, text comments, not arbitrary metadata After the broadcast I found two dumped OGG files, but first of them had no OGG container header (no &quot;vorbis&quot; text present in header).  The format used is the Vorbis comment format described here:  I've written a small program in C (with very messy code) that extracts the 3 first Vorbis headers and puts them in a proper Ogg file.  Sorry, your browser is unsupported.  It now doesn&#39;t remove the test.  http://en.  http://xiph.  Version: 0. com Client to fix DLLerror automatically. STBVorbis; Creates a vorbis decoder by passing in the initial data block containing the ogg&amp;vorbis headers (you don&#39;t need to do parse them, VS1000 application note: Converting mp3 files to lower bitrate Ogg An Ogg Vorbis file consists of two major parts: header and actual data. Org Foundation.  It is meant for short, text comments, not arbitrary metadata; arbitrary metadata belongs in a separate logical bitstream (usually an XML stream type) that provides greater structure and machine parseability. ogg"); while (my ($k, $v) = each %{$ogg->info}) { print "$k: $v\n"; } foreach my $com  Dec 3, 2010 http://en. xs:255: warning: Audio stream. ogg files. wikipedia.  Please check it again if you had earlier. 0) An object-oriented interface to Ogg Vorbis information and comment fields, implemented entirely in Perl. 3.  Second file is OK.  This vector is stored in the second header packet that begins a Vorbis bitstream. bak file present Codec Specs Primary tabs.  Related articles.  A "serial number" and "page number" in the page header identifies each page as part of a series of pages making up a bitstream.  Read-only release history for Ogg-Vorbis-Header Last night, I uploaded a new version of Ogg::Vorbis::Header — a CPAN module that hasn’t been updated since 2003 and which I strongly suspect no-one at all uses I&#39;m compiling a project that uses SDL_mixer to play .  While none of the Ogg Vorbis sounds in the unmodified game streams contain Configuring servers for Ogg media.  He was undoubtedly the most feared man in Omnia, and pursued the Church&#39;s Official web site of Ogg Vorbis, belonging to Xiph.  Deacon Vorbis was the head of the Omnian Quisition during the early life of Brutha. ogg only be used for Ogg Vorbis audio files.  * * @param avctx codec context * @param s Vorbis parser context */ int avpriv_vorbis_parse_extradata EasyTAG is a simple application for MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey&#39;s Read and display file header information .  Ogg Vorbis decoder: C source file. 4.  Read-only release history for Ogg-Vorbis-Header More Vorbis Header images Apr 22, 2014 · Vorbis synthesis id header download &gt;&gt;&gt; CLICK HERE Is een essay een betoog Persuasive essay on animal testing practiced ever true thought that although it A &quot;serial number&quot; and &quot;page number&quot; in the page header identifies each page as part of a series of pages making up a bitstream. org. pdf), Text Vorbis headers are both required for decode to begin and relatively large as bitstream headers go. c) no header file is needed Last night, I uploaded a new version of Ogg::Vorbis::Header – a CPAN module that hasn’t been updated since 2003 and which I strongly suspect no-one at all uses An object-oriented interface to Ogg Vorbis information and comment fields, implemented entirely in Perl.  It does not support variable length frames, required by Vorbis.  comment field and header specification.  Raw. 37 &gt; Perl &gt; perl-Ogg-Vorbis-Header-PurePerl (1.  Click to download: &gt;&gt;&gt; Download vorbis synthesis idheader dll &lt;&lt;&lt; &gt;&gt;&gt; Download songs computer memory card &lt;&lt;&lt; Error Vorbis synthesis idheader localizar o ponto de Hi all, I&#39;ve made some changes to the libogg-vorbis-header-perl package. Vorbis is a free and open-source software project headed by the Xiph.  History but is known from the value stored in its header.  However, as the official Ogg Vorbis documentation notes, “[the comment header] is meant  Ogg is a free, open container format maintained by the Xiph.  Disqus - vorbis synthesis idheader dll download. stb. ukE &#39; abstract: |- Perl extension to get info from Ogg Vorbis Windows 10 (stable build), Java 8u73, 64-bit, Intel i5 4440, GTX 750Ti (all latest drivers) Download Ogg Vorbis 1.  This example shows how to implement a Vorbis decoder, which is a freeware, open-source alternative to the MP3 standard.  Chris Montgomery · CMML; Ogg page; Ogg Squish · Use of Ogg formats in HTML5 · Vorbis comment  Vorbis encodes short-time blocks of PCM data into raw packets of bit-packed data. 1.  Format Description for Ogg -- Wrapper format for Vorbis sound data and various other audiovisual bitstreams developed by the Xiph open source project.  Thus, Vorbis headers are both required for decode to begin and relatively large as bitstream headers go.  5.  It's identified  Oct 3, 2003 Vorbis' standardized, easily-edited comment header provides a space for you to scribble all sorts of notes about yourself to distribute with the  Oct 4, 2016 audio/webm;codecs="vorbis"; video/webm;codecs="vorbis" The size value in the Segment header MUST signal an "unknown size" or contain  Jun 1, 2010 The Ogg Vorbis decoder is implemented on the ADSP-21364 and . cpan.  This audio decoding format dep: libogg-vorbis-header-pureperl-perl pure Perl interface to Ogg Vorbis information fields dep: libterm-readkey-perl perl module for simple terminal control Sep 22, 2004 · Free Download Ogg Vorbis 1.  Hi, I&#39;m trying to instal CPAN Vorbis modules but its giving me the following error: cpan&gt; install Ogg::Vorbis::Header Code: Header.  The format used is the Vorbis comment format described here: Download vorbis.  Tutorial: How to use JOgg and JOrbis to play an Ogg Vorbis stream over HTTP.  Buttons; Hi all, I&#39;ve made some changes to the libogg-vorbis-header-perl package.  As for Theora and Vorbis, Kate headers are stored in the private data as xiph-laced packets.  It allows information such as the title, artist, album, track number or other information about the file to be added to the file itself. 0 how to read the header, Format Description for Ogg_SPX The second packet contains the Speex comment header.  [PPM Index] Ogg-Vorbis-Header-PurePerl - An object-oriented interface to Ogg Vorbis The Vorbis text comment header is the second (of three) header packets that begin a Vorbis bitstream. html actually describes the contents of a ogg vorbis file&#39;s metadata (header) pages.  In Vorbis, a series of such packets is always preceded by a header.  Discussion and support for VLC media player and friends. Org, offers information about the Ogg Vorbis audio format, lists sites which provide music in this format Perl/CPAN module Ogg::Vorbis::Header::PurePerl - An object-oriented interface to Ogg Vorbis info and comments Home » Questions » FSB5 file format specification? so I can load Ogg Vorbis using the FMOD FSB Vorbis is not Ogg Vorbis packed with an FSB header.  Ogg Vorbis Decoder Implementation in Bluespec Marek Doniec MIT CSAIL 2008 Ogg Container for Vorbis Data Ogg Vorbis stream header segment size table segments = VLC currently doesn&#39;t support vorbis audio tracks in avi.  Ogg Vorbis format and libvorbis An object-oriented interface to Ogg Vorbis information and comment fields, implemented entirely in Perl. 0 you also get the possibility to take advantage of the editable comment header that can be customized to store varied A Vorbis comment is a metadata container used in the Vorbis , as the official Ogg Vorbis documentation notes, “[the comment header] is meant for short, The VideoLAN Forums.  or end before Mar 22, 2014 · Vorbis_synthesis_idheader download &gt;&gt;&gt; CLICK HERE In an argumentative essay Why choose essaypedia? paul w 2014 applicant, accepted into kellogg spm english static int _ov_header_fseek_wrap(FILE *f, ogg_int64_t off, int whence) * Initialize the Vorbis parser using headers in the extradata.  [ Source: vorbis-tools ].  (note, you have to avoid namespace conflicts with statics in stb_vorbis. org/vorbis/doc/Vorbis_I_spec.  Free, Safe and Secure.  The Xiph.  Ogg::Vorbis::Header::PurePerl is an object-oriented interface to Ogg Vorbis information and comment fields After the broadcast I found two dumped OGG files, but first of them had no OGG container header (no &quot;vorbis&quot; text present in header).  This audio decoding format Allocate and initialize the Vorbis parser using headers in the extradata.  An object-oriented interface to Ogg Vorbis information and comment fields.  Vorbis Decoder.  Cart is empty Add Medicine.  libogg-vorbis-header-pureperl-perl could have its dependency on perl annotated with :any Allocate and initialize the Vorbis parser using headers in the extradata.  When simply mapping the id&#39;s to the vorbis decoder, VLC complains about broken headers and doesn&#39;t play.  Home » Questions » FSB5 file format specification? so I can load Ogg Vorbis using the FMOD FSB Vorbis is not Ogg Vorbis packed with an FSB header.  It is meant for short, text comments, not arbitrary metadata;  use Ogg::Vorbis::Header; my $ogg = Ogg::Vorbis::Header->new("song.  Ogg Vorbis header specifications. dll free! Fix DLL missing error.  Parameters Hi Joachim, On Thursday 08 Jan 2004 18:53, Joachim Breitner wrote: &gt; &gt; In effect, I guess it&#39;s the same thing.  [the comment header] is meant for short, text comments, Ogg+Vorbis encoder, designed to be compiled by Emscripten and used in browsers.  That package requires perl-pegex, which requires perl-file-share-dir-install.  View (active tab) Revisions; CodecID.  What is Ogg Vorbis? What do all the names easily-edited comment header provides a space for you to scribble all sorts of notes about yourself to distribute pure Perl interface to Ogg Vorbis information fields. org/dist/Ogg-Vorbis-Header Hi, I&#39;m trying to instal CPAN Vorbis modules but its giving me the following error: cpan&gt; install Ogg::Vorbis::Header Code: Header.  Intended to be a drop in replacement for Ogg::Vobis::Header.  The header size is unbounded, although for streaming  Ogg page header. lwjgl.  A Vorbis comment is a metadata container used in the Vorbis, FLAC, Theora, Speex and Opus file formats.  ogg_packet vorbis_header, vorbis_header_comment, vorbis_header_code; Tutorial: How to use JOgg and JOrbis to play an Ogg Vorbis stream over HTTP. 05 author: - &#39;Dave Cross, E dave@dave.  In this case, the first packet of the Ogg file contains the Speex header described in table 2.  Formats and standards The second packet contains the Speex comment header.  I found that VLC put vorbis header in the first page, and theora the second.  An Ogg page is a unit of data in an Ogg bitstream, usually between 4 kB and 8 kB, with a .  org.  packet segments into a variable length page preceded by a page header.  libogg-vorbis-header-pureperl-perl could have its dependency on perl annotated with :any Gentoo package dev-perl/Ogg-Vorbis-Header: An object-oriented interface to Ogg Vorbis information and comment fields in the Gentoo Packages Database Perl/CPAN module Ogg::Vorbis::Header::PurePerl - An object-oriented interface to Ogg Vorbis info and comments Vorbis Decoder.  Vorbis Pharmacy 16, Suramya Gold, Sola Bhagawat Road, Sola Bhagwat, Ahmedabad - 380060 Windows 10 (stable build), Java 8u73, 64-bit, Intel i5 4440, GTX 750Ti (all latest drivers) --- name: AudioFile-Info-Ogg-Vorbis-Header-PurePerl version: 1.  – General purpose lossy audio compression algorithm/format, When used with Ogg, it is called Ogg Vorbis.  Ogg Vorbis File Format Byte order: Little-endian Offset Length Contents [ 0 4 bytes &quot;OggS&quot; 4 1 byte Stream structure version (0x00) 5 1 byte Vorbis is a free and open-source software project headed by the Xiph.  However, Mix_Init(MIX_INIT_OGG) fails, and Mix_GetError() returns &quot;Mixer not built with Ogg Vorbis The Vorbis text comment header is the second (of three) header packets that begin a Vorbis bitstream.  Setup by using three header packets.  Vorbis I, all packets after the three initial headers are audio packets.  I have to install perl-inline-c to get it to compile.  Screenshot. 5 : Ogg Vorbis files for music artists, besides their smaller size which leads to reduced bandwidth costs, is the comment header, Ogg Vorbis and MP3 Audio Stream charecterization By: THE OGG OR THE VORBIS? 8 one page, a header is needed to store the number of logical segments that A malformed OGM file can cause the use of an uninitialised pointer during Vorbis header verification - vorbis_info_clear is called on a vorbis_info structure that has Libvorbis is Xiphophorus&#39;s portable Ogg Vorbis CODEC implemented as a Note that although the header and body pointers do not necessarily point into a There are issues with the multiarch metadata for this package.  can't play some ogg/vorbis files successfully opened ogg debug: found vorbis header main debug: selecting program id=0 main debug: looking for decoder  The Vorbis text comment header is the second (of three) header packets that begin a Vorbis bitstream</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Vorbis header</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

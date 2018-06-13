@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Openconnect ubuntu config</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Openconnect ubuntu config</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> Install Openconnect OpenConnect server, also known This article will show you how to install and setup ocserv on Ubuntu 14 apt-get install build-essential pkg-config libgnutls28 Create config folder and copy sample config.  查看产品详细信息2.  اول از هم باید ocserv رو، رو سرور نصب کنیم.  Found 8 matching packages.  Aug 2, 2017 openconnect is only available in Ubuntu 9.  OpenConnect is an SSL apt-get update sudo apt-get -y install xz-utils dbus build-essential pkg-config libgnutls28-dev Description=OpenConnect VPN (Note: There is also an alternative method of installing UCI VPN support without using the Cisco client, but using the built-in Debian/Ubuntu openconnect and openvpn Cisco AnyConnect VPN Client vs. 04 and connect to it using the Cisco Anyconnect client.  Jan 13, 2013 · VPN setup for UVa using open connect under Ubuntu and Debian Now click on you network manager and select VPN connections-&gt;Configure VPN as shown in the by Brandon Rhodes • Home.  Open a Terminal and run the following command: sudo apt-get install network-manager-openconnect-gnome.  From another box, that has a ubuntu 14.  Introduction.  One package will be installed.  In short, it’s a bug in the vpn scripts that work with Openconnect on Ubuntu 15.  But why not connect with the simplistic, FOSS, and Network-Manager-integrated, &quot;openconnect&quot; and &quot;network So getting the openconnect method going on Debian or Ubuntu based Linux distributions is a bit different than Fedora, and I thought I would share some tips below with fellow Debian/Ubuntu users if it will save you some time. 10/16. 4(9)T or later on Cisco SR500, 870, 880, 1800, 2800, 3800 OCserv on Ubuntu 16. 04 x64. 22 has an unconditional workaround for this, which is never to obey that directive after an HTTP/1.  GNU/Linux Debian/Ubuntu Installation. 04 the &quot;network-manager-openconnect-gnome&quot; package with the Ubuntu package manager and it works well.  I was using password based authentication, but clients on iOS can not remember my password. 04 for openconnect the failure after connecting says: Got CONNECT response: HTTP/1.  Note that we found that version 5. 4. x/16. me/2014/02/openconnect-ubuntu/ Incoming search terms: For Ubuntu Linux, Cisco provides the anyconnect VPN client. 04 not working.  sudo . infradead.  environment variables that vpnc-script uses to configure network OpenConnect VPN Server Configuration Files on Linode Ubuntu # config-per-user/group or even connect and disconnect # It is not used by the openconnect client.  The installation is a very straighforward GNU-toolchain-style build; the following just embellishes it with some automation.  It is free software, and is released under the GNU LGPL v2.  Package network-manager-openconnect.  OpenConnect is a client for Cisco’s AnyConnect VPN. com&#39; expressvpn-torrent-setup (optimized for fast web surfing) is ubuntu vpn openconnect now online! Apr 30, 2013 - Server #1 &#39;euro1.  Released versions of OpenConnect Server are available from the FTP site: ftp://ftp. 04 to 16. 05160) This time, OCServ 0. 04 for Cisco AnyConnect Client allows you to specify the fields for your certificates in a configuration Configure the OpenConnect Download and Installation of OpenConnect: One package will be installed.  We strongly urge you to use Ubuntu 10. 0 response.  Only Openconnect version 7.  by Brandon Rhodes • Home.  Click the Network icon in the menu bar, select VPN Connections, then Configure VPN Click Add to add a new connection. 11.  The default routing rules are missing in ubuntu openconnect 15. 04 system.  ubuntu vpn openconnect [Online] Download free VPN and access your PC, ubuntu vpn openconnect The Fastest VPN for USA in 2017.  ubuntu vpn openconnect [Online] Best VPN provides expert reviews, ubuntu vpn openconnect The Fastest VPN for USA in 2017. 10]. vpnbook.  Its purpose is to be a secure, small, fast and configurable VPN server.  2.  The following instructions detail how to set up the OpenConnect VPN client for Ubuntu Linux.  Setup OpenConnect.  Start a console and type the command below with the correct arguments. 99 does not compile easily on Unbutu 14.  # Change config file to (remove everything else) /etc/tsocks.  They successfully connect, I am not able to connect via openconnect VPN client from my ubuntu 14.  Modify OCServ Configuration File.  Its Following are instructions for connecting to Indiana University&#39;s SSL VPN using the OpenConnect client on a workstation running a current 64-bit Ubuntu, Fedo Build openconnect.  I installed Cisco AnyConnect Compatible VPN (openconnect) Ask Ubuntu is a question and After following Tramway guide I was able to configure AnyConnect Ubuntu manuals.  go.  You need to use the VPN if you are trying to access Campus Resources that OpenConnect is a client for Cisco&#39;s AnyConnect SSL VPN, which is supported by the ASA5500 Series, by IOS 12.  OpenConnect Client for Fedora 23 and newer .  Instructions on how to remove openconnect from Ubuntu 14.  1.  OCserv is the OpenConnect VPN server.  Links for openconnect Ubuntu Resources: Download Source Package openconnect: [openconnect_7.  OpenConnect server(ocserv) is a sudo apt-get install openconnect network-manager-openconnect-gnome.  First, locate the remote directive. 04 for Cisco AnyConnect Client . 04 and 16.  Getting connected to an  Aug 3, 2017 OpenConnect is a client for Cisco's AnyConnect SSL VPN, which is Then configure and connect with nm-applet (network manager's tray icon  Jun 10, 2011 Next, click the Network Manager, VPN Connections, Configure VPN, Add. 04 (Trusty Tahr) using command-line.  Why this guide uses OpenSSL instead of GnuTLS.  Fixing OpenConnect’s VPN Search Domains on Ubuntu.  Openconnect plugin for NetworkManager; this is an implementation of a wrapper to openconnect (which allows connecting to SSL this is the same issue as here: Getting openconnect vpn to work through gui, but my additions to it were deleted and i was asked to create a new question.  A status window will open showing the log output while On Ubuntu or Debian, you I&#39;m trying to use OpenConnect to connect to my OpenConnect: Setting default routes.  Package network-manager-config-connectivity-debian.  Press Enter, then press the letter y, and then press enter again.  Sep 21, 2017 OpenConnect is included in current releases of Ubuntu, Fedora, and Red Hat Enterprise Linux (RHEL); however, if OpenConnect is not already  [This is not needed for Ubuntu 15. 第一步，安装OPENCONNECT以及network manager的openconnect插件 Linux-ubuntu设置Cisco openconnect Configure VPN,如下图 Jun 14, 2014 · This is the directory from where dnsmasq loads its configuration Installing Hadoop on Ubuntu 2 thoughts on “ Linux Mint OpenConnect VPN DNS AnyConnect won&#39;t install Linux Ubuntu 13.  Reboot ; PPTP VPN Configuration - This setup works for connecting to ISA 2004/2006 PPTP VPNs.  Open terminal. conf Open this new file in your text editor: nano ~/client-configs/base. conf Inside, we need to make a few adjustments. 1 .  OpenConnect is A sample config HowTo Openconnect on linux devices (like Requirements: openconnect vpnc vpnc-scripts Install requirements: Ubuntu/Raspbian # Update repository sudo apt #在Ubuntu 14 64位vps运作成功 (OpenConnect server)是一个 #修改权限，以便用WinSCP. 9 , and is This article will be showing how to install Openconnect server on Ubuntu 16. com&#39; has now been updated with all services enabled.  Getting problems on the Ubuntu 11. 0. 04.  Jun. openconnect [--config configfile] [-b,--background] [--pid-file pidfile] [-c,--certificate cert] [-e,--cert-expire-warning days] [-k,--sslkey key] [-C,--cookie cookie]  May 24, 2015 This one helped me: network-manager-openconnect-gnome  Aug 29, 2017 Installing and using the OpenConnect client with Debian and Ubuntu for UC Irvine (UCI) VPN.  OpenConnect on but with Ubuntu 11.  We&#39;ll be building OpenConnect mostly with its defaults, but we&#39;re going to use OpenSSL rather than GnuTLS. 10. 06 and higher are compatible. 1.  I was looking for an alternative to Cisco AnyConnect VPN client for my Ubuntu to find out the configuration I I upgraded my notebook from Ubuntu 14.  Install the OpenConnect client.  On Ubuntu, make sure you have installed (at least) vpnc and gettext.  Enter a description in the Connection name field. 1 Openconnect and Pulse Stopped Working. 04 Desktop distribution as an example.  I upgraded my notebook from Ubuntu 14.  To configure it Package: openconnect (5. 04 installed and openconnect version 5.  I used to connect to to this VPN 1 month back and since then I had not made any Instructions on how to install openconnect on Ubuntu 14.  get install pkg-config a. 04 (Lucid), as it contains the newest May 20, 2015 · VPN setup in Ubuntu network-manager-openconnect .  I guess it&#39;s a this is the same issue as here: Getting openconnect vpn to work through gui, but my additions to it were deleted and i was asked to create a new question.  Provided by: openconnect_5.  Ri Xu March 19, 2016 Linux 3 Comments. 80 on Ubuntu 14.  NetworkManager -c file, --config=file. 04 I need to connect to a client&#39;s VPN. pfx As I can&#39;t use physical VPN clients I need a s/w solution and believe OpenConnect is the way Ask Ubuntu; Webmasters; Game Download.  A quick technical note about VPN hostnames on Ubuntu Linux, since otherwise I will Instructions on how to remove openconnect from Ubuntu 14.  Necessary for burning fat ubuntu vpn openconnect and calorie consumption and making heart and lungs healthier. sh with the following content:. conf # Lauch openvpn, finally sudo openvpn --config $1 --dev tun0  Nov 1, 2014 OpenConnect is a client for Cisco's AnyConnect VPN.  Since then, Openconnect stopped working and is giving me the following error message when launching: openconnect This article will show you how to install and setup ocserv on Ubuntu apt-get install build-essential pkg-config libgnutls28-dev Start ocserv and connect Create and open a file called make_config.  A quick technical note about VPN hostnames on Ubuntu Linux, since otherwise I will Here are old articles about OpenConnect, the open source AnyConnect server: OpenConnect on Ubuntu Open Connect Server Configuration (Working for iOS) Cisco AnyConnect Client for OS X/Windows/Linux (Version 3. 02-1) [universe] Links for openconnect Ubuntu Resources: Bug Reports; Network configuration scripts for VPNC and OpenConnect ubuntu vpn openconnect [Online] Fastest VPN Services Best Suitable For Unblocking, ubuntu vpn openconnect Get Secure Unlimited Bandwidth Now! – abbr, acronym, pre, code, sub, sup, etc. 10 (Karmic) and higher.  Installation is outlined below. /configure; sudo make; openconnect on ubuntu server 16.  0.  .  Choose the OpenConnect VPN option.  Type sudo apt-get install network-manager-openconnect , and then type your password. 04 LTS Server The problem is that, time to time some unknown users process takes port on which OCserver is ubuntu vpn openconnect [Online] Fastest VPN Services Best Suitable For Unblocking, ubuntu vpn openconnect Get Secure Unlimited Bandwidth Now! I&#39;m using OpenConnect to connect to my workplace via VPN.  This article will be showing how to install Openconnect server on Ubuntu 16. 06-2build2. 1/setup.  OpenConnect server (ocserv) is an SSL VPN server.  And still doesn’t work for OS X. 04 Desktop distribution Follow these steps and refer to the screenshots to install OpenConnect, How to Connect to Cisco AnyConnect VPN in Ubuntu; How to Connect to Cisco AnyConnect VPN in Ubuntu. 06 automatic proxy configuration management library I have configured OpenConnect server on my Ubuntu 14.  ubuntu vpn openconnect [Online] Download free VPN and access your PC, ubuntu vpn openconnect Fastest VPN Services! Jan 13, 2013 · VPN setup for UVa using open connect under Ubuntu and Debian Now click on you network manager and select VPN connections-&gt;Configure VPN as shown in the ubuntu vpn openconnect [Online] Best VPN provides expert reviews, ubuntu vpn openconnect Get Secure Unlimited Bandwidth Now! Alibaba Cloud Tech Share - Install OpenConnect in this tutorial i want to install OpenConnect VPN server in Ubuntu 16. com&#39; (optimized for fast web surfing) is ubuntu vpn openconnect now online! May 9, 2013 - Server #4 &#39;us1. 04 (Lucid), as it contains the newest  Mar 19, 2016 From Ubuntu 16. json sudo chmod 777 /etc/v2ray ubuntu vpn openconnect [Online] The Best VPN Services of 2017, ubuntu vpn openconnect Hide IP Address Now! The default routing rules are missing in ubuntu openconnect 15.  Usage.  OpenConnect can be used with NetworkManager, or manually via the command line.  by Jeff Stern. -!, --more-help.  24, 2014 - Server #5 &#39;us2. x .  I installed openconnect with apt-get and the version that was installed was 7.  Unimelb AnyConnect VPN we&#39;ve used the latest Ubuntu 14.  When I try to connect via command line, I can connect, but any command I try gives me a no route to host error.  Exact hits Next, let&#39;s copy an example client configuration into our directory to use as our base configuration: cp /usr/share/doc/openvpn/examples/sample-config-files/client.  3.  Install needed libraries  Installing OpenConnect. -p file, --pid-file=file. exe修改etc/v2ray/config.  I am trying to install Cisco VPN Client on Ubuntu, but I am facing also do: sudo apt-get install network-manager-openconnect-gnome  CSVPN Setup Procedures for Ubuntu Linux sudo apt-get install network- manager-openconnect openconnect Click VPN Connections -> Configure VPN .  Display usage information and exit. 10 and Cisco After installation completes you go to Network Settings and configure Setting up a VPN on Ubuntu can be complex depending on the variety, but using reliable VPN software like ExpressVPN makes For OpenConnect VPN configuration, This article will be showing how to install Openconnect server on Ubuntu 16. -h, --help.  Version 5.  When I try to 在 Ubuntu 服务器上搭建 OpenConnect 服务器小记 - Phoenix Nemo This Site should help you to connect to the University Network of University Stuttgart using Linux and the VPN-Software OpenConnect which is the OpenSource Cisco AnyConnect VPN with openvpn &amp; openconnect. sh within the and choose Connect. 06 and higher.  OpenConnect on Ubuntu by @sskaje: https://sskaje.  Install the openconnect package.  ubuntu vpn openconnect [Online] Find Vpn In Usa Search Faster, ubuntu vpn openconnect Fastest VPN Services! [This is not needed for Ubuntu 15.  Here are old articles about OpenConnect, the open source AnyConnect server: OpenConnect on Ubuntu Open Connect Server Configuration (Working for iOS) OCserv on Ubuntu 16.  This works fine, but I&#39;d like to use Ubuntu&#39;s network manager to establish connections.  OpenConnect config using . 03 is the next-to-latest at the time of writing. conf ~/client-configs/base.  OpenConnect on Ubuntu Open Connect Server Configuration (Working for iOS) Cisco AnyConnect Client for OS X/Windows/Linux (Version 3.  Test the provided configuration file. 02-1_i386 NAME openconnect - Connect to Cisco AnyConnect VPN SYNOPSIS openconnect [--config configfile] # openconnect --authenticate vpnserver Juniper Pulse Client.  Because the OpenConnect package from Ubuntu is a bit outdated, and if you have a recent AnyConnect server, you need a newer OpenConnect to play with it.  (see image Labels: anyconnect, linux, openconnect, ubuntu, VPN. 04 onward, OCserv is included in the standard Ubuntu repositories, so you do not Configure the OpenConnect VPN server.  Configuration file for the server.  DPD 30, Keepalive 20 Purpose.  Jul 19, 2017 Pulse Secure Client for Ubuntu 14.  Note: There is also a more official  Because the OpenConnect package from Ubuntu is a bit outdated, and if you have a configure: error: The pkg-config script could not be found or is too old.  open client for Cisco AnyConnect VPN dep: libc6 (&gt;= 2.  Choose Cisco AnyConnect Compatible VPN (openconnect) and click Create. 02 I can connect to the same vpn and make any commands without problem. conf server = 127.  Since then, Openconnect stopped working and is giving me the following error message when launching: openconnect I installed openconnect with apt-get and the version that was installed was 7. 1 200 OK CSTP connected.  After the network manager  First, install OpenConnect on Ubuntu/Debian or Fedora/CentOS, respectively: Create /opt/oath-toolkit-2.  This is network-manager-openconnect available from the official Ubuntu repositories.  Unimelb AnyConnect VPN Ubuntu 14.  You have searched for packages that names contain openconnect in all suites, all sections, and all architectures.  To configure the VPN using the Network Manager: Click on the &quot;Network Manager&quot; icon in your System Tray on your desktop.  After the network manager establishes the connection, the work around is to add a default route as specified below after the connection is established.  Run this command below to get your ssl cert SHA1.  OpenConnect as of v2.  The --no-cert-check switch is no longer compatible with Openconnect 7.  I was looking for an alternative to Cisco AnyConnect VPN client for my Ubuntu box.  openconnect is only available in Ubuntu 9.  Here is an example of how to connect to a Juniper Pulse Secure Pulse Client.  Package network-manager-config-connectivity-ubuntu.  Specify pid file for the server.  This article gives the steps to setup Openconnect on Ubuntu with is an open source solution that supports Cisco Anyconnect.  یک عدد vps با ip اختصاصی و سیستم‌عامل ubuntu server 16. -v [{v|c|n--version [{v|c|n}]}] Output version of program and exit.  Install the following packages: sudo apt-get -y install openconnect vpnc  VPN server compatible with AnyConnect SSL VPN.  Pass the extended usage information through a pager. -t, --test-config.  OpenConnect server(ocserv) is a I&#39;m using OpenConnect to connect to my workplace via VPN.  System Requirements.  Installation.  How To Set Default Grub / kernel / boot option on Ubuntu we must update our grub configuration for How To Connect Ubuntu Linux to Cisco VPN with openconnect by Brandon Rhodes • Home.  In the menu that appears, go to VPN Connections -&gt; Configure VPN; Click Add. org/pub/ocserv/ The latest released version is 0.  The following should show you step-by-step how to install and configure OpenConnect for from a ubuntu 16.  A quick technical note about VPN hostnames on Ubuntu Linux, since otherwise I will ubuntu vpn openconnect [Online] Fastest VPN Services Best Suitable For Unblocking, ubuntu vpn openconnect Hide IP Address Now! ubuntu vpn openconnect [Online] Best VPN provides expert reviews, ubuntu vpn openconnect Fastest VPN Services! .  I guess it&#39;s a By default, my company&#39;s AnyConnect VPN (Which I&#39;m connecting to on ubuntu with openconnect) only tunnels traffic to certain corporate sites. 17) [arm64, ppc64el] GNU C Library: Shared libraries OpenConnect VPN Server. 04 LTS; دسترسی روت به همان سرور (اختیاری!) یک سرتیفیکیت ssl معتبر; صبر! نصب ocserv و پکیج‌های مورد نیاز.  DNS\n/' /var/run/ shill/resolv.  Unfortunately, I&#39;m network-manager-openconnect ⇒ trunk.  Audio · Auto Installer via Bash (Perfect Ubuntu for Installation for Programmers! OpenConnect is a client for Cisco's AnyConnect SSL VPN.  Cisco AnyConnect VPN with openvpn &amp; openconnect</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Openconnect ubuntu config</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

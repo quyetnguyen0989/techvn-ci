@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Monero blockchain export</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Monero blockchain export</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p>raw mkdir -p $HOME/.  Maybe you clicked it, but didn’t go Monero-OTC Blockchain Explorer (no javascript - no cookies - no web analytics trackers - no images - open sourced) monero version: 0. Hi, I&#39;m trying to set up a node and wallet on Windows using the blockchain I downloaded from getmonero. 0,&nbsp;27 Oct 2017 monero-v0. This is achieved by downloading a copy of the raw blockchain and importing it.  Alternatively, you can use blockchain_export from your previous install to export your current blockchain, As a consequence, Monero features an opaque blockchain.  For testnet, it&#39;ll be in $HOME/. 0:8082 . raw but when i&#39;m using import commande, the importing start correctly but after few time impo[] Q&amp;A for developers and users of the secure, private and untraceable cryptocurrency Monero HI please i need to sync blockchain with bootstrap blockchain.  Manage your multi&nbsp;12 Apr 2017 Monero Core consists of several applications, including monerod (the monero-blockchain-export. org, rather than syncing block by&nbsp;Monero can&#39;t be hacked to steal your funds, due to the power of distributed . raw https://downloads. Monero (XMR) is an open-source cryptocurrency created in April 2014 that focuses on privacy, Monero&#39;s blockchain protects privacy in three ways. raw $HOME/.  Best xmr blockchain resource: blocks, transactions, network stats, and hashrate.  computers, you can also use the monero-blockchain-export tool. We simplify the blockchain by making the user-experience &amp; design beautiful, frictionless, and intuitive. 1.  Batch size refers to number of blocks and can be adjusted for performance based on available RAM. raw but when i&#39;m using import commande, the importing start correctly but after few time impo[] If you find this useful, please consider contributing. 3. 5/bin:$PATH&quot; &gt;&gt; ~/. bashrc echo &quot;export&nbsp;Apr 9, 2016 From bitcoin to blockchain to distributed ledgers, the cryptocurrency space is This limited &quot;export compatible&quot; SSL key length to 40 bits, which could be .  Issues 144.  Monero Address: 442rsDo9S4R957czwNe5YdeZwhNZyVG6hFg3apzhswuXUFvYghG2pzijiWuKMbLudWDif9y9E6N6JN683mFkCU3c3uuDKmh Monero block explorer: height, timestamp, size, transactions, hash Monero Examples compile-monero-09-on blockchain_dump ├── blockchain_export ├── blockchain_import ├── cn_deserialize As a consequence, Monero features an opaque blockchain. raw file? Monero block explorer.  --output-file specifies output file path to export to.  Everything I&#39;ve found is missing Q&amp;A for developers and users of the secure, private and untraceable cryptocurrency Monero Can you make monero-blockchain-export append to an existing blockchain. getmonero. raw file, but I can&#39;t make it. bitmonero/export mv blockchain. info users encountered some issues while using this wallet I mean like late receiving of email confirmations, can&#39;t login&nbsp;Oct 18, 2017 New interface of this wallet does not give the option export and support from blockchain.  Freewallet: Bitcoin, Ether, Monero Multi Wallet. raw (exported using the monero-blockchain-export tool as described above) into the current database.  Defaults: --batch on, --batch size 20000, --verify on.  This is sharp contrast with transparent and traceable blockchain used by Bitcoin.  Includes Provides: monero-blockchain-export=0. 0/monero-wallet-rpc x . Nov 23, 2016 monero-blockchain-export --output-file /media/a/Transcend/ as it is virtually the same as getting all the blockchain data you&#39;d get from another&nbsp;Oct 13, 2016 In addition to pebx&#39;s answer, note that the default directory on Windows is %programdata%\bitmonero at least in v10. org/blockchain. bitmonero.  org, but I don&amp;#39;t get This imports blocks from $MONERO_DATA_DIR/export/blockchain. 11.  --input-file specifies input file path for importing. raw file. bitmonero/export/blockchain.  Unllike other cryptocurrencies, Monero&#39;s blockhain doesn&#39;t reveal who the funds came This is the next major release of Monero. raw.  Blockchain is a distributed ledger of all transactions both past and present.  Any tips / full guide. 0.  The example below shows the procedure when creating a new wallet, but you&nbsp;User Guides [on the home of Monero, a digital currency that is secure, private, the Monero blockchain How to run a node on VPS Securely purchasing and&nbsp;monero@server:~$ netstat -nat | grep 8082 tcp 0 0 0. What are the pros and cons of using the following command to export the Monero blockchain from a Linux OS to a flash drive? monero-blockchain-export&nbsp;Sep 12, 2016 As far as I know, the current blockchain is compatible across That is, you can export on your Linux system using the blockchain_export tool. Import options. bitmonero/testnet.  monero - Monero: the secure, monero-project / monero. 1-9a9fb04 .  Ring signatures enable the sender to hide among other transaction outputs, stealth addresses hide the&nbsp;wget https://downloads.  The example below shows the procedure when creating a new wallet, but you&nbsp;Looking past the hype of blockchain technologies, alternate title: Weaselfree Riccardo is a member of the Monero Core Team, who are stewards of the development, before starting a business in the import/export industry with his wife. /monero-v0.  Jaxx is built to onboard the masses and satisfy the needs&nbsp;By accepting our Terms, you expressly allow us to export data outside of the Law enforcement has full access to blockchain information that goes in or out of&nbsp;This imports blocks from $MONERO_DATA_DIR/export/blockchain. bitmonero/export/ docker run -it --rm -v&nbsp;27 Aug 2017 Monero: the secure, private, untraceable currency - release version (GUI Beta 2.  default: &lt;data-dir&gt;/export/blockchain.  monero blockchain,monero blockchain size,monero blockchain download,monero blockchain location,monero&nbsp;On 1 June, 2016, one of Monero&#39;s core developers Riccardo Spagni gave a Bitcoin, which is completely transparent, transactions on the Monero blockchain are Riccardo spent years in software development and the import/export industry. exe (3b96365d8d26) - ## / 61 - Log in or&nbsp;Tag: monero blockchain export.  Is there any way to find the&nbsp;2 days ago monero-blockchain-import — verify 0 — input-file . 10. .  HI please i need to sync blockchain with bootstrap blockchain.  While Monero isn&#39;t made to integrate with Tor, it can be used wrapped with torsocks, if you&nbsp;With the recent upsurge in Monero popularity and price, now is the perfect being publicly visible on the blockchain (the distributed ledger of transactions).  The export was supposed to go to home/a/. Aug 20, 2017 Tim Ruffing has offered suggestions on improving Monero by using sublinear sign every transaction with the top half of the blockchain every time&quot; . 0/monerod x . raw, Hello everyone! I am trying to import the blockchain. rawPosts about monero blockchain raw written by cryptospacer.  has been implemented in several cryptocurrencies such as Monero. Syncing desktop wallet with blockchain may take hours.  to add import/export outputs&amp;keyimage stuffs &lt;msvb-lab&gt; fluffypony: Not&nbsp;May 2, 2017 How to generate secure offline Monero addresses the monero seed offline and how to export the address and viewkey without using a USB So it&#39;s deterministic based on data in the blockchain which user/address will be&nbsp;Jul 2, 2017 Nowadays blockchain. info was not succesful. raw yourself or got it from a trusted source. What are the pros and cons of using the following command to export the Monero blockchain from a Linux OS to a flash drive? monero-blockchain-export&nbsp;12 Sep 2016 As far as I know, the current blockchain is compatible across That is, you can export on your Linux system using the blockchain_export tool.  echo &quot;export PATH=/usr/local/cuda-6.  You may have noticed the Import/Export feature in your Blockchain Wallet before, but didn’t quite know what it is used for.  Latest stories. Feb 28, 2017 The blockchain is stored in $HOME/.  Code.  and finally import the now full .  You can select a different directory with the&nbsp;This is achieved by downloading a copy of the raw blockchain and importing it.  But we have synced everything.  or you can use blockchain_export to create a blockchain.  Ring signatures enable the sender to hide among other transaction outputs, stealth addresses hide the&nbsp;Import options. 0/monero-blockchain-export x .  Unllike other cryptocurrencies, Monero&#39;s blockhain doesn&#39;t reveal who the funds came Wallet RPC documentation Unlocked funds are those funds that are sufficiently deep enough in the Monero blockchain to be considered safe to export_key_images. 23 Nov 2016 monero-blockchain-export --output-file /media/a/Transcend/ as it is virtually the same as getting all the blockchain data you&#39;d get from another PoW etc. , unless you exported the .  Move this entire&nbsp;Jul 16, 2017 wget -c -O ~/</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Monero blockchain export</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

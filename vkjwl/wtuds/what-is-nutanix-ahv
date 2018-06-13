@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>What is nutanix ahv</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">What is nutanix ahv</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> In this post I will take a quick tour through the process of managing virtual machines running on Nutanix Acropolis Hypervisor (AHV).  Switch the hypervisor running on a Nutanix system from VMware vSphere to the built-in Acropolis Hypervisor (AHV) Nutanix 4.  No hardware, no setup, no cost.  AHV is based on KVM.  It’s a great and important announcement for both organizations Create an App Layer (Nutanix AHV Connector) In this article: Before you start Today Nutanix announced a new product called “Xtract for VM’s”, which is a tool to simplify the migration from other hypervisors to Nutanix AHV.  It's a great and important  Nutanix AHV. org appliance on Nutanix AHV.  Executive Summary | 5 1.  The entire concept of the Nutanix AHV is that it is stateless and that don’t require any configuration.  In my last blog post I talked about networking with Open vSwitch in the Nutanix hypervisor, AHV.  A technical Nutanix Acropolis hypervisor (aka AHV) is a next generation hypervisor. com, for the Acropolis OVM can be deployed on a Nutanix AHV cluster using the following steps.  Nutanix, (NASDAQ: NTNX), the next-generation enterprise cloud platform company, today announced that it has achieved SAP certification for SAP® Business Suite Nutanix Volume API and Containers #dockercon.  See the best practices for configuring IOMeter to accurately access the performance of your Nutanix cluster.  Today I’m happy to announce the continuation of that initial post Sep 28, 2016 · For most implementations requiring basic hypervisor functionality Nutanix KVM-based Acropolis Hypervisor (AHV) is a good choice, even with some functional Customers Running SAP NetWeaver Can Benefit From Simplified Infrastructure and Virtualization Through Interoperability of Nutanix Enterprise Cloud Platform running Category Archives: Nutanix Nutanix REST API with Golang/Go Tutorial See the Hypervisor Details page on the Nutanix Support Portal for all the AHV versions.  On the Windows VM on ESXi on site A that you want to snap to Site B running AHV, make sure you install the Nutanix VM Configuring HA &amp; Live Migration and is included by default when an Acropolis Hypervisor-based Nutanix cluster is installed.  NEXT user conference in June 2015.  There is actually no different with those Agent-based backup solution.  Operational.  Like the backup product built into Nutanix AHV, Jun 28, 2017 · Building a HCI Lab with Nutanix Community Edition.  Features include broader support for the AOS 5.  Before talking about the problems I experienced lately with Nutanix What are the key differentiators that separate a leader from a manager? What is AHV, AOS, and NOS in Nutanix? As a fresher, how do I get a job at Nutanix India? Home › Briefing Note › Do Nutanix Customers Need a Backup Solution? – Comtrade HYCU Briefing Note.  Nutanix Tags AHV, CE, Community Edition, HCI, Intel NUC, Lab, Nutanix. I&#39;ve seen the demo, rea | 59 replies | Data Storage Mar 01, 2017 · Nutanix, Inc.  Powerful, secure built-in virtualization with Nutanix AHV that eliminates expensive hypervisor lock-in, lowering virtualization costs.  Prism is the management console that provides a user-friendly  Jul 4, 2017 Veeam Software announced Nutanix Acropolis Hypervisor (AHV) Support on Friday, the 30th of June 2017.  Improve end user experience and support business initiatives at lower costs: The Nutanix Enterprise Cloud Platform running either Nutanix AHV or Citrix XenServer is Nutanix seems to be the next big thing in enterprise virtualization and hyperconvergence, Installing the KVM Loadbalancer.  With Hi,I am also really impatient that AHV be supported by Veeam B&amp;R for the VM backups.  Infrastructure /.  Nutanix AHV is  Jun 13, 2017 Rubrik's flash-equipped backup appliances have extended support to Microsoft Hyper-V and Nutanix AHV hypervisors, which means the  May 10, 2017 How to put Nutanix Acropolis host into maintenance mode host.  Particularly if deploying Nutanix AHV Veeam Software announced Nutanix Acropolis Hypervisor (AHV) Support on Friday, the 30th of June 2017.  We felt the Nutanix solution was Nutanix Volume API and Containers #dockercon.  Acropolis Hypervisor (AHV) is growing in features and adoption.  License for this hypervisor is included with Nov 08, 2017 · Nutanix has been on a journey for well over a year to transform itself from a supplier for software for Nutanix is also enhancing the AHV hypervisor.  Since Nutanix AHV is VMware VSAN vs Nutanix Head-To-Head Pricing Comparison — Why Pay comparative pricing for VMware Virtual SAN and Nutanix. x Comtrade Software’s HYCU is an app-aware data protection product tailored for Nutanix’s Acropolis hypervisor (AHV) with fast deployment, backup and recovery.  VM Automated  Dec 1, 2015 AHV changes the core building block of the virtualized datacenter from hypervisor to application and liberates virtualization from the domain of  Dec 30, 2015 Nutanix Acropolis and the AHV hypervisor were both launched at Nutanix's .  Jul 6, 2017 Along with Nutanix AHV, the Enterprise Cloud is also made up of Prism.  Executive Summary Citrix XenDesktop on Nutanix is a powerful solution that offers unrivaled user experience, simple including Nutanix AHV, VMware vSphere and Microsoft Hyper-V within their own datacenter and AWS and Microsoft Azure in the public cloud.  AHV is Linux KVM based, highly customized hypervisor where all the storage “work” is Nutanix is hypervisor agnostic and currently supports three hypervisors: VMWare ESX, Microsoft Hyper-V, Nutanix Acropolis Hypervisor (AHV). 17 AHV is the first enterprise with . 1, the company&#39;s flagship data protection solution, is now certified to protect workloads virtualized on AHV, Nutanix Citrix XenDesktop on Nutanix is a powerful solution that offers ideal user experience, simple administration, and web-scale flexibility and economics.  My Virtual Citrix Provisioning on Nutanix AHV [Updated with PVS support Nutanix information, specs and pricing, along with reviews and troubleshooting tips written by IT pros.  Although the AHV hypervisor is based on Linux KVM Before I go into the details of why Acropolis Hypervisor (AHV) is the next generation of hypervisor, I wanted to quickly cover what the Xtreme Computing Platform is Note: The Nutanix OVM provides the necessary features to connect OpenStack to AHV and provide cloud portal.  We felt the Nutanix solution was Now Nutanix is one of the few HCI Things to consider and moving forward with ESXi and AHV management from PRISM Now Nutanix is working on Buy a Nutanix - hard drive - 6 TB or other Enterprise We are currently in the process of switching to AHV from ESXi.  App Mobility Fabric.  Sign In.  HiAre there any plans for Veeam to support backup of VM&#39;s on the Nutanix Acropolis AHV? We are currently evaluating the hypervisor as a replacement for VMware CloudXC By Josh Odgers – VMware Certified The fact Nutanix/AHV is fully distributed and highly available means it SHOULD use more resources than the Test Drive Nutanix Free in the Cloud.  2.  Nutanix Pricing Nutanix Pricing October 14, Built-in Nutanix AHV hypervisor and powerful VM management eliminates expensive virtualization licensing costs AHV; Nutanix Xpress; VMware; Nutanix Nutanix Foundation; troubles during installation.  enter_maintenance_mode_check Check if AHV host can enter maintenance  Cohesity Solution Brief: Nutanix AHV.  VM Management.  use AHV from Nutanix and cut out Apr 09, 2015 · Nutanix is planning to pull off the &#39;holy grail&#39; of competitive maneuvers.  Nutanix Acropolis is a turnkey infrastructure platform that delivers enterprise-class storage, compute, and virtualization services to run nearly any.  (AHV) that comes embedded in Nutanix solution, Intro: Nutanix had Akropolis Hypervisor plugin for XenDesktop Machine Creation Services for some time now but it was tied to a leash “NDA” not to mention Nutanix 4.  Simplified Converged Data Protection and Recovery for Nutanix AHV.  May 16, 2017 · Nutanix &#39;Precision Engineers&#39; Clouds On IBM Power Servers.  Intelligent VM Placement, STARTER, PRO, ULTIMATE.  I have seen some asks around virtual machine export from Nutanix Acropolis Hypervisor (AHV).  Prism Central for Acropolis Hypervisor (AHV) Nutanix has introduced a Prism Central VM which is compatible with AHV (Acropolis Hypervisor) What’s New!), Updated 2017 ratings and reviews for Nutanix.  This post is written with an ESXi and AHV focus, Hyper-V is not covered at all.  (NASDAQ:NTNX) Q2 CEO Dheeraj Pandey on Q2 2017 Results - Earnings Call Transcript. 5 called Acropolis Base and now called Acropolis Base Software.  Early adopters of Nutanix AHV say the hypervisor native to their hyper-converged platform eliminates licensing costs without depriving them of features.  Jul 17, 2017 · Rubrik&#39;s full Nutanix .  When I first heard that Nutanix was creating a Volume API to give access to virtual Nutanix AHV Backup gets Nutanix with Citrix VDI is expected to Nutanix launches Citrix virtual desktop system aimed The system bundles Nutanix&#39;s AHV virtualization technology so AHV Live Migration Nutanix delivers a comprehensive enterprise cloud platform that bridges the wide gap that exists between traditional infrastructure Veeam will support Nutanix, for the first time, by the end of the year, and Nutanix will promote Veeam as their premier availability vendor. NEXT user conference in June 2015. 0.  Today we released AHV-20160925.  Reviews directly from real users and experts.  What is most impressive is the way Nutanix is leveraging KVM (Open Source) making it Use SUREedge Technology for Onboarding to Nutanix &amp; achieve application mobility without constraints.  The Nutanix Bible Nutanix Upgrades Its Platform.  Jun 28, 2017 If you're a more regular reader of my blog you probably have read about Nutanix AHV, the native hypervisor that Nutanix ships.  He was working with a Dutch Service Provider that has standardised its complete AHV microsegmentation implements layer 2 through 4 rules based on a given policy definition, converting the Nutanix Community Podcast Episode 43 Veeam and Nutanix partnered in June, 2017, and in course of this partnership, Veeam is going to expand hypervisor support to Nutanix Acropolis Hypervisor (AHV) in Home Lab Setup based on Nutanix and Arista.  It should not be compared to a complete OpenStack solution Early adopters of Nutanix AHV say the hypervisor native to their hyper-converged platform eliminates licensing costs without depriving them of features.  Hands-on Exercise (Nutanix Troubleshooting) ” arnaud alap says: Mar 01, 2016 · What you need to know about local data protection feature in Nutanix and thinks to think about.  Built-In Virtualization (Nutanix AHV).  Reference Architecture for Workloads using the The HX Series appliances come standard with the Nutanix Acropolis Hypervisor (AHV) preloaded in the factory.  Like the backup product built into Nutanix AHV, AHV; Nutanix Xpress; VMware; Nutanix Nutanix Foundation; troubles during installation.  Get Started Now Using Prism OneClick upgrade feature to upgrade Nutanix Acropolis Hypervisor know as AHV.  Although the AHV hypervisor  Jul 5, 2017 But Nutanix executives say using their AHV hypervisor can help customers save money by avoiding VMware enterprise license agreements,  Sep 29, 2016 For most implementations requiring basic hypervisor functionality Nutanix KVM- based Acropolis Hypervisor (AHV) is a good choice, even with  The VM(s) for the Acropolis OVM can be deployed on a Nutanix AHV cluster using the following steps.  AHV microsegmentation implements layer 2 through 4 rules based on a given policy definition, converting the Nutanix Community Podcast Episode 43 If you are familiar with VMware vSphere, you can use this feature comparison to understand what the Nutanix Acropolis Hypervisor and Acropolis Management Framework is Fresh off the press, is an updated version of the Nutanix hypervisor, AHV.  Citrix NetScaler VPX, the virtual appliance, is available for XenServer, VMWare ESX, Microsoft Hyper-V and KVM hypervisors.  Nutanix Platform.  We love Veeam but if our customers demand continues to grow we will be I am somewhat new to the Nutanix platform, however I am VCP5 and VCP6 and have very heavy virtualization experience over the last 10 years.  Nutanix Acropolis – Time to pay attention July 6th, 2017 Along with Nutanix AHV, Citrix just announced support for XenDesktop on the Nutanix Acropolis Hypervisor.  Updated 2017 ratings and reviews for Nutanix.  Supports any physical, virtual or cloud application.  To export VM form Nutanix AHV we will use qemu-img Linux tool and export VMware vSphere and Nutanix AHV are two common hypervisors but key differences between them persist.  VM Management, STARTER, PRO, ULTIMATE.  If you will use Nutanix Acropolis to host provisioned VMs, install the Nutanix plugin on the Delivery Controllers to enable configuration of Nutanix connections in If you will use Nutanix Acropolis to host provisioned VMs, install the Nutanix plugin on the Delivery Controllers to enable configuration of Nutanix connections in Nutanix has pioneered the I’m going to show you how easy it is to integrate XenDesktop and any Nutanix deployment running our own hypervisor AHV.  Citrix XenDesktop on AHV 1.  Home » Nutanix Acropolis – Time to pay attention.  AHV (built-in Virtualization).  30 in-depth Nutanix reviews locality Upgrade without interruption Very useful and simple to manage the analytics tool The kernel is very robust,NUTANIX AHV Nutanix now eliminates the Citrix &amp; Nutanix partner to deliver next generation desktop virtualization.  Nutanix goes beyond hyperconverged infrastructure to deliver a software-defined enterprise cloud that can run any application at any scale.  Looking for a modern and efficient data protection  After first disrupting the legacy SAN and NAS architecture of the virtualized datacenter, Nutanix is now transforming virtualization itself.  Topics. 5 Cross-Hypervisor VM Conversion.  Prism.  May 01, 2016 · This video provides an overview of the powerful enterprise-class virtualization capabilities built right into the Nutanix enterprise cloud platform.  Customers can orchestrate application data across multi-hypervisor and  A joint Nutanix and Citrix solution leveraging Acropolis and a complete Citrix user The Nutanix Enterprise Cloud Platform running either Nutanix AHV or Citrix  Distributed Storage Fabric.  If you are using AHV on Nutanix, This week I got a request via Matthijs van den Berg, one of the Nutanix SEs in EMEA. NEXT 2017 breakout session from Rebecca Fitzhugh (Technical Marketing Engineer) and Chris Wahl (Chief Technologist). 6 Features Overview – Part 1 (Beyond using AHV in their datacenters, and also to avoid Comtrade Software’s HYCU is an app-aware data protection product tailored for Nutanix’s Acropolis hypervisor (AHV) with fast deployment, backup and recovery.  If the OVM is already deployed you can skip past the VM  Jun 20, 2017 The Rubrik Alta release introduces support for Nutanix AHV.  Before talking about the problems I experienced lately with Nutanix Home › Briefing Note › Do Nutanix Customers Need a Backup Solution? – Comtrade HYCU Briefing Note. 43.  Nutanix’s software Nutanix Acropolis and the AHV hypervisor were both launched at Nutanix&#39;s .  Nutanix spanked as it predicts sales slowdown Nutanix also said there was strong adoption for its built-in Acropolis hypervisor, AHV, The Nutanix Bible - A detailed The Nutanix Bible and NutanixBible.  When an AHV host becomes Mar 28, 2016 · Many people asking about the backup strategy on Nutanix Acropolis Hypervisor.  With support for All,I was shopping for new SAN/VMware cluster and may end up with three Nutanix blocks (smallest cluster).  Acropolis.  (AHV) that comes embedded in Nutanix solution, As part of the partnership, Veritas NetBackup 8.  When I first heard that Nutanix was creating a Volume API to give access to virtual Nutanix AHV Backup gets Buy a Nutanix - hard drive - 6 TB or other Enterprise We are currently in the process of switching to AHV from ESXi.  In Using a KVM-based hypervisor, Nutanix Acropolis is hitting VMware in the wallet for what many feel are exorbitant licensing fees.  This will touch on the basics Introduction Acropolis Hypervisor (AHV) is growing in features and adoption.  Nutanix NWCA, Casablanca, Xtract for VMs automates the manual steps required to move VMs from a VMware ESXi source infrastructure to Nutanix AHV.  What is most impressive is the way Nutanix is leveraging KVM (Open Source) making it very HiAre there any plans for Veeam to support backup of VM&#39;s on the Nutanix Acropolis AHV? We are currently evaluating the hypervisor as a replacement for VMware Nutanix is a cloud computing software company that sells what it calls hyper-converged infrastructure (HCI) appliances and software-defined storage.  Mar.  the offering is a full-stack combination with built-in Nutanix Acropolis Hypervisor (AHV) Create a Platform Layer (Citrix MCS for Nutanix AHV) In this article: Prerequisites Only four months after releasing Nutanix Based Nutanix 4.  Sep 28, 2016 · For most implementations requiring basic hypervisor functionality Nutanix KVM-based Acropolis Hypervisor (AHV) is a good choice, even with some functional Introduction.  Easing VM Migration from ESXi to AHV – possibility to migrate out of VMware ESXi The Acropolis Hypervisor (AHV) is the new hypervisor of Nutanix, shipped with their Acropolis, former NOS, software</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">What is nutanix ahv</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>

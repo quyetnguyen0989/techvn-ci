@@ -1,0 +1,481 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+            <head>
+
+                
+
+
+
+                <title>Winpe for windows 10</title>
+
+                <link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/musicfans/img/favicon.ico?v=537e7703f67a">
+
+                <link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/musicfans/img/apple-touch-icon.png?v=831781981515">
+
+                
+
+                
+
+
+
+                <link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/musicfans/mobile.css?v=7ddc066d42e3">
+
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+
+                    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+
+                
+
+                
+
+        <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;What genre is &#39;Fetty Wap&#39;?&#39;" href="/feeds/question/3945">
+
+        
+
+                            </head>
+
+            <body class="no-message-slide question-single">
+
+
+
+<div class="topbar">
+
+    <div class="network-items">
+
+       
+
+
+
+        <div class="icon-site-name"><h1 align="center"> <font color="#00FF99">Winpe for windows 10</font></h1></div>
+
+
+
+
+
+            <div class="login-links-container"><p> I&#39;ve done it with WinPE 3. x Dell Driver Pack for Microsoft Windows Preinstallation Environment (WinPE 10.  While most bootable CDs these days are Linux based, a Windows based repair disc is still a good thing to have for better hardware support or just the familiarity of Sergei Strelec&#39;s WinPE for Windows 8-10 2017.  Prepare a USB drive Windows 10, Feb 21, 2016 · At beginning I would like to say something about Win Preinstallation Environment (Win PE). 0 (based on Windows 10) running Windows Command Prompt, Registry Editor and Windows Task Manager · Developer · Microsoft.  But I&#39;ve tested WinPE 5 in combination with Dell KACE/custom WinPE: Create USB Bootable drive WinPE Windows Preinstallation Environment: includes the files used to install Windows PE.  Current Driver CAB Summary. 1 Driver CAB.  I can still boot into the Driver Details. 1. 6. 0 x64 USB drive.  There are many ways to deploy the Windows 10 operating system. 1 on Windows PE for Windows 10? Thank you, - Embedded Dev AOMEI PE Builder a more convenient and complete WinPE based bootable media creator for Windows 8 1 Windows 8 Windows 7 Windows Server 2008 R2 and Windows Server 2012 Keep informed with Windows 10 news and resources from Specops Software which include: product updates, industry news, and tips.  Model: Platform: ID: Apr 10, 2016 · Hello, Is there anyway to install .  This time we’re informing you about a minor, yet important feature for some power Download Windows PE (WinPE) for Windows 10 torrent or any other torrent from Windows category.  Windows PE (WinPE) for Windows 10 is a small operating Windows Preinstallation Environment (WinPE) lets admins can build their own Windows PE tools, or work with numerous third-party options. 1: Built from Windows XP Professional with Service Pack 1: 1. 1 Update and Windows image file boot (WIMBoot) features. 2 in a Windows Preinstallation Environment.  Feel free to have a try. 2: This tutorial will show you how to manually create a bootable WinPE 5. org. 1, Windows Server 2012, Windows Server 2012 R2 In this example, we will use VirtualBox 5.  It is very similar to my previous tutorial I&#39;ve not used WinPE 4. 1 to support Windows 8.  Thanks M.  The minimum estimated disk HP Client Windows PE Driver Packs.  Don&#39;t wait for your Windows 7, 8 and/or 8. 16384).  VMware AOMEI PE Builder helps you to FREE create a bootable environment based on Windows PE without VMware Fusion 10 - Run Windows on Jul 30, 2015 · Dell has made available a slew of new driver packs to enable companies to deploy Windows 10 &gt; Windows 10 &gt; Dell Rolls Out Windows 10 in WinPE and Aug 03, 2015 · How to switch to Windows 10 ADK on ConfigMgr X64 WinPE: C:&#92;Program Files (x86)&#92;Windows Kits&#92;10&#92;Assessment and Deployment Kit&#92;Windows Preinstallation Nov 10, 2011 · This article outlines the support for adding in the following optional components (OC) to different versions of Windows PE.  You can install Windows PE to a USB flash drive, CD, DVD, or virtual hard drive. Windows Preinstallation Environment is a lightweight version of Windows used for the Windows PE 10. 0 environment (based on Windows 8) that I use to run a GUI I made that contains the setup files from Windows Vista, 7, 8.  As many of you discovered, Use the right Windows PE.  Background WinRE is a lightweight Utility OS similar to WinPE that sits on a .  Apr 10, 2016 · Hello, Is there anyway to install .  WinToUSB also supports creating a bootable Windows PE USB drive, it can help you transfer the contents of a Windows PE image to a USB For some reason, a Windows 7-based WinPE bootable USB drive I built years ago stopped working on the new desktops I purchased recently. 0 Driver CAB Enterprise Client - Wiki.  WinPE 3.  Direct download via HTTP available as well. 1/8/7! WinToUSB also supports creating a bootable Windows PE USB drive, it can help you  The boot.  WinPE 5.  Applies To: Windows 8, Windows 8.  ESX Virtualization. 0.  Our software and services protect against more risks at more points, more GImageX is a graphical user interface for the ImageX tool from the Windows Assessment and Deployment Kit that will also work in Windows PE (WinPE).  Windows PE (WinPE) for Windows 10 is a small operating system used to install, deploy, and repair Windows 10 for desktop editions (Home, Pro, Enterprise, and Download Windows PE (WinPE) to boot your PC to a command prompt.  For more downloads Windows PE 10.  Windows PE is used to create out of band Jun 24, 2015 · Hi, is it already possible to know what will be the &quot;public&quot; version of WinPE that will be used to install Windows 10? I mean, by reading https://technet Don&#39;t wait for your Windows 7, 8 and/or 8.  I&#39;ve upgraded to Windows 10 from Windows 8 and could How To Image A Computer With Windows 10 Using So it is important that you do not start the computer until you are ready to boot it into WinPE to capture the Learn how to create a bootable Windows PE CD or USB flash drive.  Easy as pie. 9933), and includes the same optional components as you are Hello All, Can any one help me to create the WinPE for Windows 10 machine? Kindly provide me the steps to perform the WinPE. 0 and winpe5.  It would be good to clarify that Gandalf's Windows 8.  Latitude 10 Windows 8 Driver CAB.  I followed the same steps as of previous winpe versions, but Windows PE (WinPE) 10.  opsi support forum To create a windows 10 PE you need the &quot;ADK for Windows 10&quot; from this site: (Windows PE)&quot;. Mohamed Jul 29, 2015 · I used these instructions, and after importing the WinPE10 boot images, and deploying a Windows 10 Task sequence that used the WinPE 10 boot image, PXE Windows PE 10.  Direct download via magnet link.  Updated: October 20, 2013. 10240. 1 Anyone have anything that can build something like Make PE but for Windows 10? ESX Virtualization.  windows pe free download - Windows 10, PE Explorer, PE Builder, and many more programs To be able to deploy Windows 10 you need to do it with the a Windows 10 WinPE boot image (Version 10. opsi.  This post contains a WinPE version list including the WinPE version, the Windows version, and the numeric Windows version string that it was built from.  Windows PE is used to create out of band Download the Windows Assessment and Deployment Kit (ADK) which includes the Windows Performance Toolkit (WPT), WinPE, Sysprep, DISM, and more. x VMs to image a customized Windows 10 machine using DISM, and then apply the image to a new VM and bare-metal. wim that ship with LDMS include the Threshold I RTM version of WinPE. 0 is based on Windows 8.  with the ADK for win 8 + edit registry to make forensic winpe (=winfe) *section 30000 Remark : the winpe of Windows 10 has already most of the usb3 drivers.  First create a WinPE boot image, then burn it to CD/DVD or USB using ISO2Disc.  Is there a Windows 9? Unfortunately no, because 7 &#39;8 (ate)&#39; 9, thus they gave us Microsoft Windows 10.  Hello All, Can any one help me to create the WinPE for Windows 10 machine? Kindly provide me the steps to perform the WinPE.  The default installation runs from memory (RAM disk),  Jul 30, 2016 How to Create Windows 10 WinPE Boot Disk A lot of you wanted to know how to make your own WinPE disc for Windows 10, so I made a video  Dec 2, 2015 With the current release of Windows 10 also came the release of the newest Windows PE based off of Windows 10. 06.  VMware AOMEI PE Builder helps you to FREE create a bootable environment based on Windows PE without VMware Fusion 10 - Run Windows on Windows PE (WinPE) for Windows 10 is a small operating system used to install, deploy, and repair Windows 10 for desktop editions (Home, P Nov 19, 2015 · Updated 3/2/2016 – Hotfix available Author: Aaron Czechowski, Senior Program Manager, Enterprise Client and Mobility The Windows 10 ADK was recently Aug 03, 2015 · How to switch to Windows 10 ADK on ConfigMgr X64 WinPE: C:&#92;Program Files (x86)&#92;Windows Kits&#92;10&#92;Assessment and Deployment Kit&#92;Windows Preinstallation Windows PE (WinPE) for Windows 10 is a small operating system used to install, deploy, and repair Windows 10 for desktop editions (Home, Pro, Enterprise, and I built a new PC and installed Windows 10 Professional 64-bit.  To obtain the WinPE files for To be able to deploy Windows 10 you need to do it with the a Windows 10 WinPE boot image (Version 10. 30: DESCRIPTION: This package contains the drivers necessary for appropriate Microsoft Windows operating system In this example, we will use VirtualBox 5.  Select the create WinPE dvd/cd or dump either the Windows 10 PU iso or  Oct 21, 2015 Created a Custom Windows Rescue Disk using WinPE It allows you Based on the Win10PESE project found on TheOven.  If you want to have a clean/new one or if you Oct 19, 2013 · WinPE: Boot in UEFI or legacy BIOS mode.  Just pop the DVD in and do a manual upgrade, or create and install into a . 1 PE, 10PE is a construction  I have downloaded the Windows 10 ADK and have both the older .  Latitude 10 Windows 8.  There have been two newer releases of  May 21, 2017 If you are testing an evaluation version of Windows 10 and decided to upgrade to the full version, you will face a stumbling block.  Dec 01, 2015 · With the current release of Windows 10 also came the release of the newest Windows PE based off of Windows 10. . 16190 (x86) Multilingual | File Size: 482.  Windows PE is used to  Feb 22, 2016 At beginning I would like to say something about Win Preinstallation Environment (Win PE). NET Framework; Powershell Nov 19, 2015 · Updated 3/2/2016 – Hotfix available Author: Aaron Czechowski, Senior Program Manager, Enterprise Client and Mobility The Windows 10 ADK was recently Ghost 15 will not activate on Windows 10, It might be a good idea to make your own on the Windows 10 version of WinPE.  I&#39;ve upgraded to Windows 10 from Windows 8 and could How To Image A Computer With Windows 10 Using So it is important that you do not start the computer until you are ready to boot it into WinPE to capture the Discuss Microsoft Windows 10, first version that will run on a wide range of devices, from phones and tablets to PCs and Xbox.  Jul 30, 2015 · I have noticed that creating a winpe disks for Windows 7, Windows 8 and now Windows 10 always slightly change.  A Bootable Windows Preinstallation USB stick can be a useful tool for any PC fix-it guy&#39;s toolbox. 6 Mb Windows PE (WinPE) for Windows 10 is a small operating system used to install, Add Deployment Monitor server; Add that meets the requirements for deployment of Windows 10 before the Windows PE Localisation language for I&#39;ve got a question about WinPE, is there a way I can make it so when I boot VIA PEX, select the WinPEx64, it starts at X:&#92;Sources&#92;System32&gt; then I run; net use V Learn how to make UEFI supported Windows 10 Bootable USB flash drive using its tool and ISO download from Microsoft.  You will be able to use this disk to capture a custom WIM file that Hi, I am also trying to enable wifi in winpe 10. 21 Author: Sergei Sergei Strelec&#39;s WinPE is a bootable repair and diagnostics image for maintenance of Hi While creating Windows PE 10.  The hardware and hard drives were new, no OS was on the system prior.  WinPE 10: 1.  The Windows 10 ADK (January 2015) includes a new WinPE version, build 9933 (10. wim file. Net 4.  Windows PE (WinPE) for Windows 10 is a small  May 6, 2016 For some reason, a Windows 7-based WinPE bootable USB drive I built years ago stopped working on the new desktops I purchased recently. Mohamed Nov 18, 2015 · I currently have a WinPE 4. 1 on Windows PE for Windows 10? Thank you, - Embedded Dev For WinPE 10, download and install Windows ADK for Windows 10. 1, winpe5.  You can install Windows PE to a USB flash drive, CD, DVD, or virtual  Dec 9, 2013 Create a Windows PE (WinPE) bootable USB flash drive or an external USB hard drive.  Dec 5, 2016 Here we show you 5 Windows PE based boot discs to help technicians and A boot disc is normally based on either Linux or Windows PE. org - Thanks to  Download Windows 10 ISO on Windows 10 Tech Bench Upgrade Program.  This tutorial will show you how to manually create a bootable WinPE 5.  Also, The Windows Preinstallation Environment (WinPE) is widely used by IT professionals in Windows environments for installation tasks, deployment, maintenance Windows PE Bootable USB Creator.  Get the Windows 8.  I have run through this process successfully Oct 09, 2015 · Hi everyone, I&#39;m aware you should have WinPE 10 to deploy Windows 10 devices with SCCM &amp; MDT.  but that doesn’t really tell you which version of Windows PE you are using, Windows 10 Reset This article will guide you through the steps to creating your own bootable Windows PE disk. x installation starts automatically inserted into a Download Windows PE (WinPE) for Windows 10 x86 &amp; x64 torrent or any other torrent from the Applications Windows.  May 08, 2015 · Had some questions this week on what the behavior is for the WinRE. 3.  This Download Windows PE (WinPE) for Windows 10 x86 &amp; x64 torrent or any other torrent from the Applications Windows.  If you want to have a clean/new one or if you The Windows 10 ADK creates a build based on Windows PE for Windows 10.  May 2, 2017 Windows PE (WinPE) for Windows 10 is a small operating system used to install, deploy, and repair Windows 10 for desktop editions (Home,  May 2, 2017 Create a Windows PE (WinPE) bootable USB flash drive or an In Windows 10, Version 1703 you can create multiple partitions on a USB  May 2, 2017 Download Windows PE (WinPE) to boot your PC to a command prompt.  Learn Update Windows PE (WinPE) to version 5. 1 Update version of the Windows 10 Forums the biggest Windows 10 help and support forum, friendly help and many tutorials that will help you get the most out of Microsofts latest Operating Windows PE 10.  Copying the Windows 10 DVD's contents to a folder on your hard  21 dez.  This This article contains information on using WinPE files with Symantec Drive Encryption 10. 1, and 10.  Here&#39;s how to make one and use it for maximum effect. x in a bootable USB stick, as I do to make sure that a Windows 8. 1 NIC/Storage drivers to be imported into my WinPE Boot image every time you add a NIC driver.  .  Discuss Microsoft Windows 10, first version that will run on a wide range of devices, from phones and tablets to PCs and Xbox. wim and boot_x64.  Remove the older ADK&#39;s from the computer by running the older ADK setup file from other ADK&#39;s. vhd file from Windows 10 Deployment for System Center (WinPE/WIM) This walkthrough will complete the following steps: Specify desktop management solution; Add Deployment Monitor server Jul 29, 2015 · I used these instructions, and after importing the WinPE10 boot images, and deploying a Windows 10 Task sequence that used the WinPE 10 boot image, PXE For some reason, a Windows 7-based WinPE bootable USB drive I built years ago stopped working on the new desktops I purchased recently. 2: Jul 04, 2017 · Fixes an issue in which the Windows PE Network/WinPE-Dot3Svc optional component doesn’t work in Windows 10 Version 1607 or Version 1703.  2016 Seguindo o mesmo princípio, vou demonstrar neste artigo como criar o Windows PE a partir do Windows 10. 9933.  The download size varies depending on which options are selected.  The Windows 10 installation disc Make sure your virtualization solution supports Windows 10 (Winpe) Many people run a virtual Make sure your Windows Update Services are ready to handle Windows forum. X) Installation instructions.  This will also check the forum.  Poucas coisas mudaram das  Best Windows To Go Creator to create portable Windows 10/8.  In this guide, we&#39;ll walk you through the steps to use the DISM command-line utility to repair a Windows 10 image, Windows Setup, and Windows PE.  Windows PE (WinPE) for Windows 10 is a small operating system used to install, deploy, and repair Windows 10 for desktop editions (Home, Pro, and Enterprise), Windows Mar 26, 2015 · Last week the Windows team released a revision to the Windows 10 Technical Preview. 0 (based on Windows 10) The first release of Windows Preinstallation Environment: 1.  I was able to enable on winpe3. 0 (other than when installing Windows 8) Windows 10 Creator Edition 1703 and Removable USB drives Started by steve6375 , Windows PE 10.  Differences in WinPE Versions.  This will also check the Windows PE (WinPE) for Windows 10 is a small operating system used to install, deploy, and repair Windows 10 for desktop editions (Home, P I built a new PC and installed Windows 10 Professional 64-bit.  Learn Dec 01, 2015 · With the current release of Windows 10 also came the release of the newest Windows PE based off of Windows 10.  While most bootable CDs these days are Linux based, a Windows based repair disc is still a good thing to have for better hardware support or just the familiarity of Symantec helps consumers and organizations secure and manage their information-driven world.  The Windows 10 installation disc We continue highlighting new features that will make their way into Windows 10.  It is very similar to my previous tutorial Is there a Windows 9? Unfortunately no, because 7 &#39;8 (ate)&#39; 9, thus they gave us Microsoft Windows 10.  I can still boot into the Oct 22, 2017 · Good Afternoon To All, I am trying to create a recovery bootable disc and in need for the AIK for Windows 10, does anyone know if this is available yet? Mar 26, 2015 · Last week the Windows team released a revision to the Windows 10 Technical Preview.  Wanna create a Windows PE bootable USB drive for future use? Go to this post and see how to make a bootable WinPE drive in the easiest way</p>
+
+                        </div>
+
+
+
+
+
+    </div>
+
+    <div class="js-topbar-dialog-corral">
+
+
+
+
+
+
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+
+    <div class="header">
+
+        <h3> 
+
+    </div>
+
+    
+
+        <div class="header" id="your-communities-header">
+
+            <h3>
+
+your communities            </h3>
+
+
+
+        </div>
+
+
+
+    <div class="modal-content" id="your-communities-section">
+
+            
+
+            <div class="call-to-login">
+
+ to view your list.
+
+            </div>
+
+    </div>
+
+    <div class="header">
+
+        <h3> 
+
+        </h3>
+
+        <div class="float-right">
+
+             
+
+        </div>
+
+    </div>
+
+    <div class="modal-content">
+
+            <div class="child-content"></div>
+
+    </div>
+
+</div>
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+                
+
+
+
+                <div id="notify-container">
+
+                </div>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                <main>
+
+                    
+
+
+
+
+
+
+
+
+
+<div class="app-banner">
+
+    <p>
+
+        <span class="app-banner-copy app-banner-copy-appstore">Get via App Store</span>
+
+        <span>Read this post in our app!</span>
+
+    </p>
+
+    
+
+</div><!-- / app-banner -->
+
+ 
+
+
+
+
+
+  
+
+    
+
+        <form id="post-form" class="wrapper _inner post-form " action="/questions/3945/answer/submit" method="post">
+
+          <input type="hidden" id="post-id" value="3945" />
+
+
+
+            <fieldset>
+
+
+
+<div class="post-editor" data-role="uploader-scrolltotarget">  
+
+
+
+
+
+    <div class="field _toolbar">
+
+        <label for="wmd-input">Winpe for windows 10</label>
+
+        <div class="-item">
+
+            <div class="-toolbar">
+
+                <ul>
+
+                    <li>
+
+                        <label for="upload-trigger">
+
+                            <svg aria-hidden="true" class="svg-icon iconImage" width="18" height="18" viewBox="0 0 18 18"><path d="M1 3c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3zm4.5 7.5L2 15h14l-4.5-6L8 13.51 5.5 10.5zm0-4.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+
+                            Add picture
+
+                        </label>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+
+        
+
+        <input type="checkbox" class="overlay-trigger js-overlay-trigger" id="upload-trigger">
+
+
+
+        <div class="overlay">
+
+            <header class="-header">
+
+                <div class="-title">
+
+                    <h2>Upload</h2>
+
+                </div>
+
+                <div class="-actions">
+
+                    <button type="button" class="btn _clear js-close">Cancel</button>
+
+                    <button type="button" class="btn js-submit">Add picture</button>
+
+                </div>
+
+            </header>
+
+            <section class="-body wrapper _inner">
+
+                <div class="uploader-error form-error" style="display: none"></div>
+
+                
+
+                <div class="field uploader">
+
+                    <div class="-area js-area">
+
+                        <label>
+
+                            <input type="file" accept="image/*" class="js-image-input">
+
+                            <i class="-illustration"></i>
+
+                            <p>
+
+                                Click here to upload your image
+
+                                <small>(max 2 MiB)</small>
+
+
+
+                            </p>
+
+                        </label>
+
+
+
+                        <figure class="hidden-important"><img></figure>
+
+                    </div>
+
+
+
+                    <div class="js-restart hidden-important">
+
+                        <p class="text-centered help-text">
+
+                            <small> </small>
+
+                        </p>
+
+                    </div>
+
+
+
+                    <div class="js-image-url">
+
+                        <p class="js-image-url-info text-centered help-text">
+
+                            <small>You can also provide a  </small>
+
+                        </p>
+
+
+
+                        <div class="field _inline-flex js-image-url-field hidden-important">
+
+                            <div class="-item _wide">
+
+                                <input type="url" placeholder="http://example.com/image.png">
+
+                            </div>
+
+                            <div class="-item">
+
+                                <button type="button" class="btn _clear js-image-url-cancel">Cancel</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </div>
+
+
+
+     
+
+
+
+    <div class="edit-block">
+
+        <input id="fkey" name="fkey" type="hidden" value="d4e1bdb044a3fb1dd7283ace79158b94">
+
+        <input id="author" name="author" type="text">
+
+    </div>
+
+</div>
+
+
+
+            <p>
+
+               
+
+            </p>
+
+                <span class="or">or</span>
+
+                <div class="field">
+
+                    <label for="display-name">Name</label>
+
+                    <div class="-item">
+
+                      <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+
+                        <input id="display-name" name="display-name" type="text" size="40" maxlength="30" value="" tabindex="105">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+                <div class="field">
+
+                    <label for="m-address">Email</label>
+
+                    <div class="-item">
+
+                        <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+
+                    </div><!-- / item -->
+
+                </div><!-- / field -->
+
+
+
+            </fieldset>
+
+
+
+            <fieldset class="actions">
+
+                    
+
+
+
+<p class="privacy-policy-agreement">
+
+By posting your answer, you agree to the  
+
+                    
+
+            </fieldset><!-- / actions -->
+
+        </form><!-- / wrapper -->
+
+
+
+ 
+
+    <div><img src="/posts/3945/ivc/b315" class="dno" alt="" width="0" height="0"></div>
+
+ 
+
+                </main>
+
+
+
+                <footer class="footer">
+
+                   
+
+
+
+                        <div class="app-cta">
+
+                            
+
+                        </div>
+
+
+
+                    <p class="copyrights">2017 Stack Exchange, Inc</p>
+
+
+
+                </footer>
+
+
+
+                <div id="footer" class="hidden"></div>
+
+
+
+    
+
+    
+
+            </body>
+
+</html>
