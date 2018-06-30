@@ -167,13 +167,13 @@ website:    http://www.deepakchandra.in
 }
 .iconbox-style-2 .iconbox-icon{
 	font-size: 30px;
-	color: #17415f;
+	color: #228624;
 }
 .iconbox-style-2 h4 {
     margin: 0px 0px 15px;
     font-weight: 600;
-    font-size: 16px;
-    color: #17415f;
+    font-size: 17px;
+    color: #228624;
     line-height: 22px;
 }
 .find-advisor{
@@ -184,8 +184,8 @@ website:    http://www.deepakchandra.in
 /* =  social top
 /*-------------------------------------------------*/
 .social-top{
-	background: #13314c;
-	background: #13314c;
+	background: #228624;
+	background: #228624;
 padding: 8px 0px 0px;
 }
 .social-top ul li{
@@ -230,7 +230,7 @@ padding: 8px 0px 0px;
 	right: 31px;
 	top: 0;
 	width: 42%;
-	background: #F90;
+	background: #228624;
 	height: 100%;
 	-webkit-transform: skewx(-45deg);
 	-ms-transform: skewx(-45deg);
@@ -244,7 +244,7 @@ padding: 8px 0px 0px;
 	right: 0px;
 	top: 0;
 	width: 41%;
-	background: #F90;
+	background: #228624;
 	height: 100%;
 }
 .leading{
@@ -3267,7 +3267,7 @@ padding: 0px 27px;
 	text-transform: uppercase;
 	color: #fff;
 	display: inline-block;
-	background: #ff8606;
+	background: #228624;
 	position: relative;
 	line-height: 40px;
 	padding-left: 27px;
@@ -3505,11 +3505,11 @@ footer .up-footer .info-widget p.first-par {
 }
 .copyright {
 padding: 15px 0;
-background: #090F15;
+background: #228624;
 text-transform: uppercase;
 font-size: 13px;
 font-family: 'Roboto Slab', sans-serif;
-color: #575454;
+color: #228624;
 text-align: center;
 margin: 0;
 }
@@ -3562,7 +3562,7 @@ footer .copyright p{
 }
 .as-social-info-widget > li > a {
 	color: #fff;
-	background-color: #1C232A;
+	background-color: #228624;
 	box-shadow: none;
 }
 footer .up-footer .widget .contact-info li span {
